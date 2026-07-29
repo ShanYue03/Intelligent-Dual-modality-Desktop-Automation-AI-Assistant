@@ -164,6 +164,7 @@ The application provides a modern desktop interface designed for intuitive hands
 
 <img width="1898" height="927" alt="Screenshot 2026-05-23 181508" src="https://github.com/user-attachments/assets/9f1b9639-5923-4451-8e73-dda3ed60d867" />
 
+---
 
 # ⚙️ Technology Stack
 
@@ -265,6 +266,7 @@ The project illustrates how modern AI technologies can be integrated into a prod
 
 <img width="1385" height="587" alt="Screenshot 2026-06-30 215742" src="https://github.com/user-attachments/assets/5ba363a1-f701-447f-b425-6dc4d977c4ad" />
 
+---
 <img width="1230" height="491" alt="Screenshot 2026-06-30 222140" src="https://github.com/user-attachments/assets/c3cc8dec-9971-446a-bac9-326eeadcbb31" />
 
 
