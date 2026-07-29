@@ -1,0 +1,891 @@
+id,language,message,latency,results
+1,en,what is computer science,0.006897,FALSE
+2,en,open YouTube,4.026085,TRUE
+3,en,search Justin Bieber daisies,3.557205,TRUE
+4,en,pause video,0.091267,TRUE
+5,en,play video,0.000989,TRUE
+6,en,stop automation,0.173155,TRUE
+7,en,take screenshot,0.143495,TRUE
+8,zh,你好请帮我打开油管,3.710649,TRUE
+9,zh,search 周杰伦稻香,3.581772,TRUE
+10,zh,play first,1.646013,TRUE
+11,zh,pause video,0.027980,TRUE
+12,zh,play video,0.001114,TRUE
+13,zh,stop automation,0.088775,TRUE
+14,en,hi there please open WhatsApp,2.282342,TRUE
+15,en,select third chat,0.562783,TRUE
+16,en,send message,0.356407,TRUE
+17,en,select third chat,0.556916,TRUE
+18,en,type ok thank you,0.610224,TRUE
+19,en,send message,0.352728,TRUE
+20,en,search user PG,1.169904,TRUE
+21,en,select first chat,0.562606,TRUE
+22,en,clear search,1.292065,TRUE
+23,en,select third chat,0.558178,TRUE
+24,en,stop automation,0.000065,TRUE
+25,zh,我想知道计算机科系在未来20年还吃香吗,0.005051,FALSE
+26,zh,你能告诉我计算机科系在未来20年还能吃香吗,0.006527,FALSE
+27,zh,请打开聊天应用,2.293984,TRUE
+28,zh,请打开聊天应用,2.220651,TRUE
+29,zh,select first chat,0.564126,TRUE
+30,zh,type 正在来着,0.772059,TRUE
+31,zh,send,0.353605,TRUE
+32,zh,选,0.000056,FALSE
+33,zh,select second chat,0.558315,TRUE
+34,zh,type 好的,0.500179,TRUE
+35,zh,clear message,0.457553,TRUE
+36,zh,stop automation,0.000065,TRUE
+37,en,please open WhatsApp,2.226880,TRUE
+38,en,search chat,0.001749,TRUE
+39,en,select third check,0.000068,FALSE
+40,en,stop automation,0.000057,TRUE
+41,zh,请帮我打开油管,0.838410,FALSE
+42,zh,请帮我打开油管,4.312651,TRUE
+43,zh,search 周杰伦,3.546017,TRUE
+44,zh,play first,1.655343,TRUE
+45,zh,pause video,0.072295,TRUE
+46,zh,stop automation,0.109905,TRUE
+47,en,please open WhatsApp,2.579265,TRUE
+48,en,Select second chat,0.560798,TRUE
+49,en,pipe ok no problem,0.000070,FALSE
+50,en,pipe ok no problem,0.000047,FALSE
+51,en,could you type no problem,0.562445,TRUE
+52,en,remove message,0.454448,TRUE
+53,en,search user y r n,1.263228,TRUE
+54,en,clear search,1.259712,TRUE
+55,en,select third chat,0.558042,TRUE
+56,en,search user y r n,1.265991,TRUE
+57,en,search user y r n,1.267967,TRUE
+58,en,search user ABC,1.212675,TRUE
+59,en,select first chat,0.566201,TRUE
+60,en,clear search,1.266199,TRUE
+61,en,stop operation,0.000070,TRUE
+62,en,good morning please open WhatsApp,2.342306,TRUE
+63,en,select first chat,0.579091,TRUE
+64,en,please type oh my god,0.579784,TRUE
+65,en,search user y a n,1.338961,TRUE
+66,en,clear search,1.285813,TRUE
+67,en,select first chat,0.594831,TRUE
+68,en,send,0.431891,TRUE
+69,en,search user PG,1.313249,TRUE
+70,en,select first chat,0.554271,TRUE
+71,en,stop automation,0.000068,TRUE
+72,en,please open Google News,3.698132,TRUE
+73,en,search for news in USA and China,1.032827,TRUE
+74,en,search for news in Sabah,1.097209,TRUE
+75,en,search for fighting news in Kuala Lumpur,0.787642,TRUE
+76,en,stop automation,0.180283,TRUE
+77,zh,请帮我打开油管,3.869225,TRUE
+78,zh,search 林俊杰我怀念的,3.615769,TRUE
+79,zh,play first,1.624783,TRUE
+80,zh,pause video,0.055851,TRUE
+81,zh,play video,0.002308,TRUE
+82,zh,stop automation,0.059104,TRUE
+83,en,please open WhatsApp,2.260680,TRUE
+84,en,select first chat,0.559003,TRUE
+85,en,stop automation,0.000044,TRUE
+86,en,hello please open WhatsApp,2.234169,TRUE
+87,en,select first chat,0.560998,TRUE
+88,en,please type go asla,0.500742,TRUE
+89,en,send message,0.352286,TRUE
+90,en,close automation,0.000077,FALSE
+91,en,stop automation,0.000050,TRUE
+92,en,good morning please open WhatsApp,2.225541,TRUE
+93,en,take screenshot,0.142086,TRUE
+94,en,good morning could you please open YouTube,2.863518,FALSE
+95,zh,你好能打开谷歌新闻吗,2.990451,TRUE
+96,en,open YouTube,0.000615,FALSE
+97,en,search news in Sabah,1.075208,TRUE
+98,zh,Find US News,1.194324,TRUE
+99,zh,请打开油管,25.490863,TRUE
+100,zh,stop automation,0.056247,TRUE
+101,zh,请帮我截图,0.130712,TRUE
+102,zh,请打开WhatsApp,2.247361,TRUE
+103,zh,stop automation,0.000267,TRUE
+104,zh,请问一加一等于多少,0.004690,FALSE
+105,zh,一加一是什么答案,0.000240,FALSE
+106,en,what is the meaning of computer science in software engineering,0.000173,FALSE
+107,en,please open YouTube,4.032646,TRUE
+108,en,search Justin Bieber daisies,3.655471,TRUE
+109,en,stop automation,0.072045,TRUE
+110,en,please open Google Maps,3.054842,TRUE
+111,en,search Melaka sentral,1.124104,TRUE
+112,en,stop automation,0.092534,TRUE
+113,en,open YouTube,2.025457,TRUE
+114,en,search Justin Bieber daisies,3.506817,TRUE
+115,en,play first,1.650599,TRUE
+116,en,pause video,0.081466,TRUE
+117,en,resume music,0.001632,TRUE
+118,en,stop automation,0.048292,TRUE
+119,en,open WhatsApp,2.290242,TRUE
+120,en,select first chat,0.557164,TRUE
+121,en,search user PG,1.174320,TRUE
+122,en,select first chat,0.557533,TRUE
+123,en,clear search,1.264136,TRUE
+124,en,selecta chat,0.000046,FALSE
+125,en,select third chat,0.582370,TRUE
+126,en,stop automation,0.000042,TRUE
+127,zh,打开谷歌新闻,1.973250,TRUE
+128,zh,search 美国新闻,0.060977,TRUE
+129,zh,search 美国新闻,0.008279,TRUE
+130,zh,type 美国新闻,0.011678,TRUE
+131,zh,stop automation,0.081375,TRUE
+132,zh,打开谷歌新闻,1.843279,TRUE
+133,zh,search 美国新闻,0.013122,TRUE
+134,zh,stop automation,0.121773,TRUE
+135,zh,打开油管,3.461973,TRUE
+136,zh,search 林俊杰我怀念的,0.011637,TRUE
+137,zh,stop automation,0.050719,TRUE
+138,zh,打开聊天应用,2.196307,TRUE
+139,zh,select first chat,0.561315,TRUE
+140,zh,search chat 你好,1.775054,TRUE
+141,zh,select first chat,0.585079,TRUE
+142,zh,clear search,1.266580,TRUE
+143,zh,select first chat,0.675830,TRUE
+144,zh,type 你好,0.492199,TRUE
+145,zh,clear conversation,0.000067,FALSE
+146,zh,clear input,0.000052,FALSE
+147,zh,clear message,0.455141,TRUE
+148,zh,stop automation,0.000058,TRUE
+149,en,open my downloads,0.162973,TRUE
+150,en,open WhatsApp,2.349720,TRUE
+151,en,selecta chat,0.002286,FALSE
+152,en,select third chat,0.611984,TRUE
+153,en,search user PG,1.175670,TRUE
+154,en,select first chat,0.556675,TRUE
+155,en,clear search,1.263641,TRUE
+156,en,Select second chat,0.559286,TRUE
+157,en,type message hello,0.628093,TRUE
+158,en,clear message,0.455106,TRUE
+159,en,stop automation,0.000062,TRUE
+160,en,please open YouTube,3.448589,TRUE
+161,en,search Justin Bieber basis,3.636083,TRUE
+162,en,select first,0.001654,FALSE
+163,en,play first,1.678181,TRUE
+164,en,pause video,0.035732,TRUE
+165,en,stop automation,0.069003,TRUE
+166,en,play video,0.002911,TRUE
+167,zh,请打开油管,2.613876,TRUE
+168,zh,search 林俊杰我怀念的,3.558580,TRUE
+169,zh,play first,1.640469,TRUE
+170,zh,play video,0.002303,TRUE
+171,zh,请打开油管,27.399498,TRUE
+172,zh,search 林俊杰我怀念的,3.597132,TRUE
+173,zh,play first,1.704848,TRUE
+174,zh,Turn up the volume,0.503894,TRUE
+175,zh,lower volume,0.372474,TRUE
+176,zh,pause video,0.062688,TRUE
+177,zh,play video,0.007622,TRUE
+178,zh,stop automation,0.063481,TRUE
+179,zh,打开聊天应用,2.266806,TRUE
+180,zh,search 你好,0.000499,TRUE
+181,zh,search chat 好的,1.497729,TRUE
+182,zh,select first chat,0.554517,TRUE
+183,zh,type 好的没问题,0.500715,TRUE
+184,zh,Clear chat,0.000125,FALSE
+185,zh,clear message,0.561061,TRUE
+186,zh,clear search,1.286907,TRUE
+187,zh,select first chat,0.558181,TRUE
+188,zh,stop automation,0.000061,TRUE
+189,zh,打开谷歌新闻,1.742373,TRUE
+190,zh,search 美国新闻,1.106000,TRUE
+191,zh,stop automation,0.220937,TRUE
+192,en,hello please open YouTube,3.356362,TRUE
+193,en,search Justin Bieber Beauty and a Beat,3.579426,TRUE
+194,en,play first,1.727786,TRUE
+195,en,increase volume,0.519234,TRUE
+196,en,decrease volume,0.640251,TRUE
+197,en,pause video,0.007131,TRUE
+198,en,stop automation,0.198684,TRUE
+199,en,take screenshot,0.130365,TRUE
+200,zh,请截屏,0.165474,TRUE
+201,en,good morning please open WhatsApp,2.242936,TRUE
+202,en,select first chat,0.457345,TRUE
+203,en,send message,0.252484,TRUE
+204,en,stop automation,0.000080,TRUE
+205,zh,截图,0.189491,TRUE
+206,en,what is the time today,0.002241,FALSE
+207,en,what is the time today,0.000448,TRUE
+208,en,what time is it,0.000380,TRUE
+209,en,what's the date,0.000060,TRUE
+210,zh,今天是什么日期,0.000126,TRUE
+211,zh,今天是什么时间,0.000121,TRUE
+212,en,what's the date,0.000061,TRUE
+213,en,what time is it,0.000066,TRUE
+214,en,take screenshot,0.141282,TRUE
+215,en,take screenshot,0.132936,TRUE
+216,en,cinta Kai deltin in Yong,0.002077,FALSE
+217,zh,请打开聊天应用,2.258055,TRUE
+218,zh,select second chat,0.563086,TRUE
+219,zh,search chat pg,1.171925,TRUE
+220,zh,select first chat,0.556653,TRUE
+221,zh,stop automation,0.000041,TRUE
+222,zh,截图,0.184187,TRUE
+223,en,what is 1 + 1,0.001897,FALSE
+224,en,3 / 2 =,0.004099,FALSE
+225,en,please open WhatsApp,2.228298,TRUE
+226,en,search user PG,1.176519,TRUE
+227,en,stop automation,0.000052,TRUE
+228,zh,三乘五等于多少,0.009903,FALSE
+229,en,open WhatsApp,2.254379,TRUE
+230,en,Select second chat,0.482961,TRUE
+231,en,stop operation,0.000061,TRUE
+232,zh,请打开聊天应用,2.489643,TRUE
+233,zh,Choose the 2nd chat,0.000248,FALSE
+234,zh,Choose the 2nd chat,0.000104,FALSE
+235,zh,search chat pg,0.769827,TRUE
+236,zh,select first chat,0.469351,TRUE
+237,zh,Choose the 2nd chat,0.000063,FALSE
+238,zh,stop automation,0.000065,TRUE
+239,en,please open Google Maps,4.429684,TRUE
+240,en,search for Melaka,1.184277,TRUE
+241,en,stop automation,0.054428,TRUE
+242,en,please open YouTube,3.406335,TRUE
+243,en,search for Justin,3.730873,TRUE
+244,en,what is 3 + 3,0.001224,FALSE
+245,en,stop automation,0.153184,TRUE
+246,en,could you please open YouTube,3.127380,TRUE
+247,en,search Justin Bieber daisies,3.547125,TRUE
+248,en,stop automation,0.092217,TRUE
+249,zh,请打开聊天机器,1.675759,TRUE
+250,zh,search 什么是ai,2.499729,TRUE
+251,zh,stop automation,0.044265,TRUE
+252,en,please open Google News,1.457739,TRUE
+253,en,what is,0.000070,FALSE
+254,en,what is 1 + 1,0.000094,FALSE
+255,en,search for news in Malaysia,1.139808,TRUE
+256,en,stop automation,0.047070,TRUE
+257,en,please open YouTube,3.039020,TRUE
+258,en,stop automation,0.037846,TRUE
+259,en,please open YouTube,3.233230,TRUE
+260,en,search for Justin Bieber,3.537975,TRUE
+261,en,play first,1.741381,TRUE
+262,en,stop automation,0.058032,TRUE
+263,zh,请打开油管,2.967740,TRUE
+264,zh,search 周杰伦,3.534081,TRUE
+265,zh,play first,1.653601,TRUE
+266,zh,pause video,0.081895,TRUE
+267,zh,stop automation,0.269847,TRUE
+268,zh,请打开聊天应用,2.566063,TRUE
+269,zh,clear search,1.266196,TRUE
+270,zh,select first chat,0.556708,TRUE
+271,zh,select second chat,0.575723,TRUE
+272,zh,type 你,0.847370,TRUE
+273,zh,clear message,0.454262,TRUE
+274,zh,type 好的没问题,0.550934,TRUE
+275,zh,stop automation,0.000055,TRUE
+276,en,please open WhatsApp,2.139694,TRUE
+277,en,Select second chat,0.677959,TRUE
+278,en,how are you today,0.000076,FALSE
+279,en,please type how are you today,0.718704,TRUE
+280,en,clear message,0.454795,TRUE
+281,en,please type I'm fine thank you,0.768757,TRUE
+282,en,clear message,0.469401,TRUE
+283,en,search user PG,1.201080,TRUE
+284,en,stop automation,0.000038,TRUE
+285,zh,请打开聊天应用,2.283413,TRUE
+286,zh,search chat 好的没问题,1.359460,TRUE
+287,zh,clear search,1.377519,TRUE
+288,zh,select third chat,0.596053,TRUE
+289,zh,type 不错哦,0.488905,TRUE
+290,zh,clear message,0.456498,TRUE
+291,zh,type 我现在在用一个机器和你聊天,0.480088,TRUE
+292,zh,clear message,0.455045,TRUE
+293,zh,What is three families and how much is three?,0.000072,FALSE
+294,zh,stop automation,0.000047,TRUE
+295,zh,五X等于多少,0.005109,FALSE
+296,zh,五X等于多少,0.000242,FALSE
+297,zh,三家三等于多少,0.000280,FALSE
+298,zh,删除5等于多少,0.000224,FALSE
+299,en,please open WhatsApp,2.293945,TRUE
+300,en,Select second chat,0.581148,TRUE
+301,en,select first chat,0.583443,TRUE
+302,en,stop automation,0.000047,TRUE
+303,en,what's the date,0.000078,TRUE
+304,zh,现在是什么时间,0.000200,TRUE
+305,zh,今天是什么日期,0.000240,TRUE
+306,zh,打开谷歌地图,1.749439,TRUE
+307,zh,search 马来西亚新闻,0.947143,TRUE
+308,zh,stop automation,0.239062,TRUE
+309,en,what time is it,0.000062,TRUE
+310,en,what's the date,0.000133,TRUE
+311,en,open my downloads,0.284622,TRUE
+312,en,what is the meaning of computer science,0.002296,FALSE
+313,en,please open Google News,1.543358,TRUE
+314,en,search for news in Malaysia,1.029378,TRUE
+315,en,stop automation,0.067941,TRUE
+316,en,hello please open WhatsApp,2.238419,TRUE
+317,en,select first chat,0.463070,TRUE
+318,en,stop automation,0.000050,TRUE
+319,en,please open WhatsApp,2.193502,TRUE
+320,en,good morning please open WhatsApp,2.369610,TRUE
+321,en,stop automation,0.000151,TRUE
+322,en,good morning please open WhatsApp,2.276297,TRUE
+323,en,Select second chat,0.465911,TRUE
+324,en,stop operation,0.000050,TRUE
+325,en,please open WhatsApp,2.252314,TRUE
+326,en,Select second chat,0.464237,TRUE
+327,en,select first chat,0.459793,TRUE
+328,en,send message,0.254846,TRUE
+329,en,stop automation,0.000042,TRUE
+330,zh,请问什么是数据科学,0.004256,FALSE
+331,zh,解释数据科学,0.000293,FALSE
+332,zh,在这个现代社会什么东西最需要,0.000285,FALSE
+333,en,please open WhatsApp,2.253685,TRUE
+334,en,Select second,0.001959,FALSE
+335,en,Select second chat,0.459894,TRUE
+336,en,stop automation,0.000038,TRUE
+337,en,good morning please open WhatsApp,2.242943,TRUE
+338,en,select first chat,0.458937,TRUE
+339,en,stop automation,0.000039,TRUE
+340,en,what's the date,0.000073,TRUE
+341,en,good morning please open WhatsApp,2.223400,TRUE
+342,en,stop all the music,0.002082,FALSE
+343,en,stop automation,0.000053,TRUE
+344,zh,什么是数学体系,0.004011,FALSE
+345,zh,今天是什么时间,0.000111,TRUE
+346,en,open WhatsApp,2.300045,TRUE
+347,en,selected chart,0.001933,FALSE
+348,en,select third chat,0.565174,TRUE
+349,en,type good morning Mum,0.694224,TRUE
+350,en,send,0.355054,TRUE
+351,en,delete the message,0.457744,TRUE
+352,en,stop automation,0.000039,TRUE
+353,zh,打开油管,4.761348,TRUE
+354,zh,search 周兴哲,3.625428,TRUE
+355,zh,play first,1.647368,TRUE
+356,zh,born,0.001804,FALSE
+357,zh,pause video,0.073266,TRUE
+358,zh,play video,0.494833,TRUE
+359,zh,play video,0.010619,TRUE
+360,zh,stop exit,0.000076,FALSE
+361,zh,stop automation,0.106642,TRUE
+362,en,open gesture,0.002982,FALSE
+363,en,open WhatsApp,2.302361,TRUE
+364,en,open the Third,0.001855,FALSE
+365,en,open the third chat,0.562370,TRUE
+366,en,type hello,0.459436,TRUE
+367,en,clear message,0.455042,TRUE
+368,en,type good morning and send,0.799547,TRUE
+369,en,remove & Send,0.000041,FALSE
+370,en,send a message,0.000084,FALSE
+371,en,send a message please,0.000044,FALSE
+372,en,stop automation,0.000043,TRUE
+373,en,hello please open WhatsApp for me,2.245436,TRUE
+374,en,search user PG,1.176016,TRUE
+375,en,select first chat,0.562278,TRUE
+376,en,type hello,0.459038,TRUE
+377,en,clear message,0.456708,TRUE
+378,en,clear search,1.263147,TRUE
+379,en,stop automation,0.000051,TRUE
+380,en,please open YouTube,3.055764,TRUE
+381,en,stop automation,0.077918,TRUE
+382,en,hi open WhatsApp,2.151507,TRUE
+383,en,search user PG,0.774356,TRUE
+384,en,select the first chat,0.458903,TRUE
+385,en,hi good morning,0.000046,FALSE
+386,en,good morning,0.000044,FALSE
+387,en,good morning,0.000074,FALSE
+388,en,enter good morning,0.509788,TRUE
+389,en,stop all the music stop automation,0.000042,TRUE
+390,en,hi open WhatsApp,2.134256,TRUE
+391,en,select first chat,0.459828,TRUE
+392,en,stop automation,0.000048,TRUE
+393,en,hi open WhatsApp,2.145290,TRUE
+394,en,ok,0.000030,FALSE
+395,en,open WhatsApp,0.000059,FALSE
+396,en,stop automation,0.000040,TRUE
+397,en,hi open WhatsApp,2.148977,TRUE
+398,en,select first user,0.000048,FALSE
+399,en,first chat,0.000049,FALSE
+400,en,stop automation,0.000039,TRUE
+401,en,hi open WhatsApp,2.126561,TRUE
+402,en,select first chat,0.457027,TRUE
+403,en,the hello,0.000040,FALSE
+404,en,tear hello,0.000035,FALSE
+405,en,enter High,0.338645,TRUE
+406,en,clear message,0.256131,TRUE
+407,en,run gesture control,0.000044,FALSE
+408,en,stop automation,0.000045,TRUE
+409,en,please open WhatsApp,2.289359,TRUE
+410,en,blah blah blah blah blah,0.002897,FALSE
+411,en,select first chat,0.563679,TRUE
+412,en,Select second chat,0.565642,TRUE
+413,en,blah blah,0.000034,FALSE
+414,en,stop automation,0.000793,TRUE
+415,en,open YouTube,3.050906,TRUE
+416,en,blah blah,0.002662,FALSE
+417,en,search Justin,3.553492,TRUE
+418,en,ok,0.000058,FALSE
+419,en,stop automation,0.062052,TRUE
+420,zh,请打开油管,2.419100,TRUE
+421,zh,search 周杰伦,3.509650,TRUE
+422,zh,OK OK,0.000067,FALSE
+423,en,things that you don't want,0.000134,FALSE
+424,en,stop automation,0.105223,TRUE
+425,zh,今天的日期是什么,0.000118,TRUE
+426,en,open Chat gpt,1.251480,TRUE
+427,en,I don't know what to,0.000573,FALSE
+428,en,launch gastric control,0.000056,FALSE
+429,en,stop automation,0.170480,TRUE
+430,en,open Google Map,0.241610,TRUE
+431,en,open Google News,0.624016,FALSE
+432,en,iPhone,0.002416,FALSE
+433,en,open Google Maps,1.475188,TRUE
+434,en,hello hello,0.000067,FALSE
+435,en,search United States,0.654533,TRUE
+436,en,stop automation,0.074537,TRUE
+437,en,please open WhatsApp,2.241704,TRUE
+438,en,stop stop automation,0.000054,TRUE
+439,en,take screenshot,0.125635,TRUE
+440,zh,请打开聊天应用,2.272594,TRUE
+441,zh,select third chat,0.560900,TRUE
+442,en,things that you are,0.000053,FALSE
+443,en,stop automation,0.000057,TRUE
+444,en,what time is it,0.000066,TRUE
+445,en,what's the date,0.000300,TRUE
+446,en,what's the date,0.000059,TRUE
+447,en,what time is it,0.000073,TRUE
+448,en,take screenshot,0.179414,TRUE
+449,en,just like the orientation methods like you have,0.003618,FALSE
+450,en,please open YouTube,7.285514,TRUE
+451,en,search for Coldplay Yellow,3.882157,TRUE
+452,en,play first,1.870409,TRUE
+453,en,increase volume,0.672779,TRUE
+454,en,pause video,0.143097,TRUE
+455,en,it's not a direct Voice with the system it will not,0.000751,FALSE
+456,en,resume video,0.017907,TRUE
+457,en,pause video,0.016644,TRUE
+458,en,stop auto mission,0.000145,FALSE
+459,en,stop automation currently can,0.135324,TRUE
+460,en,what's the date,0.000524,TRUE
+461,en,what time is it,0.000057,TRUE
+462,en,take screenshot,0.193566,TRUE
+463,en,please switch to gesture control,0.002273,FALSE
+464,zh,你好请打开油管,5.898591,TRUE
+465,zh,search,0.004766,FALSE
+466,zh,search 一半一半,3.604293,TRUE
+467,zh,play first,1.641172,TRUE
+468,zh,Turn up the volume,0.470915,TRUE
+469,zh,Turn down the volume,0.401009,TRUE
+470,zh,pause video,0.112828,TRUE
+471,zh,play video,0.011024,TRUE
+472,zh,stop automation,0.060143,TRUE
+473,en,open WhatsApp,2.253760,TRUE
+474,en,Select second chat,0.458860,TRUE
+475,en,search user y r n,0.864992,TRUE
+476,en,select first chat,0.459491,TRUE
+477,en,search user PG,0.798643,TRUE
+478,en,clear search,0.764183,TRUE
+479,en,select third chat,0.464591,TRUE
+480,en,enter hello from Lee automation,0.873245,TRUE
+481,en,clear message,0.255377,TRUE
+482,en,enter message hello automation,0.962925,TRUE
+483,en,send message,0.253047,TRUE
+484,en,stop automation,0.000053,TRUE
+485,en,open YouTube for me,6.950796,TRUE
+486,en,please search dais,3.499757,TRUE
+487,en,play the first song,1.628299,TRUE
+488,en,increase the volume for me,0.000068,FALSE
+489,en,increase volume,0.387595,TRUE
+490,en,decrease volume,0.452163,TRUE
+491,en,pause the video for me,0.011679,TRUE
+492,en,stop automation,0.229848,TRUE
+493,en,what's the date,0.000087,TRUE
+494,en,hi Friday open YouTube for,3.959437,TRUE
+495,en,please search yummy,3.662125,TRUE
+496,en,please,0.000048,FALSE
+497,en,play the first video for me,1.671872,TRUE
+498,en,increase the volume,0.000069,FALSE
+499,en,increase volume,0.554199,TRUE
+500,en,pause the video,0.038397,TRUE
+501,en,pause the video,0.025022,TRUE
+502,en,stop automation,0.101453,TRUE
+503,en,hi Friday open YouTube for me,7.982952,TRUE
+504,en,thank you,0.000067,FALSE
+505,en,please search baby by,3.673118,TRUE
+506,en,play the first video,1.711730,TRUE
+507,en,increase volume,0.535637,TRUE
+508,en,pause the video,0.008604,TRUE
+509,zh,现在是什么时间,0.000410,TRUE
+510,zh,马来西亚沙巴,0.004267,FALSE
+511,zh,打开手动操作,0.000242,FALSE
+512,en,what time is it,0.000088,TRUE
+513,en,what's the date,0.000060,TRUE
+514,en,he who invented mathematics,0.005300,FALSE
+515,en,who invented Python programming language,0.000191,FALSE
+516,zh,现在是什么时间,0.000286,TRUE
+517,en,please open WhatsApp,2.308165,TRUE
+518,en,select first chat,0.465510,TRUE
+519,en,type message how are you,0.663955,TRUE
+520,en,clear message,0.258438,TRUE
+521,en,type ok,0.296334,TRUE
+522,en,send message,0.254768,TRUE
+523,en,stop automation,0.000072,TRUE
+524,en,please open YouTube,4.993024,TRUE
+525,en,please open Google,0.002690,FALSE
+526,en,please open Google Maps,0.000064,FALSE
+527,en,stop automation,0.082679,TRUE
+528,en,open gesture,0.003032,FALSE
+529,en,what's the date,0.000080,TRUE
+530,en,what time is it,0.000059,TRUE
+531,en,please open Notepad for me,0.818474,TRUE
+532,zh,你好现在是什么日期,0.000112,TRUE
+533,en,open YouTube and search Justin Bieber daisies,7.588746,TRUE
+534,en,thank you play first,1.666168,TRUE
+535,en,the volume is quite loud decrease the,0.000087,FALSE
+536,en,the volume is quite loud decrease the volume,0.000112,FALSE
+537,en,the volume is quite loud decrease volume,0.510050,TRUE
+538,en,decrease volume again,0.461846,TRUE
+539,en,pause the video about,0.067285,TRUE
+540,en,great now resume the video again,0.011180,TRUE
+541,en,stop automation,0.072346,TRUE
+542,zh,请打开谷歌新闻,1.384531,TRUE
+543,zh,search 世界杯新闻,0.848466,TRUE
+544,zh,help me cook,0.000052,FALSE
+545,zh,stop automation,0.062116,TRUE
+546,en,hello please open WhatsApp for me,2.240552,TRUE
+547,en,stop automation,0.000060,TRUE
+548,en,what time is it,0.000328,TRUE
+549,en,thanks for the information please open Notepad for me,0.109494,TRUE
+550,en,what time is it,0.000054,TRUE
+551,en,thanks for the information now please open Notepad,0.067998,TRUE
+552,zh,你好可以告诉我今天的日期是什么吗,0.000179,TRUE
+553,en,hi Friday please open YouTube and search Justin Bieber,7.642220,TRUE
+554,en,search Justin Bieber basis,3.625531,TRUE
+555,en,automation,0.000219,FALSE
+556,en,stop automation stop automation stop,0.057927,TRUE
+557,en,what time is it,0.000057,TRUE
+558,en,thanks for information now please open Notepad,0.081966,TRUE
+559,zh,你好可以告诉我今天的日期是什么,0.000482,TRUE
+560,zh,好的非常感谢,0.000370,FALSE
+561,en,what time is it,0.000070,TRUE
+562,en,thank you for the information please open Notepad for me,0.072593,TRUE
+563,en,hello good morning I would like to open YouTube and search Justin Bieber,7.420826,TRUE
+564,en,search Justin Bieber d,3.642880,TRUE
+565,en,stop automation,0.135567,TRUE
+566,en,hi Friday please open YouTube and search Justin Bieber,7.154285,TRUE
+567,en,search Justin Bieber thesis,3.615741,TRUE
+568,en,search Justin Bieber daisies,3.680918,TRUE
+569,en,stop automation,0.046730,TRUE
+570,en,good morning please open YouTube and search Justin Bieber,7.032576,TRUE
+571,en,search Justin Bieber daisies,3.545441,TRUE
+572,en,could you play first,1.649803,TRUE
+573,en,decrease volume,0.542268,TRUE
+574,en,increase the volume,0.000084,FALSE
+575,en,stop automation,0.060878,TRUE
+576,en,hello good morning please open YouTube,2.919703,TRUE
+577,en,search Justin Bieber thesis,3.636178,TRUE
+578,en,stop automation,0.054956,TRUE
+579,en,hi there open YouTube,2.479367,TRUE
+580,en,great search Justin Bieber,0.000073,FALSE
+581,en,stop automation please,0.068921,TRUE
+582,en,so,0.000206,FALSE
+583,en,hi there open YouTube,2.839860,TRUE
+584,en,search Justin Bieber,3.598473,TRUE
+585,en,could you play first,1.701819,TRUE
+586,en,it's too loud decrease volume,0.419579,TRUE
+587,en,pause video for me,0.014598,TRUE
+588,en,resume video back,0.008048,TRUE
+589,en,pause video,0.009589,TRUE
+590,en,excellent stop automation,0.138634,TRUE
+591,en,hi there open Google News,1.550053,TRUE
+592,en,search FIFA World Cup,1.027077,TRUE
+593,en,I'm hungry please cook for me,0.000116,FALSE
+594,en,ok sure stop automation,0.056653,TRUE
+595,zh,请打开谷歌地图,1.419797,TRUE
+596,zh,search 马来西亚,0.765505,TRUE
+597,zh,search 中国,0.636776,TRUE
+598,zh,search 喜马拉雅,0.341063,TRUE
+599,zh,stop automation,0.059865,TRUE
+600,en,hi I would like to open WhatsApp,2.162557,TRUE
+601,en,select first chat,0.458549,TRUE
+602,en,search user PG,0.773202,TRUE
+603,en,select first chat,0.462493,TRUE
+604,en,stop automation,0.000044,TRUE
+605,en,good morning please open WhatsApp,2.143828,TRUE
+606,en,search user PG,0.769001,TRUE
+607,en,clear search,0.762281,TRUE
+608,en,search user you,0.850775,TRUE
+609,en,select first chat,0.462602,TRUE
+610,en,stop automation,0.000046,TRUE
+611,en,open WhatsApp,2.142228,TRUE
+612,en,select first chat,0.456300,TRUE
+613,en,search user PG,0.828429,TRUE
+614,en,first check,0.000038,FALSE
+615,en,select first chat,0.460323,TRUE
+616,en,clear search,0.782021,TRUE
+617,en,select third chat,0.457749,TRUE
+618,en,search user you,0.847632,TRUE
+619,en,select first chat,0.460754,TRUE
+620,en,stop automation,0.000049,TRUE
+621,en,what time is it,0.000314,TRUE
+622,en,thank you for information now please open Notepad,0.186224,TRUE
+623,zh,可以告诉我今天的日期是什么,0.000172,TRUE
+624,en,hi there please open YouTube,3.967035,TRUE
+625,en,search Justin Bieber dais,3.694287,TRUE
+626,en,ok play first,1.665307,TRUE
+627,en,it's too loud decrease volume,0.429993,TRUE
+628,en,thank you please pause video,0.091741,TRUE
+629,en,resume video back,0.015443,TRUE
+630,en,pause video,0.008860,TRUE
+631,en,no stop automation,0.163466,TRUE
+632,en,good morning open YouTube and search Justin Bieber,7.054476,TRUE
+633,en,search daisies,3.645773,TRUE
+634,en,ok play first,1.694540,TRUE
+635,en,the volume is too loud decrease volume,0.601416,TRUE
+636,en,pause video,0.011569,TRUE
+637,en,resume video back,0.017357,TRUE
+638,en,please increase volume,0.441571,TRUE
+639,en,pause video,0.019624,TRUE
+640,en,stop automation,0.083792,TRUE
+641,zh,请打开谷歌地图,1.708064,TRUE
+642,zh,search 马六甲,0.865716,TRUE
+643,zh,help me cook,0.000103,FALSE
+644,zh,stop automation,0.095244,TRUE
+645,zh,你好请打开谷歌新闻,1.556249,TRUE
+646,zh,search 世界杯,1.192125,TRUE
+647,zh,I'm a little hungry. Can you help me cook?,0.000088,FALSE
+648,zh,stop automation,0.086401,TRUE
+649,en,hi there please open WhatsApp,2.258664,TRUE
+650,en,select dirt chat,0.000037,FALSE
+651,en,stop automation,0.000045,TRUE
+652,en,hi please open WhatsApp,2.142173,TRUE
+653,en,Select second chat,0.459565,TRUE
+654,en,search user you,0.815447,TRUE
+655,en,thank you select first chat,0.000045,FALSE
+656,en,select first chat,0.461630,TRUE
+657,en,stop automation,0.000051,TRUE
+658,en,good morning please open WhatsApp,2.136245,TRUE
+659,en,please select second chat,0.462126,TRUE
+660,en,search user you,0.808571,TRUE
+661,en,select first chat,0.459967,TRUE
+662,en,are you please enter how are you,0.000043,FALSE
+663,en,stop automation,0.000069,TRUE
+664,en,hi there please open WhatsApp,2.143961,TRUE
+665,en,Select second chat,0.462359,TRUE
+666,en,search user you,0.802769,TRUE
+667,en,select first chat,0.486671,TRUE
+668,en,how are you today from automation,0.000036,FALSE
+669,en,stop auto music,0.000030,FALSE
+670,en,stop automation,0.000039,TRUE
+671,en,hi there please open WhatsApp,2.151811,TRUE
+672,en,Select second chat,0.459575,TRUE
+673,en,search user you,0.802764,TRUE
+674,en,select first chat,0.462119,TRUE
+675,en,enter high from automation,0.682247,TRUE
+676,en,clear message,0.255652,TRUE
+677,en,enter good morning automation,0.745365,TRUE
+678,en,send message,0.253602,TRUE
+679,en,thank you stop automation,0.000062,TRUE
+680,en,what time is it,0.000812,TRUE
+681,en,thank you for the information could you please open Notepad,0.180189,TRUE
+682,zh,你好今天是什么日期,0.000264,TRUE
+683,en,what time is it,0.000083,TRUE
+684,en,thank you for the information please open Notepad,0.092400,TRUE
+685,zh,你好今天的日期是什么,0.000114,TRUE
+686,en,good morning please open YouTube for me,9.025152,TRUE
+687,en,search Justin Bieber basis,3.589277,TRUE
+688,en,stop automation,0.125332,TRUE
+689,en,what time is it,0.000069,TRUE
+690,en,what time is it,0.000056,TRUE
+691,en,thanks for your information now open Notepad,0.086574,TRUE
+692,zh,Hello你好今天是什么日期,0.000146,TRUE
+693,en,hello please open YouTube,3.034193,TRUE
+694,en,search Justin Bieber,3.638756,TRUE
+695,en,select first,0.001108,FALSE
+696,en,functions either in conversation or system action,0.000084,FALSE
+697,en,stop automation,0.055428,TRUE
+698,en,hello open YouTube,3.043810,TRUE
+699,en,search Justin Bieber,3.642913,TRUE
+700,en,alright play first,1.708150,TRUE
+701,en,it's too loud decrease volume,0.502921,TRUE
+702,en,pause video,0.090218,TRUE
+703,en,stop automation,0.200005,TRUE
+704,en,what time is it,0.000067,TRUE
+705,en,thanks for the information now please open Notepad,0.075383,TRUE
+706,zh,你好能告诉我现在是什么日期吗,0.000128,TRUE
+707,en,hi there please open YouTube,3.079108,TRUE
+708,en,search for Justin Bieber,3.618518,TRUE
+709,en,play first,1.700163,TRUE
+710,en,the volume is too loud decrease volume,0.560364,TRUE
+711,en,increase volume,0.502981,TRUE
+712,en,help me to pause video,0.022335,TRUE
+713,en,stop automation,0.063135,TRUE
+714,en,what time is it,0.000083,TRUE
+715,en,please open Notepad,0.075863,TRUE
+716,zh,Hello你好请问今天是什么日期,0.000110,TRUE
+717,en,hi please open YouTube,2.905336,TRUE
+718,en,search Justin Bieber,3.671349,TRUE
+719,en,thank you play first,1.745685,TRUE
+720,en,the volume is too loud decrease volume,0.502462,TRUE
+721,en,thank you pause video,0.010888,TRUE
+722,en,resume video,0.010700,TRUE
+723,en,stop video,0.000100,FALSE
+724,en,pause video,0.010032,TRUE
+725,en,stop automation,0.149085,TRUE
+726,en,hi please open WhatsApp,2.247347,TRUE
+727,en,select first chat,0.457148,TRUE
+728,en,search user you,0.803660,TRUE
+729,en,select first chat,0.459537,TRUE
+730,en,enter hello from automation,0.725888,TRUE
+731,en,clear message,0.254647,TRUE
+732,en,enter I am myself,0.519069,TRUE
+733,en,send message,0.253942,TRUE
+734,en,stop automation,0.000039,TRUE
+735,en,what time is it,0.000074,TRUE
+736,en,thanks for information now open Notepad,0.092154,TRUE
+737,zh,Hello你好请问今天是什么日期,0.000119,TRUE
+738,en,hi there please open YouTube,3.488686,TRUE
+739,en,search Justin Bieber,3.624752,TRUE
+740,en,ok play first,1.799641,TRUE
+741,en,the volume is too loud increase volume,0.504274,TRUE
+742,en,decrease volume,0.535488,TRUE
+743,en,pause video,0.017824,TRUE
+744,en,stop automation,0.065484,TRUE
+745,en,what time is it,0.000081,TRUE
+746,en,thank you for your information open Notepad,0.073501,TRUE
+747,zh,你好请问今天是什么日期,0.000145,TRUE
+748,en,hi please open YouTube,2.822214,TRUE
+749,en,search Justin Bieber,3.667528,TRUE
+750,en,search Justin Bieber daisies,3.564525,TRUE
+751,en,ok play first,1.724569,TRUE
+752,en,the volume is too loud decrease volume,0.632308,TRUE
+753,en,increase volume,0.521699,TRUE
+754,en,pause video,0.011540,TRUE
+755,en,resume video,0.011101,TRUE
+756,en,pause video,0.015865,TRUE
+757,en,alright stop automation,0.079997,TRUE
+758,zh,请打开谷歌地图,3.372098,TRUE
+759,zh,search 马六甲,0.849186,TRUE
+760,zh,search 喜马拉雅,0.368482,TRUE
+761,zh,stop automation,0.077654,TRUE
+762,en,hello good evening please open WhatsApp,2.165936,TRUE
+763,en,select first chat,0.463384,TRUE
+764,en,search user you,0.803343,TRUE
+765,en,select first chat,0.457129,TRUE
+766,en,enter How are you from automation,0.829037,TRUE
+767,en,clear message,0.255052,TRUE
+768,en,enter this is automation again,0.765125,TRUE
+769,en,send message,0.254578,TRUE
+770,en,stop automation,0.000037,TRUE
+771,en,thank you for your time,0.002389,FALSE
+772,en,thank you for your time,0.005168,FALSE
+773,en,thank you for your time have a nice day,0.000174,FALSE
+774,en,thank you Friday for your help,0.000139,FALSE
+775,en,please open WhatsApp,2.314897,TRUE
+776,en,Select second chat,0.462092,TRUE
+777,en,search user you,0.806500,TRUE
+778,en,Select second chat,0.456008,TRUE
+779,en,stop automation,0.000061,TRUE
+780,en,what time is it,0.000824,TRUE
+781,en,fantastic now open Notepad for me,0.198949,TRUE
+782,zh,Hi你好能告诉我今天是什么日期吗,0.000232,TRUE
+783,en,what time is it,0.001057,TRUE
+784,en,please open Notepad for me,0.189728,TRUE
+785,zh,Hi你好请问今天的日期是什么,0.000269,TRUE
+786,en,hey please open YouTube,5.292185,TRUE
+787,en,alright search Justin Bieber,0.003185,FALSE
+788,en,search Justin Bieber,3.626537,TRUE
+789,en,could you play me the first one,1.745062,TRUE
+790,en,pause video,0.118704,TRUE
+791,en,stop automation,0.102101,TRUE
+792,en,what time is it,0.000074,TRUE
+793,en,open Notepad for me,0.106943,TRUE
+794,zh,你好今天的日期是什么,0.000239,TRUE
+795,zh,好的谢谢你那一家三等,0.000835,FALSE
+796,zh,Hello I would like to open YouTube,3.072371,TRUE
+797,zh,pieces yellow,0.000142,FALSE
+798,zh,stop automation,0.089340,TRUE
+799,en,hello please open YouTube,2.345580,TRUE
+800,en,thank you please search Yellow,0.000071,FALSE
+801,en,search Yellow,3.549223,TRUE
+802,en,play the first one,1.689694,TRUE
+803,en,pause video,0.011606,TRUE
+804,en,resume video,0.008919,TRUE
+805,en,increase volume,0.426986,TRUE
+806,en,increase the volume,0.000058,FALSE
+807,en,decrease volume,0.400275,TRUE
+808,en,stop pause video,0.010771,TRUE
+809,en,stop automation,0.085050,TRUE
+810,en,what time is it,0.000068,TRUE
+811,en,open Notepad,0.100258,TRUE
+812,en,hello please open YouTube,2.722149,TRUE
+813,en,search Yellow,3.610730,TRUE
+814,en,ok play the first one,1.667856,TRUE
+815,en,could you increase the volume,0.000079,FALSE
+816,en,increase the volume,0.000064,FALSE
+817,en,could you increase volume,0.457140,TRUE
+818,en,pause video,0.010964,TRUE
+819,en,pause video,0.008296,TRUE
+820,en,thank you stop automation,0.073107,TRUE
+821,en,hello please open WhatsApp,2.224373,TRUE
+822,en,thank you select first chat,0.000039,FALSE
+823,en,select first chat,0.468354,TRUE
+824,en,search user PG,0.770526,TRUE
+825,en,select first chat,0.457399,TRUE
+826,en,hi how are you today,0.000044,FALSE
+827,en,do you want to play badminton today,0.000050,FALSE
+828,en,enter do you want to play badminton today,1.037985,TRUE
+829,en,clear message,0.257793,TRUE
+830,en,stop automation,0.000054,TRUE
+831,en,thank you for information now open Notepad,0.103535,TRUE
+832,en,hi please open YouTube,2.582248,TRUE
+833,en,search Yellow,3.594237,TRUE
+834,en,ok play the first video,1.693368,TRUE
+835,en,thanks increase volume,0.403816,TRUE
+836,en,resume video,0.007799,TRUE
+837,en,pause video,0.007303,TRUE
+838,en,thank you stop automation,0.048354,TRUE
+839,en,hi please open WhatsApp,2.161601,TRUE
+840,en,select first chat,0.456317,TRUE
+841,en,thank you stop automation,0.000048,TRUE
+842,en,open Notepad for me,0.110232,TRUE
+843,en,good morning please open YouTube,2.927943,TRUE
+844,en,search Yellow,3.627561,TRUE
+845,en,ok play the first video,1.670826,TRUE
+846,en,thanks increase volume,0.536132,TRUE
+847,en,pause video,0.009960,TRUE
+848,en,pause video,0.010370,TRUE
+849,en,stop automation,0.113277,TRUE
+850,en,hi please open WhatsApp,2.151165,TRUE
+851,en,Select second chat,0.458749,TRUE
+852,en,enter location,0.435858,TRUE
+853,en,clear message,0.256541,TRUE
+854,en,enter no problem,0.465621,TRUE
+855,en,stop automation,0.000046,TRUE
+856,en,thank you for your information open Notepad,0.188516,TRUE
+857,en,hello please open YouTube,3.721974,TRUE
+858,en,search Yellow,3.639180,TRUE
+859,en,ok play first,14.123960,TRUE
+860,en,pause video,0.084845,TRUE
+861,en,pause video,0.008803,TRUE
+862,en,stop automation,0.126840,TRUE
+863,en,hi please open WhatsApp,2.229081,TRUE
+864,en,select first check,0.000044,FALSE
+865,en,select first chat,0.458148,TRUE
+866,en,select third chat,0.455835,TRUE
+867,en,search user you,0.801339,TRUE
+868,en,select first chat,0.461587,TRUE
+869,en,hi how are you today,0.000062,FALSE
+870,en,enter how are you today,0.612600,TRUE
+871,en,stop automation,0.000055,TRUE
+872,en,hello could you open YouTube,2.503827,TRUE
+873,en,search Yellow,3.627200,TRUE
+874,en,ok could you play first,1.672704,TRUE
+875,en,stop automation,0.043687,TRUE
+876,en,thank you for information please open Notepad,0.333562,TRUE
+877,en,hi there please open YouTube,4.192290,TRUE
+878,en,search Yellow,3.633130,TRUE
+879,en,ok play first,1.669309,TRUE
+880,en,could you increase volume,0.490665,TRUE
+881,en,pause video,0.084621,TRUE
+882,en,stop automation,0.078783,TRUE
+883,en,hi please open WhatsApp,2.227715,TRUE
+884,en,Select second chat,0.459585,TRUE
+885,en,enter do you want to play badminton this is my,1.133110,TRUE
+886,en,send message,0.254198,TRUE
+887,en,thank you stop automation,0.000067,TRUE
+888,en,hi good morning open WhatsApp,2.260931,TRUE
+889,en,select first chat,0.461283,TRUE
+890,en,stop automation,0.000043,TRUE

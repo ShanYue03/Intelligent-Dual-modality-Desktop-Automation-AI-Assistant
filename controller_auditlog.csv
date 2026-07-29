@@ -1,0 +1,1420 @@
+id,user,timestamp,action,status,response_time,cpu_utilization,memory_usage
+1,Lee,2026-05-16T16:26:41.652+08:00,Gesture Control: Zoom gestures,ok,7.69,20.0565,6.9934
+2,Lee,2026-05-16T16:29:15.603+08:00,Voice Assistant: Open my downloads,ok,171.11,68.0522,3.4455
+3,Lee,2026-05-16T16:34:41.076+08:00,Voice Assistant: What is today's date,ok,1169.91,12.7715,15.2202
+4,Lee,2026-05-16T16:36:05.983+08:00,Voice Assistant: Good Morning How are you,ok,433.43,12.1155,4.9467
+5,Lee,2026-05-16T16:36:30.032+08:00,Voice Assistant: Open Google News,ok,1033.92,68.9688,8.2578
+6,Lee,2026-05-16T16:37:34.654+08:00,Voice Assistant: Open YouTube,ok,488.65,18.7113,14.0930
+7,Lee,2026-05-16T16:42:55.157+08:00,Gesture Control: Pinch gestures,ok,11.31,4.6886,1.8742
+8,Lee,2026-05-16T16:43:56.945+08:00,Voice Assistant: Tell me what is 1 + 4,ok,462.76,19.7549,15.2166
+9,Lee,2026-05-16T16:45:43.445+08:00,Voice Assistant: Take screenshot,ok,1570.56,15.0814,10.1569
+10,Lee,2026-05-16T16:47:17.298+08:00,Gesture Control: Drag and drop,ok,2.81,5.1465,1.6769
+11,Lee,2026-05-16T16:48:10.135+08:00,Voice Assistant: Tell me what is computer science,ok,789.82,17.8794,8.2916
+12,Lee,2026-05-17T21:41:36.629+08:00,Gesture Control: Double click,ok,0.59,14.6849,6.6244
+13,Lee,2026-05-17T21:43:11.945+08:00,Voice Assistant: Tell me what is 1 / 4,ok,1278.70,13.9820,11.5621
+14,Lee,2026-05-18T13:52:46.463+08:00,Voice Assistant: open youtube,ok,1190.94,16.2218,14.2228
+15,Lee,2026-05-18T13:53:18.307+08:00,Voice Assistant: Voice command,ok,167.73,14.5681,11.2399
+16,Lee,2026-05-18T13:53:58.211+08:00,Gesture Control: Cursor movement,ok,6.82,10.9536,8.4588
+17,Lee,2026-05-18T13:57:33.456+08:00,Voice Assistant: take screenshot,ok,1464.23,27.5556,10.4666
+18,Lee,2026-05-18T13:57:49.766+08:00,Voice Assistant: good morning please open WhatsApp,ok,3274.50,54.7423,7.7297
+19,Lee,2026-05-18T13:59:17.645+08:00,Gesture Control: Cursor movement,ok,7.87,15.6894,4.2863
+20,Lee,2026-05-18T14:21:14.061+08:00,Gesture Control: Session ended,ok,2.07,24.0359,8.1152
+21,Lee,2026-05-18T14:21:45.341+08:00,Voice Assistant: Voice command,ok,3259.82,8.3546,3.7265
+22,Lee,2026-05-18T14:29:54.468+08:00,Gesture Control: Drag and drop,ok,4.09,27.0955,4.3264
+23,Lee,2026-05-18T14:32:34.396+08:00,Voice Assistant: Voice command,ok,1546.14,32.9451,12.7825
+24,Lee,2026-05-18T14:32:49.312+08:00,Voice Assistant: Take screenshot,ok,399.14,51.6541,15.8300
+25,Lee,2026-05-18T14:36:04.713+08:00,Gesture Control: Cursor movement,ok,2.81,9.4840,3.0567
+26,Lee,2026-05-18T14:38:16.020+08:00,Gesture Control: Cursor movement,ok,1.19,11.3573,6.4341
+27,Lee,2026-05-18T14:41:03.419+08:00,Gesture Control: Cursor movement,ok,4.78,23.0074,6.2466
+28,Lee,2026-05-18T14:52:03.964+08:00,Gesture Control: Cursor movement,ok,8.84,18.8796,6.0352
+29,Lee,2026-05-18T14:57:30.319+08:00,Gesture Control: Pinch gestures,ok,3.17,15.7490,3.2705
+30,Lee,2026-05-18T15:04:28.483+08:00,Gesture Control: Cursor movement,ok,9.33,7.4433,5.8489
+31,Lee,2026-05-18T15:10:28.353+08:00,Voice Assistant: Open YouTube,ok,565.59,20.6166,4.0853
+32,Lee,2026-05-18T15:17:30.111+08:00,Voice Assistant: Voice command,ok,539.07,33.6209,10.1633
+33,Lee,2026-05-18T15:18:06.785+08:00,Voice Assistant: Voice command,ok,1406.29,38.5136,4.6814
+34,Lee,2026-05-18T15:25:22.585+08:00,Voice Assistant: Hello may I know the meaning of data science,ok,2875.11,26.8988,11.8436
+35,Lee,2026-05-18T15:26:36.203+08:00,Voice Assistant: 你好能打开谷歌新闻吗,ok,58.64,14.4020,4.4113
+36,Lee,2026-05-18T15:27:02.805+08:00,Voice Assistant: Open YouTube,ok,723.23,24.5238,15.7111
+37,Lee,2026-05-18T15:27:29.354+08:00,Voice Assistant: Search news in Sabah,ok,692.66,38.3125,16.2561
+38,Lee,2026-05-18T15:28:06.594+08:00,Voice Assistant: 寻找美国新闻,ok,888.41,11.9342,8.4357
+39,Lee,2026-05-18T15:32:21.373+08:00,Gesture Control: Cursor movement,ok,5.24,6.2273,2.3477
+40,Lee,2026-05-18T21:08:16.547+08:00,Voice Assistant: Tell me what is 1 / 4,ok,131.72,11.0975,9.3670
+41,Lee,2026-05-18T21:46:26.156+08:00,Voice Assistant: No speech detected,ok,1229.23,11.3953,15.9432
+42,Lee,2026-05-18T21:47:03.582+08:00,Voice Assistant: Hi what is the meaning of computer science,ok,174.50,19.3064,7.1858
+43,Lee,2026-05-18T21:52:58.007+08:00,Voice Assistant: 请打开油管,ok,1957.45,48.5774,11.6061
+44,Lee,2026-05-18T21:53:18.849+08:00,Voice Assistant: 停止自动化,ok,866.32,11.0981,14.3596
+45,Lee,2026-05-18T22:01:24.072+08:00,Voice Assistant: 请帮我截图,ok,2902.09,33.6709,12.9229
+46,Lee,2026-05-18T22:06:29.577+08:00,Voice Assistant: 请打开WhatsApp,ok,1461.38,10.5009,13.9281
+47,Lee,2026-05-18T22:06:45.401+08:00,Voice Assistant: 停止自动化,ok,1252.59,16.7379,8.9620
+48,Lee,2026-05-18T22:16:50.542+08:00,Voice Assistant: Hey Friday open downloads,ok,1232.91,33.4150,11.1114
+49,Lee,2026-05-18T22:17:48.901+08:00,Voice Assistant: Hey Friday open my downloads,ok,904.66,7.4584,5.1463
+50,Lee,2026-05-18T22:18:31.744+08:00,Voice Assistant: 请问一加一等于多少,ok,1537.55,35.9850,6.2988
+51,Lee,2026-05-18T22:20:05.788+08:00,Voice Assistant: 一加一是什么答案,ok,2556.38,46.4170,13.0861
+52,Lee,2026-05-18T22:21:01.467+08:00,Voice Assistant: 能否告诉我一加一等于什么,ok,470.71,35.1831,8.6448
+53,Lee,2026-05-18T22:22:32.212+08:00,Voice Assistant: Can you tell me what is computer science in software engineering,ok,1764.42,54.1974,10.9267
+54,Lee,2026-05-18T22:33:24.793+08:00,Gesture Control: Cursor movement,ok,2.64,16.6420,2.7843
+55,Lee,2026-05-18T23:39:56.065+08:00,Voice Assistant: Please open YouTube,ok,201.60,11.6019,16.5166
+56,Lee,2026-05-18T23:40:20.142+08:00,Voice Assistant: Search Justin Bieber daisies,ok,338.21,57.7246,3.1513
+57,Lee,2026-05-18T23:40:32.892+08:00,Voice Assistant: Stop automation,ok,525.21,8.3184,8.5087
+58,Lee,2026-05-18T23:46:02.575+08:00,Voice Assistant: Please open Google Maps,ok,253.25,17.6105,8.7232
+59,Lee,2026-05-18T23:46:13.527+08:00,Voice Assistant: Search Melaka sentral,ok,1402.74,14.0198,16.9524
+60,Lee,2026-05-18T23:46:22.265+08:00,Voice Assistant: Stop automation,ok,2359.54,46.0482,11.0895
+61,Lee,2026-05-18T23:46:41.238+08:00,Voice Assistant: Open YouTube,ok,1690.79,61.8613,12.6715
+62,Lee,2026-05-18T23:46:58.732+08:00,Voice Assistant: Search Justin Bieber daisies,ok,502.01,6.7411,13.4696
+63,Lee,2026-05-18T23:47:09.111+08:00,Voice Assistant: Play first,ok,3198.69,65.2933,18.2165
+64,Lee,2026-05-18T23:47:41.574+08:00,Voice Assistant: Pause video,ok,2827.38,35.6256,6.7400
+65,Lee,2026-05-18T23:47:51.254+08:00,Voice Assistant: Resume music,ok,457.65,44.9656,10.0994
+66,Lee,2026-05-18T23:47:59.679+08:00,Voice Assistant: Stop automation,ok,2261.35,12.4332,10.1941
+67,Lee,2026-05-18T23:48:15.340+08:00,Voice Assistant: Open WhatsApp,ok,3125.83,7.4422,13.3899
+68,Lee,2026-05-18T23:48:24.882+08:00,Voice Assistant: Select first chat,ok,10.64,4.4028,8.7667
+69,Lee,2026-05-18T23:48:34.271+08:00,Voice Assistant: Search user PG,ok,2953.68,3.2395,15.1880
+70,Lee,2026-05-18T23:48:44.466+08:00,Voice Assistant: Select first chat,ok,604.40,3.2497,14.6843
+71,Lee,2026-05-18T23:48:54.236+08:00,Voice Assistant: Clear search,ok,1583.87,19.4569,7.9698
+72,Lee,2026-05-18T23:49:07.010+08:00,Voice Assistant: Selecta chat,ok,1712.19,11.3981,4.7599
+73,Lee,2026-05-18T23:49:15.702+08:00,Voice Assistant: Select third chat,ok,1722.50,12.4821,7.9246
+74,Lee,2026-05-18T23:49:23.868+08:00,Voice Assistant: Stop automation,ok,1113.92,12.4321,8.2771
+75,Lee,2026-05-18T23:49:48.841+08:00,Voice Assistant: 打开谷歌新闻,ok,945.08,9.5195,15.6072
+76,Lee,2026-05-18T23:50:05.575+08:00,Voice Assistant: 搜索美国新闻,ok,2229.35,59.0482,15.9170
+77,Lee,2026-05-18T23:51:11.599+08:00,Voice Assistant: 搜索美国新闻,ok,560.98,18.6389,14.6724
+78,Lee,2026-05-18T23:51:43.697+08:00,Voice Assistant: 输入美国新闻,ok,1284.84,41.0325,11.4749
+79,Lee,2026-05-18T23:51:54.161+08:00,Voice Assistant: 停止自动化,ok,1178.59,19.7361,10.0416
+80,Lee,2026-05-18T23:52:41.373+08:00,Voice Assistant: 打开谷歌新闻,ok,1911.96,42.0680,4.9980
+81,Lee,2026-05-18T23:52:54.566+08:00,Voice Assistant: 搜索美国新闻,ok,435.78,31.0730,12.9693
+82,Lee,2026-05-18T23:53:04.845+08:00,Voice Assistant: 停止自动化,ok,2362.74,16.2177,7.9447
+83,Lee,2026-05-18T23:53:23.068+08:00,Voice Assistant: 打开油管,ok,2353.76,57.9947,3.2962
+84,Lee,2026-05-18T23:53:36.112+08:00,Voice Assistant: 搜索林俊杰我怀念的,ok,1250.06,12.2378,8.2979
+85,Lee,2026-05-18T23:53:47.404+08:00,Voice Assistant: 停止自动化,ok,684.87,39.6640,11.2905
+86,Lee,2026-05-18T23:54:04.903+08:00,Voice Assistant: 打开聊天应用,ok,654.80,10.0603,10.1378
+87,Lee,2026-05-18T23:54:17.571+08:00,Voice Assistant: 选择第一个聊天,ok,2320.37,28.0822,14.4746
+88,Lee,2026-05-18T23:54:30.463+08:00,Voice Assistant: 搜索用户你好,ok,1464.81,15.7136,7.9043
+89,Lee,2026-05-18T23:54:42.356+08:00,Voice Assistant: 选择第一个聊天,ok,1071.03,36.3550,9.0848
+90,Lee,2026-05-18T23:54:58.028+08:00,Voice Assistant: 清除搜索,ok,3250.41,61.3755,6.1577
+91,Lee,2026-05-18T23:55:09.259+08:00,Voice Assistant: 选择第一个聊天,ok,2858.63,31.9344,9.6167
+92,Lee,2026-05-18T23:55:21.396+08:00,Voice Assistant: 输入你好,ok,476.42,50.3960,9.9866
+93,Lee,2026-05-18T23:55:39.648+08:00,Voice Assistant: 清除对话,ok,2295.52,7.7917,12.4311
+94,Lee,2026-05-18T23:55:57.387+08:00,Voice Assistant: 清除输入,ok,1151.38,8.3690,9.9673
+95,Lee,2026-05-18T23:56:15.736+08:00,Voice Assistant: 清空消息,ok,1956.23,4.3746,7.9808
+96,Lee,2026-05-18T23:56:26.429+08:00,Voice Assistant: 停止自动化,ok,2218.21,24.9788,12.5536
+97,Lee,2026-05-19T00:04:40.876+08:00,Voice Assistant: Open my downloads,ok,1285.33,25.3771,10.3463
+98,Lee,2026-05-19T00:04:57.451+08:00,Voice Assistant: Open WhatsApp,ok,1253.14,6.5292,11.7475
+99,Lee,2026-05-19T00:05:10.217+08:00,Voice Assistant: Selecta chat,ok,0.73,9.0890,9.2339
+100,Lee,2026-05-19T00:05:19.701+08:00,Voice Assistant: Select third chat,ok,1318.92,38.0563,10.0336
+101,Lee,2026-05-19T00:05:29.758+08:00,Voice Assistant: Search user PG,ok,2731.31,6.8924,7.0317
+102,Lee,2026-05-19T00:05:39.625+08:00,Voice Assistant: Select first chat,ok,2533.24,23.4743,5.9314
+103,Lee,2026-05-19T00:05:49.175+08:00,Voice Assistant: Clear search,ok,900.15,58.4699,3.4518
+104,Lee,2026-05-19T00:05:58.487+08:00,Voice Assistant: Select second chat,ok,1656.54,21.2794,4.0579
+105,Lee,2026-05-19T00:06:07.160+08:00,Voice Assistant: Type message hello,ok,2085.24,28.7408,4.8693
+106,Lee,2026-05-19T00:06:16.604+08:00,Voice Assistant: Clear message,ok,2056.30,49.3221,8.0295
+107,Lee,2026-05-19T00:06:24.853+08:00,Voice Assistant: Stop automation,ok,960.15,56.7895,12.9077
+108,Lee,2026-05-19T00:06:47.225+08:00,Voice Assistant: Please open YouTube,ok,801.06,42.1793,5.7295
+109,Lee,2026-05-19T00:06:59.525+08:00,Voice Assistant: Search Justin Bieber basis,ok,1287.29,56.7140,5.5986
+110,Lee,2026-05-19T00:07:13.074+08:00,Voice Assistant: Select first,ok,3298.80,35.6355,12.0235
+111,Lee,2026-05-19T00:07:23.678+08:00,Voice Assistant: Play first,ok,489.39,29.6296,7.0937
+112,Lee,2026-05-19T00:07:31.999+08:00,Voice Assistant: Pause video,ok,2630.49,27.8601,11.2808
+113,Lee,2026-05-19T00:07:40.441+08:00,Voice Assistant: Stop automation,ok,549.46,26.8922,5.5622
+114,Lee,2026-05-19T00:07:59.245+08:00,Voice Assistant: Play video,ok,2953.30,18.8282,12.6389
+115,Lee,2026-05-19T00:08:23.727+08:00,Voice Assistant: 请打开油管,ok,14.73,47.3265,8.0292
+116,Lee,2026-05-19T00:08:38.185+08:00,Voice Assistant: 搜索林俊杰我怀念的,ok,445.85,11.6766,5.4340
+117,Lee,2026-05-19T00:08:52.375+08:00,Voice Assistant: 播放第一个,ok,1615.95,7.7314,17.5226
+118,Lee,2026-05-19T00:09:02.967+08:00,Voice Assistant: 停止播放,ok,765.92,45.6841,17.5247
+119,Lee,2026-05-19T00:17:30.665+08:00,Voice Assistant: 请打开油管,ok,744.25,23.7868,11.9624
+120,Lee,2026-05-19T00:17:44.867+08:00,Voice Assistant: 搜索林俊杰我怀念的,ok,1642.11,25.2312,12.0866
+121,Lee,2026-05-19T00:17:58.135+08:00,Voice Assistant: 播放第一个,ok,3356.51,22.3080,12.0347
+122,Lee,2026-05-19T00:18:16.183+08:00,Voice Assistant: 调高音量,ok,1258.89,55.2179,8.7946
+123,Lee,2026-05-19T00:18:28.988+08:00,Voice Assistant: 降低音量,ok,1890.03,65.3178,5.3087
+124,Lee,2026-05-19T00:18:39.295+08:00,Voice Assistant: 停止播放,ok,2982.11,39.7474,14.1132
+125,Lee,2026-05-19T00:18:49.668+08:00,Voice Assistant: 继续播放,ok,1515.74,22.1899,15.1289
+126,Lee,2026-05-19T00:19:00.374+08:00,Voice Assistant: 停止自动化,ok,3277.53,33.8327,15.2817
+127,Lee,2026-05-19T00:19:15.956+08:00,Voice Assistant: 打开聊天应用,ok,1165.27,55.4229,14.0603
+128,Lee,2026-05-19T00:19:33.576+08:00,Voice Assistant: 搜索你好,ok,981.00,37.8844,16.1510
+129,Lee,2026-05-19T00:19:47.506+08:00,Voice Assistant: 搜索用户好的,ok,1465.79,14.8586,3.7458
+130,Lee,2026-05-19T00:19:58.109+08:00,Voice Assistant: 选择第一个聊天,ok,3167.06,57.1164,13.8229
+131,Lee,2026-05-19T00:20:08.779+08:00,Voice Assistant: 输入好的没问题,ok,3037.59,39.6004,5.9184
+132,Lee,2026-05-19T00:20:25.558+08:00,Voice Assistant: 清空聊天,ok,2393.58,25.1747,12.1018
+133,Lee,2026-05-19T00:20:44.140+08:00,Voice Assistant: 清除消息,ok,651.14,67.2257,18.3997
+134,Lee,2026-05-19T00:20:58.865+08:00,Voice Assistant: 清空搜索,ok,326.50,68.1955,16.3132
+135,Lee,2026-05-19T00:21:09.484+08:00,Voice Assistant: 选择第一个聊天,ok,1824.29,32.4121,14.6774
+136,Lee,2026-05-19T00:21:19.767+08:00,Voice Assistant: 停止自动化,ok,2085.99,44.7010,9.0713
+137,Lee,2026-05-19T00:21:34.400+08:00,Voice Assistant: 打开谷歌新闻,ok,322.30,44.1073,18.6175
+138,Lee,2026-05-19T00:21:46.391+08:00,Voice Assistant: 搜索美国新闻,ok,3012.88,32.8108,3.7633
+139,Lee,2026-05-19T00:21:57.861+08:00,Voice Assistant: 停止自动化,ok,2932.99,16.2353,17.2817
+140,Lee,2026-05-19T00:22:13.132+08:00,Voice Assistant: Hello please open YouTube,ok,1743.34,21.6789,9.3836
+141,Lee,2026-05-19T00:22:24.167+08:00,Voice Assistant: Search Justin Bieber Beauty and a Beat,ok,2433.37,31.6619,5.1415
+142,Lee,2026-05-19T00:22:34.810+08:00,Voice Assistant: Play first,ok,788.65,17.3543,12.5208
+143,Lee,2026-05-19T00:22:43.411+08:00,Voice Assistant: Increase volume,ok,931.31,30.2565,14.4575
+144,Lee,2026-05-19T00:22:51.823+08:00,Voice Assistant: Decrease volume,ok,671.06,32.6486,17.4158
+145,Lee,2026-05-19T00:22:59.301+08:00,Voice Assistant: Pause video,ok,2935.46,47.9752,15.6785
+146,Lee,2026-05-19T00:23:07.567+08:00,Voice Assistant: Stop automation,ok,708.32,15.5567,3.3331
+147,Lee,2026-05-19T00:23:43.489+08:00,Voice Assistant: Please take screenshot,ok,390.52,6.3987,14.6496
+148,Lee,2026-05-19T00:23:55.155+08:00,Voice Assistant: Take screenshot,ok,775.52,48.7902,11.6044
+149,Lee,2026-05-19T00:24:32.633+08:00,Voice Assistant: 请截屏,ok,1255.13,16.0918,13.4729
+150,Lee,2026-05-19T00:25:09.437+08:00,Gesture Control: Pinch gestures,ok,6.46,18.9830,8.3935
+151,Lee,2026-05-19T00:28:40.215+08:00,Gesture Control: Zoom gestures,ok,1.6,5.2362,6.0392
+152,Lee,2026-05-19T00:29:13.797+08:00,Gesture Control: Pinch gestures,ok,5,16.6221,2.2846
+153,Lee,2026-05-19T00:30:55.982+08:00,Gesture Control: Pinch gestures,ok,5.83,14.5166,12.1169
+154,Lee,2026-05-19T00:31:16.401+08:00,Gesture Control: Drag and drop,ok,4.71,18.4621,12.0205
+155,Lee,2026-05-19T00:31:26.702+08:00,Gesture Control: Zoom gestures,ok,1.54,7.8924,4.2921
+156,Lee,2026-05-19T00:31:58.603+08:00,Gesture Control: Cursor movement,ok,7.14,19.9060,4.4190
+157,Lee,2026-05-19T00:32:38.416+08:00,Gesture Control: Pinch gestures,ok,0.58,14.4262,8.1322
+158,Lee,2026-05-19T00:32:45.048+08:00,Gesture Control: Zoom gestures,ok,2.11,18.9918,9.1717
+159,Lee,2026-05-19T00:32:51.448+08:00,Gesture Control: Drag and drop,ok,8.63,18.2167,6.9639
+160,Lee,2026-05-19T00:33:07.545+08:00,Gesture Control: Left-click,ok,9.28,26.8212,5.1072
+161,Lee,2026-05-23T11:34:41.295+08:00,Gesture Control: Cursor movement,ok,6.38,7.0483,7.6816
+162,Lee,2026-05-23T11:35:24.103+08:00,Voice Assistant: Good morning please open WhatsApp,ok,1014.01,56.2274,4.1486
+163,Lee,2026-05-23T11:35:33.047+08:00,Voice Assistant: Select first chat,ok,2193.75,57.0039,10.3621
+164,Lee,2026-05-23T11:35:42.546+08:00,Voice Assistant: Send message,ok,2889.66,45.4170,17.1094
+165,Lee,2026-05-23T11:35:50.541+08:00,Voice Assistant: Stop automation,ok,253.34,20.8680,15.5258
+166,Lee,2026-05-23T11:36:22.910+08:00,Voice Assistant: Good morning marino's what is the meaning of,ok,805.56,41.1236,11.1428
+167,Lee,2026-05-23T11:36:46.357+08:00,Voice Assistant: May I know what is the meaning of computer science,ok,1796.36,12.8564,8.2909
+168,Lee,2026-05-23T11:37:05.011+08:00,Gesture Control: Drag and drop,ok,4.3,7.0507,3.3168
+169,Lee,2026-05-23T11:37:30.855+08:00,Gesture Control: Zoom gestures,ok,7.23,16.7144,6.3246
+170,Lee,2026-05-23T11:39:52.791+08:00,Voice Assistant: 截图,ok,352.01,60.9899,18.0935
+171,Lee,2026-05-23T12:17:34.233+08:00,Voice Assistant: What is the time today,ok,271.00,37.3058,11.4602
+172,Lee,2026-05-23T12:25:51.397+08:00,Gesture Control: Cursor movement,ok,1.45,8.4130,9.4912
+173,Lee,2026-05-23T12:26:01.655+08:00,Gesture Control: Pinch gestures,ok,5.15,8.1162,7.0507
+174,Lee,2026-05-23T12:26:08.890+08:00,Gesture Control: Right-click,ok,11.89,11.6555,10.2112
+175,Lee,2026-05-23T12:35:50.391+08:00,Voice Assistant: May I know what time is today,ok,2866.92,5.3082,18.1522
+176,Lee,2026-05-23T12:36:13.858+08:00,Voice Assistant: What is today's date,ok,2907.49,4.4054,16.3949
+177,Lee,2026-05-23T12:36:52.020+08:00,Voice Assistant: 今天是什么日期,ok,1490.62,44.2696,9.6088
+178,Lee,2026-05-23T12:37:05.942+08:00,Voice Assistant: 今天是什么时间,ok,3492.00,67.8650,14.8014
+179,Lee,2026-05-23T12:37:47.619+08:00,Voice Assistant: What is today's date,ok,1665.76,11.9099,3.2434
+180,Lee,2026-05-23T12:38:01.494+08:00,Voice Assistant: What time now,ok,1098.52,61.7322,4.7833
+181,Lee,2026-05-23T12:38:15.846+08:00,Gesture Control: Cursor movement,ok,2.34,22.3580,10.8197
+182,Lee,2026-05-23T12:38:22.259+08:00,Gesture Control: Zoom gestures,ok,4.04,5.4490,1.8257
+183,Lee,2026-05-23T12:38:27.721+08:00,Gesture Control: Zoom gestures,ok,3.22,22.4356,8.7080
+184,Lee,2026-05-23T12:38:32.447+08:00,Gesture Control: Pinch gestures,ok,5.4,26.4680,6.8164
+185,Lee,2026-05-23T12:38:40.206+08:00,Gesture Control: Drag and drop,ok,11.69,21.7883,2.9120
+186,Lee,2026-05-23T12:38:50.099+08:00,Gesture Control: Double click,ok,0.82,27.2394,8.8470
+187,Lee,2026-05-23T12:38:55.485+08:00,Gesture Control: Right-click,ok,8,10.9875,7.3269
+188,Lee,2026-05-23T12:43:39.418+08:00,Gesture Control: Pinch gestures,ok,9.61,19.2374,10.8927
+189,Lee,2026-05-23T13:17:45.857+08:00,Gesture Control: Cursor movement,ok,10.46,25.0928,9.5515
+190,Lee,2026-05-23T13:19:09.161+08:00,Gesture Control: Zoom gestures,ok,0.31,25.9767,3.4851
+191,Lee,2026-05-23T13:40:09.039+08:00,Gesture Control: Cursor movement,ok,8.62,8.4791,6.9320
+192,Lee,2026-05-23T14:00:39.039+08:00,Gesture Control: Drag and drop,ok,4.5,23.8506,1.3756
+193,Lee,2026-05-23T16:37:11.532+08:00,Voice Assistant: Take screenshot,ok,215.48,12.0052,13.5875
+194,Lee,2026-05-23T16:38:14.378+08:00,Voice Assistant: What is the meaning of life,ok,2251.19,13.6876,16.3120
+195,Lee,2026-05-23T16:47:17.795+08:00,Gesture Control: Cursor movement,ok,3.81,11.8345,3.2009
+196,Lee,2026-05-23T16:47:57.690+08:00,Voice Assistant: Take screenshot,ok,468.92,55.3483,4.6256
+197,Lee,2026-05-23T16:48:45.875+08:00,Voice Assistant: Cinta Kai deltin in Yong,ok,181.00,11.5788,11.7449
+198,Lee,2026-05-23T16:54:00.443+08:00,Gesture Control: Cursor movement,ok,3.11,13.7535,5.2020
+199,Lee,2026-05-23T17:00:41.378+08:00,Voice Assistant: 请打开聊天应用,ok,1522.02,52.5880,8.5248
+200,Lee,2026-05-23T17:00:53.657+08:00,Voice Assistant: 选择第二个聊天,ok,951.58,39.2043,10.4785
+201,Lee,2026-05-23T17:01:06.995+08:00,Voice Assistant: 搜索用户PG,ok,2489.04,20.0810,13.1120
+202,Lee,2026-05-23T17:01:27.960+08:00,Voice Assistant: 选择第一个聊天,ok,461.38,20.9123,11.3074
+203,Lee,2026-05-23T17:01:39.863+08:00,Voice Assistant: 停止自动化,ok,1316.31,19.9875,8.6984
+204,Lee,2026-05-23T17:02:12.971+08:00,Voice Assistant: Please take screenshot,ok,31.89,63.3940,10.6914
+205,Lee,2026-05-23T17:02:29.029+08:00,Voice Assistant: 截图,ok,3261.07,63.9906,16.9196
+206,Lee,2026-05-23T17:03:21.077+08:00,Gesture Control: Cursor movement,ok,5.43,5.0133,7.4179
+207,Lee,2026-05-23T17:04:06.989+08:00,Gesture Control: Cursor movement,ok,11.63,5.2201,5.5621
+208,Lee,2026-05-23T17:06:11.487+08:00,Voice Assistant: What is the meaning of life,ok,1737.92,9.9883,11.7148
+209,Lee,2026-05-23T17:06:30.348+08:00,Voice Assistant: What is 1 + 1,ok,184.88,62.2612,10.1388
+210,Lee,2026-05-23T17:07:36.015+08:00,Gesture Control: Pinch gestures,ok,6.25,26.5699,3.5739
+211,Lee,2026-05-23T17:10:13.394+08:00,Voice Assistant: 1 + 1 = what,ok,3446.92,14.2005,14.0561
+212,Lee,2026-05-23T17:12:00.994+08:00,Voice Assistant: 3 / 2 =,ok,1893.10,20.3658,15.3096
+213,Lee,2026-05-23T17:12:24.757+08:00,Voice Assistant: 三乘九等于多少,ok,837.02,12.2927,8.8538
+214,Lee,2026-05-23T17:12:50.688+08:00,Gesture Control: Double click,ok,11.16,24.6466,1.9984
+215,Lee,2026-05-23T17:13:13.046+08:00,Gesture Control: Cursor movement,ok,5.58,7.6889,4.7668
+216,Lee,2026-05-23T18:19:37.019+08:00,Voice Assistant: Please open WhatsApp,ok,946.50,13.0354,14.1790
+217,Lee,2026-05-23T18:19:47.330+08:00,Voice Assistant: Search user PG,ok,249.04,68.2469,16.9697
+218,Lee,2026-05-23T18:19:56.160+08:00,Voice Assistant: Stop automation,ok,862.04,37.6848,11.4795
+219,Lee,2026-05-23T19:58:22.440+08:00,Gesture Control: Cursor movement,ok,4.52,16.2622,1.2450
+220,Lee,2026-05-23T23:44:41.330+08:00,Gesture Control: Drag and drop,ok,10.04,19.8734,4.3248
+221,Lee,2026-05-23T23:45:09.161+08:00,Voice Assistant: Good day what is 15 /,ok,1533.98,54.4829,7.1360
+222,Lee,2026-05-23T23:45:24.731+08:00,Voice Assistant: Good day what is the result of 15 / 9,ok,870.12,59.8780,9.6998
+223,Lee,2026-05-23T23:46:04.128+08:00,Voice Assistant: 三乘五等于多少,ok,1938.50,15.0258,5.4006
+224,Lee,2026-05-24T00:01:27.462+08:00,Voice Assistant: 五乘15等于多少,ok,3498.08,32.9453,12.5939
+225,Lee,2026-05-24T00:01:46.210+08:00,Voice Assistant: 75除2等于多少,ok,1704.99,67.5833,8.5586
+226,Lee,2026-05-24T00:01:59.227+08:00,Voice Assistant: What is the answer for 5 / 3,ok,367.73,16.2730,7.0756
+227,Lee,2026-05-24T00:02:13.219+08:00,Voice Assistant: Open WhatsApp,ok,3361.11,35.2279,4.0409
+228,Lee,2026-05-24T00:02:22.409+08:00,Voice Assistant: Select second chat,ok,494.63,5.4751,17.8123
+229,Lee,2026-05-24T00:02:30.594+08:00,Voice Assistant: Stop operation,ok,101.47,9.7266,3.0836
+230,Lee,2026-05-24T00:02:53.631+08:00,Voice Assistant: 请打开聊天应用,ok,1506.58,67.2646,9.2653
+231,Lee,2026-05-24T00:03:11.067+08:00,Voice Assistant: 选择第2个聊天,ok,2835.38,33.4098,16.7368
+232,Lee,2026-05-24T00:03:27.339+08:00,Voice Assistant: 选择第2个聊天,ok,2143.15,17.9716,18.4569
+233,Lee,2026-05-24T00:03:38.716+08:00,Voice Assistant: 搜索用户PG,ok,3250.96,58.3302,8.8310
+234,Lee,2026-05-24T00:03:50.897+08:00,Voice Assistant: 选择第一个聊天,ok,2838.93,37.1371,3.0641
+235,Lee,2026-05-24T00:04:06.716+08:00,Voice Assistant: 选择第2个聊天,ok,202.24,44.6420,3.2515
+236,Lee,2026-05-24T00:04:16.835+08:00,Voice Assistant: 停止自动化,ok,661.03,12.5045,7.6715
+237,Lee,2026-05-24T00:14:15.530+08:00,Gesture Control: Cursor movement,ok,10.54,18.6085,1.7648
+238,Lee,2026-05-24T00:14:23.478+08:00,Gesture Control: Drag and drop,ok,7.14,18.0555,3.4607
+239,Lee,2026-05-24T00:14:27.986+08:00,Gesture Control: Zoom gestures,ok,5.66,12.9022,5.7831
+240,Lee,2026-05-24T00:14:33.072+08:00,Gesture Control: Pinch gestures,ok,0.43,7.7580,3.1355
+241,Lee,2026-05-24T00:24:23.628+08:00,Voice Assistant: Please open Google Maps,ok,1123.94,6.6290,4.2216
+242,Lee,2026-05-24T00:24:41.999+08:00,Voice Assistant: Search for Melaka,ok,1498.97,9.6213,8.5827
+243,Lee,2026-05-24T00:24:50.614+08:00,Voice Assistant: Stop automation,ok,1002.90,53.1254,16.1688
+244,Lee,2026-05-24T00:31:05.944+08:00,Gesture Control: Double click,ok,6.32,23.9126,1.7862
+245,Lee,2026-05-24T00:31:35.575+08:00,Voice Assistant: Please open YouTube,ok,2103.40,24.8480,5.1558
+246,Lee,2026-05-24T00:31:47.005+08:00,Voice Assistant: Search for Justin,ok,2130.48,22.5424,7.7675
+247,Lee,2026-05-24T00:31:59.995+08:00,Voice Assistant: What is 3 + 3,ok,2334.45,5.8565,4.2612
+248,Lee,2026-05-24T00:32:08.178+08:00,Voice Assistant: Stop automation,ok,1285.35,11.3538,7.4334
+249,Lee,2026-05-24T00:36:31.372+08:00,Gesture Control: Zoom gestures,ok,2.36,14.3828,12.1604
+250,Lee,2026-05-24T00:36:37.046+08:00,Gesture Control: Pinch gestures,ok,10.26,23.0872,2.0700
+251,Lee,2026-05-24T00:36:45.206+08:00,Gesture Control: Cursor movement,ok,11.24,22.1325,2.8504
+252,Lee,2026-05-24T00:36:49.463+08:00,Gesture Control: Right-click,ok,8.03,14.5533,10.6996
+253,Lee,2026-05-24T00:36:54.575+08:00,Gesture Control: Pinch gestures,ok,6.52,21.0102,6.0906
+254,Lee,2026-05-24T00:38:55.187+08:00,Voice Assistant: Could you please open YouTube,ok,3059.99,9.1391,10.5772
+255,Lee,2026-05-24T00:39:15.512+08:00,Voice Assistant: Search Justin Bieber daisies,ok,1646.35,3.3848,17.5082
+256,Lee,2026-05-24T00:39:23.892+08:00,Voice Assistant: Stop automation,ok,1950.21,31.3588,14.8501
+257,Lee,2026-05-24T00:39:56.557+08:00,Voice Assistant: Good morning how are you today,ok,1201.21,59.5543,5.3326
+258,Lee,2026-05-24T00:40:20.962+08:00,Voice Assistant: 请打开聊天机器,ok,475.05,55.3915,8.9999
+259,Lee,2026-05-24T00:40:46.200+08:00,Voice Assistant: 搜索什么是AI,ok,2838.24,50.6723,16.9954
+260,Lee,2026-05-24T00:40:56.071+08:00,Voice Assistant: 停止自动化,ok,2309.16,15.5574,3.3531
+261,Lee,2026-05-24T00:41:19.286+08:00,Voice Assistant: Please open Google News,ok,2137.28,41.7928,14.1625
+262,Lee,2026-05-24T00:41:32.046+08:00,Voice Assistant: What is,ok,1999.76,31.3432,6.8985
+263,Lee,2026-05-24T00:41:44.546+08:00,Voice Assistant: What is 1 + 1,ok,1447.01,25.4789,9.4082
+264,Lee,2026-05-24T00:41:53.401+08:00,Voice Assistant: Search for news in Malaysia,ok,1300.67,38.6456,12.7015
+265,Lee,2026-05-24T00:42:01.386+08:00,Voice Assistant: Stop automation,ok,473.33,58.3337,11.8386
+266,Lee,2026-05-24T00:42:17.566+08:00,Voice Assistant: What is 1 + 1,ok,218.19,64.5045,5.9889
+267,Lee,2026-05-24T00:42:34.398+08:00,Voice Assistant: Please open YouTube,ok,1154.89,18.1852,15.4966
+268,Lee,2026-05-24T00:42:43.150+08:00,Voice Assistant: Stop automation,ok,1997.82,21.1805,16.5141
+269,Lee,2026-05-24T00:43:06.614+08:00,Voice Assistant: Please open YouTube,ok,1775.39,21.6247,15.3328
+270,Lee,2026-05-24T00:43:18.043+08:00,Voice Assistant: Search for Justin Bieber,ok,2274.62,14.4472,5.6175
+271,Lee,2026-05-24T00:43:28.448+08:00,Voice Assistant: Play first,ok,1483.70,36.2000,4.7042
+272,Lee,2026-05-24T00:43:36.891+08:00,Voice Assistant: Stop automation,ok,687.30,40.0193,16.8445
+273,Lee,2026-05-24T00:44:03.384+08:00,Voice Assistant: 请打开油管,ok,550.55,36.1396,12.2516
+274,Lee,2026-05-24T00:44:17.735+08:00,Voice Assistant: 搜索周杰伦,ok,2791.68,41.5778,9.5015
+275,Lee,2026-05-24T00:44:31.124+08:00,Voice Assistant: 播放第一个,ok,3274.44,64.5695,14.1949
+276,Lee,2026-05-24T00:44:41.826+08:00,Voice Assistant: 暂停音乐,ok,2498.05,40.9007,11.3594
+277,Lee,2026-05-24T00:44:51.804+08:00,Voice Assistant: 停止自动化,ok,379.85,51.5663,18.4176
+278,Lee,2026-05-24T00:45:13.709+08:00,Voice Assistant: 请打开聊天应用,ok,864.37,22.3412,5.3671
+279,Lee,2026-05-24T00:45:31.378+08:00,Voice Assistant: 清除搜索,ok,335.50,9.8276,13.6290
+280,Lee,2026-05-24T00:45:43.612+08:00,Voice Assistant: 选择第一个聊天,ok,1635.00,56.7388,7.8266
+281,Lee,2026-05-24T00:45:55.281+08:00,Voice Assistant: 选择第二个聊天,ok,2599.27,24.1895,11.5172
+282,Lee,2026-05-24T00:46:07.771+08:00,Voice Assistant: 输入你好吗,ok,200.32,29.3485,14.7782
+283,Lee,2026-05-24T00:46:19.637+08:00,Voice Assistant: 清空消息,ok,374.01,53.4190,12.1125
+284,Lee,2026-05-24T00:46:30.919+08:00,Voice Assistant: 输入好的没问题,ok,1600.16,16.9157,15.3345
+285,Lee,2026-05-24T00:46:47.002+08:00,Voice Assistant: 停止自动化,ok,3433.39,27.4682,4.3935
+286,Lee,2026-05-24T00:46:59.553+08:00,Voice Assistant: Please open WhatsApp,ok,1509.57,60.8671,17.4224
+287,Lee,2026-05-24T00:47:08.376+08:00,Voice Assistant: Select second chat,ok,1032.94,22.9229,11.9958
+288,Lee,2026-05-24T00:47:21.264+08:00,Voice Assistant: How are you today,ok,999.58,21.2388,5.6000
+289,Lee,2026-05-24T00:47:30.218+08:00,Voice Assistant: Please type how are you today,ok,1589.88,8.5099,11.8662
+290,Lee,2026-05-24T00:47:44.255+08:00,Voice Assistant: Clear message,ok,3296.86,47.8234,7.1808
+291,Lee,2026-05-24T00:47:52.509+08:00,Voice Assistant: Please type I'm fine thank you,ok,1458.49,19.2370,5.5180
+292,Lee,2026-05-24T00:48:01.260+08:00,Voice Assistant: Clear message,ok,2779.91,43.2496,4.3349
+293,Lee,2026-05-24T00:48:11.242+08:00,Voice Assistant: Search user PG,ok,2085.66,38.2737,18.2419
+294,Lee,2026-05-24T00:48:19.828+08:00,Voice Assistant: Stop automation,ok,2721.40,45.0187,8.3359
+295,Lee,2026-05-24T00:48:36.174+08:00,Voice Assistant: 请打开聊天应用,ok,2820.78,48.8642,11.6282
+296,Lee,2026-05-24T00:48:48.304+08:00,Voice Assistant: 搜索用户好的没问题,ok,3015.52,14.6253,9.7571
+297,Lee,2026-05-24T00:49:00.017+08:00,Voice Assistant: 清除搜索,ok,1929.18,49.7205,8.4779
+298,Lee,2026-05-24T00:49:11.923+08:00,Voice Assistant: 选择第三个聊天,ok,3466.50,44.3575,17.3786
+299,Lee,2026-05-24T00:49:22.680+08:00,Voice Assistant: 输入不错哦,ok,1535.07,60.7274,16.9664
+300,Lee,2026-05-24T00:49:33.294+08:00,Voice Assistant: 清空消息,ok,730.44,25.9396,8.1342
+301,Lee,2026-05-24T00:49:44.538+08:00,Voice Assistant: 输入我现在在用一个机器和你聊天,ok,1905.51,56.5781,11.1209
+302,Lee,2026-05-24T00:49:55.136+08:00,Voice Assistant: 清空消息,ok,1112.44,32.8617,18.2951
+303,Lee,2026-05-24T00:50:11.714+08:00,Voice Assistant: 什么是三家三等于多少,ok,568.73,21.8710,3.8660
+304,Lee,2026-05-24T00:50:21.754+08:00,Voice Assistant: 停止自动化,ok,1794.67,42.3602,7.9012
+305,Lee,2026-05-24T00:51:26.212+08:00,Voice Assistant: 五X等于多少,ok,3391.90,11.3396,11.0028
+306,Lee,2026-05-24T00:51:43.509+08:00,Voice Assistant: 五X等于多少,ok,660.21,15.9581,15.6737
+307,Lee,2026-05-24T00:52:02.191+08:00,Voice Assistant: 三家三等于多少,ok,884.78,6.5147,17.6872
+308,Lee,2026-05-24T00:52:18.708+08:00,Voice Assistant: 一加一等于多少,ok,487.02,5.2197,4.5202
+309,Lee,2026-05-24T00:52:38.015+08:00,Voice Assistant: 删除5等于多少,ok,1849.86,14.1881,18.2593
+310,Lee,2026-05-24T00:54:13.676+08:00,Voice Assistant: 一加五等于多少,ok,951.17,9.1405,5.9528
+311,Lee,2026-05-24T00:54:27.672+08:00,Voice Assistant: What is 3 * 3,ok,2679.13,48.2356,9.3414
+312,Lee,2026-05-24T00:54:40.223+08:00,Voice Assistant: Please open WhatsApp,ok,679.14,26.1339,4.2607
+313,Lee,2026-05-24T00:54:49.459+08:00,Voice Assistant: Select second chat,ok,3355.75,58.9412,9.1638
+314,Lee,2026-05-24T00:54:59.407+08:00,Voice Assistant: Select first chat,ok,20.24,39.1029,4.8140
+315,Lee,2026-05-24T00:55:08.038+08:00,Voice Assistant: Stop automation,ok,1750.76,38.9534,3.7410
+316,Lee,2026-05-24T00:55:24.841+08:00,Voice Assistant: What is today's date,ok,2752.30,51.7623,11.1871
+317,Lee,2026-05-24T00:55:40.539+08:00,Voice Assistant: 现在是什么时间,ok,2304.08,41.5268,17.7644
+318,Lee,2026-05-24T00:55:54.046+08:00,Voice Assistant: 今天是什么日期,ok,450.71,67.8723,16.6322
+319,Lee,2026-05-24T00:56:09.417+08:00,Voice Assistant: 打开谷歌地图,ok,2639.53,25.3609,18.4631
+320,Lee,2026-05-24T00:56:21.531+08:00,Voice Assistant: 搜索马来西亚新闻,ok,1675.27,62.4692,10.8845
+321,Lee,2026-05-24T00:56:31.731+08:00,Voice Assistant: 停止自动化,ok,199.16,53.0940,12.9658
+322,Lee,2026-05-24T00:57:05.278+08:00,Voice Assistant: What time is now,ok,414.63,51.3408,18.5473
+323,Lee,2026-05-24T00:57:20.091+08:00,Voice Assistant: What is today's date,ok,2193.90,11.0839,9.9499
+324,Lee,2026-05-24T00:57:50.626+08:00,Voice Assistant: Open my downloads,ok,2199.56,40.9712,5.0941
+325,Lee,2026-05-24T00:58:16.319+08:00,Voice Assistant: What is the meaning of computer science,ok,1731.58,45.5810,8.1923
+326,Lee,2026-05-24T00:58:39.674+08:00,Voice Assistant: Can you explain what is the meaning of computer science,ok,185.89,39.9963,12.1354
+327,Lee,2026-05-24T00:58:54.829+08:00,Voice Assistant: Please open Google News,ok,452.10,55.5085,7.8503
+328,Lee,2026-05-24T00:59:03.682+08:00,Voice Assistant: Search for news in Malaysia,ok,3304.04,25.0815,15.7971
+329,Lee,2026-05-24T00:59:12.050+08:00,Voice Assistant: Stop automation,ok,2806.49,54.4458,15.9917
+330,Lee,2026-05-24T00:59:27.119+08:00,Gesture Control: Pinch gestures,ok,4.31,11.9574,11.6365
+331,Lee,2026-05-24T00:59:48.454+08:00,Gesture Control: Cursor movement,ok,7.65,12.8956,10.6438
+332,Lee,2026-05-24T01:00:10.017+08:00,Gesture Control: Pinch gestures,ok,11.87,21.3821,7.1678
+333,Lee,2026-05-24T01:00:23.998+08:00,Gesture Control: Cursor movement,ok,11.96,5.5928,10.0992
+334,Lee,2026-05-24T01:00:36.202+08:00,Gesture Control: Zoom gestures,ok,5.18,20.4757,10.6234
+335,Lee,2026-05-24T01:00:43.002+08:00,Gesture Control: Pinch gestures,ok,6.16,18.3473,1.1291
+336,Lee,2026-05-24T01:01:07.771+08:00,Gesture Control: Pinch gestures,ok,9.3,4.3827,5.0067
+337,Lee,2026-05-24T01:01:28.064+08:00,Gesture Control: Pinch gestures,ok,1.46,24.9887,11.2683
+338,Lee,2026-05-24T01:04:24.524+08:00,Gesture Control: Cursor movement,ok,7.04,23.6836,4.7637
+339,Lee,2026-05-24T01:04:35.392+08:00,Gesture Control: Cursor movement,ok,8.73,15.0411,3.8855
+340,Lee,2026-05-24T01:04:42.856+08:00,Gesture Control: Zoom gestures,ok,9.24,14.3978,7.6497
+341,Lee,2026-05-24T13:03:27.975+08:00,Gesture Control: Open voice assistant,ok,2.99,21.2240,11.1441
+342,Lee,2026-05-24T13:03:45.273+08:00,Voice Assistant: Good morning please open gesture control,ok,2975.40,21.3237,9.4423
+343,Lee,2026-05-24T13:04:50.411+08:00,Voice Assistant: What is 1 + 1,ok,2670.86,4.4088,14.9211
+344,Lee,2026-05-24T13:06:46.261+08:00,Gesture Control: Open voice assistant,ok,6.25,10.4667,5.6898
+345,Lee,2026-05-24T13:10:49.442+08:00,Gesture Control: Cursor movement,ok,7.91,11.2305,7.1685
+346,Lee,2026-05-24T13:24:50.514+08:00,Voice Assistant: Please open gesture control,ok,1057.13,9.2534,14.4787
+347,Lee,2026-05-24T13:25:18.489+08:00,Gesture Control: Launch Voice Assistant,ok,1.88,25.4086,1.8975
+348,Lee,2026-05-24T13:25:58.729+08:00,Gesture Control: Launch Voice Assistant,ok,6.57,26.8057,7.4409
+349,Lee,2026-05-24T13:26:07.624+08:00,Voice Assistant: Hi please open gesture control,ok,232.32,25.4236,4.2639
+350,Lee,2026-05-24T13:26:12.029+08:00,Gesture Control: Cursor movement,ok,7.83,16.7852,4.4625
+351,Lee,2026-05-24T13:26:50.289+08:00,Gesture Control: Launch Voice Assistant,ok,10.04,19.8496,3.0196
+352,Lee,2026-05-24T13:27:01.839+08:00,Voice Assistant: Hello please open WhatsApp,ok,2170.00,20.2322,8.2069
+353,Lee,2026-05-24T13:27:10.646+08:00,Voice Assistant: Select first chat,ok,1254.87,36.5297,5.5973
+354,Lee,2026-05-24T13:27:18.729+08:00,Voice Assistant: Stop automation,ok,2732.60,66.8740,5.8119
+355,Lee,2026-05-24T13:28:42.424+08:00,Gesture Control: Cursor movement,ok,3.24,5.5624,4.9550
+356,Lee,2026-05-24T13:28:56.282+08:00,Gesture Control: Cursor movement,ok,7.64,23.7103,2.2851
+357,Lee,2026-05-24T13:29:11.932+08:00,Gesture Control: Launch Voice Assistant,ok,3.85,7.5922,3.6816
+358,Lee,2026-05-24T13:29:36.020+08:00,Gesture Control: Launch Voice Assistant,ok,0.3,22.6240,10.6127
+359,Lee,2026-05-24T13:29:53.050+08:00,Voice Assistant: Good morning,ok,2513.03,14.1856,10.9599
+360,Lee,2026-05-24T13:30:26.829+08:00,Voice Assistant: 请打开手势控制,ok,3355.68,39.1520,5.7242
+361,Lee,2026-05-24T13:30:36.896+08:00,Gesture Control: Cursor movement,ok,0.84,20.7980,6.9856
+362,Lee,2026-05-24T14:15:30.430+08:00,Gesture Control: Launch Voice Assistant,ok,9.4,19.7185,10.8896
+363,Lee,2026-05-24T14:15:43.959+08:00,Voice Assistant: Good morning how are you today,ok,1455.87,39.7520,16.8520
+364,Lee,2026-05-24T14:22:54.890+08:00,Voice Assistant: Please open WhatsApp,ok,352.05,68.5479,7.0015
+365,Lee,2026-05-24T14:23:03.508+08:00,Voice Assistant: Open gesture control,ok,2485.98,29.1723,13.4106
+366,Lee,2026-05-24T14:23:10.724+08:00,Gesture Control: Cursor movement,ok,5.14,10.0135,8.6922
+367,Lee,2026-05-24T15:03:22.257+08:00,Gesture Control: Cursor movement,ok,9.61,22.6122,1.4755
+368,Lee,2026-05-24T15:04:05.547+08:00,Gesture Control: Cursor movement,ok,2.28,4.3039,2.3996
+369,Lee,2026-05-24T15:04:31.602+08:00,Gesture Control: Pinch gestures,ok,8.96,18.6213,1.5774
+370,Lee,2026-05-24T15:08:33.790+08:00,Gesture Control: Cursor movement,ok,3.37,12.8275,4.2041
+371,Lee,2026-05-24T15:09:41.588+08:00,Gesture Control: Cursor movement,ok,3.83,17.3047,6.0736
+372,Lee,2026-05-24T15:15:15.522+08:00,Gesture Control: Cursor movement,ok,3.73,13.9391,10.3376
+373,Lee,2026-05-24T15:17:00.456+08:00,Gesture Control: Cursor movement,ok,3.28,4.9109,7.4783
+374,Lee,2026-05-24T15:21:55.150+08:00,Gesture Control: Cursor movement,ok,3.21,18.6976,10.8207
+375,Lee,2026-05-24T15:23:45.043+08:00,Gesture Control: Cursor movement,ok,3.65,6.6275,1.4045
+376,Lee,2026-05-24T15:23:55.231+08:00,Gesture Control: Launch Voice Assistant,ok,6.9,6.2025,2.0776
+377,Lee,2026-05-24T15:24:47.094+08:00,Gesture Control: Launch Voice Assistant,ok,8.2,11.5747,6.1390
+378,Lee,2026-05-24T15:24:55.905+08:00,Voice Assistant: Good morning could you open gesture control,ok,2352.42,60.8625,17.8095
+379,Lee,2026-05-24T15:25:09.070+08:00,Gesture Control: Cursor movement,ok,1.79,7.0395,9.6748
+380,Lee,2026-05-24T15:25:49.437+08:00,Gesture Control: Cursor movement,ok,2.9,15.4355,7.2624
+381,Lee,2026-05-24T15:33:02.443+08:00,Gesture Control: Cursor movement,ok,9.95,26.2584,10.7967
+382,Lee,2026-05-24T15:33:27.804+08:00,Gesture Control: Cursor movement,ok,0.36,8.0203,7.0355
+383,Lee,2026-05-24T15:34:01.247+08:00,Gesture Control: Cursor movement,ok,11.83,20.0203,11.8447
+384,Lee,2026-05-24T15:34:34.044+08:00,Gesture Control: Launch Voice Assistant,ok,8.52,13.6110,11.5167
+385,Lee,2026-05-24T15:34:56.322+08:00,Voice Assistant: Good morning please open WhatsApp,ok,3090.02,22.7846,4.2145
+386,Lee,2026-05-24T15:35:05.052+08:00,Voice Assistant: Stop automation,ok,2580.80,35.0968,9.8947
+387,Lee,2026-05-24T15:39:45.941+08:00,Gesture Control: Cursor movement,ok,4.08,11.1225,2.3144
+388,Lee,2026-05-24T15:40:33.246+08:00,Gesture Control: Cursor movement,ok,1.77,7.1725,5.2312
+389,Lee,2026-05-24T15:46:30.935+08:00,Gesture Control: Cursor movement,ok,6.09,7.3325,6.54
+390,Lee,2026-05-24T15:47:34.121+08:00,Gesture Control: Cursor movement,ok,6.012,11.1225,12.2312
+391,Lee,2026-05-24T15:53:37.817+08:00,Gesture Control: Cursor movement,ok,0.09,4.1335,5.2357
+392,Lee,2026-05-24T15:54:26.134+08:00,Gesture Control: Cursor movement,ok,3.08,5.1195,2.2112
+393,Lee,2026-05-24T15:55:17.209+08:00,Gesture Control: Cursor movement,ok,5.11,7.24425,8.4567
+394,Lee,2026-05-24T15:55:37.868+08:00,Gesture Control: Cursor movement,ok,6.08,7.1225,5.2312
+395,Lee,2026-05-24T15:56:28.311+08:00,Gesture Control: Session ended,ok,0.12,6.1315,11.2589
+396,Lee,2026-05-24T15:57:11.124+08:00,Gesture Control: Cursor movement,ok,4.55,10.1315,6.2385
+397,Lee,2026-05-24T15:57:53.794+08:00,Gesture Control: Launch Voice Assistant,ok,0.33,9.1312,11.2333
+398,Lee,2026-05-24T15:58:23.255+08:00,Voice Assistant: Good morning how are you,ok,1196.63,8.3003,7.5614
+399,Lee,2026-05-24T15:58:41.603+08:00,Gesture Control: Cursor movement,ok,12.34,4.1315,5.2311
+400,Lee,2026-05-24T15:59:52.633+08:00,Gesture Control: Cursor movement,ok,0.21,11.1315,7.2359
+401,Lee,2026-05-24T16:12:05.513+08:00,Gesture Control: Launch Voice Assistant,ok,0.0959.1321,4.2381,
+402,Lee,2026-05-24T16:12:45.917+08:00,Gesture Control: Cursor movement,ok,0.10,9.2215,4.212
+403,Lee,2026-05-24T16:13:26.897+08:00,Gesture Control: Cursor movement,ok,0.21,9.1319,5.2380
+404,Lee,2026-05-24T16:13:39.341+08:00,Gesture Control: Launch Voice Assistant,ok,0.04,10.1315,3.2389
+405,Lee,2026-05-24T16:14:00.362+08:00,Voice Assistant: Good morning please open WhatsApp,ok,596.123,11.3003,15.5614
+406,Lee,2026-05-24T16:14:09.487+08:00,Voice Assistant: Select second chat,ok,456.632,10.3003,13.5614
+407,Lee,2026-05-24T16:14:17.709+08:00,Voice Assistant: Stop operation,ok,0.07,69.1375,6.2389
+408,Lee,2026-05-24T16:15:01.941+08:00,Gesture Control: Cursor movement,ok,0.18,15.1216,3.5297
+409,Lee,2026-05-24T23:23:06.523+08:00,Gesture Control: Cursor movement,ok,0.08,9.1315,5.2389
+410,Lee,2026-05-24T23:30:22.638+08:00,Gesture Control: Cursor movement,ok,0.07,15.1993,0.9434
+411,Lee,2026-05-24T23:30:32.433+08:00,Gesture Control: Pinch gestures,ok,0.07,13.4093,0.9379
+412,Lee,2026-05-24T23:30:39.872+08:00,Gesture Control: Launch Voice Assistant,ok,,17.1210,0.9511
+413,Lee,2026-05-24T23:31:03.254+08:00,Voice Assistant: Hi good morning what is 3 * 3,ok,592.60,10.0435,3.4615
+414,Lee,2026-05-24T23:35:43.345+08:00,Gesture Control: Launch Voice Assistant,ok,,22.0822,3.5843
+415,Lee,2026-05-24T23:35:55.127+08:00,Voice Assistant: Please open WhatsApp,ok,275.85,16.8814,3.6615
+416,Lee,2026-05-24T23:36:04.124+08:00,Voice Assistant: Select second chat,ok,472.46,16.5422,3.6620
+417,Lee,2026-05-24T23:36:12.906+08:00,Voice Assistant: Select first chat,ok,467.60,18.9082,3.6620
+418,Lee,2026-05-24T23:36:20.748+08:00,Voice Assistant: Send message,ok,264.31,16.1226,3.6620
+419,Lee,2026-05-24T23:36:28.720+08:00,Voice Assistant: Stop automation,ok,7.08,14.7415,3.6619
+420,Lee,2026-05-24T23:40:54.799+08:00,Gesture Control: Zoom gestures,ok,0.07,27.2792,3.7124
+421,Lee,2026-05-24T23:41:57.013+08:00,Voice Assistant: Hi there what is 1 / 5,ok,1238.73,9.1193,3.0447
+422,Lee,2026-05-24T23:43:26.416+08:00,Gesture Control: Pinch gestures,ok,0.07,13.2189,3.5265
+423,Lee,2026-05-24T23:43:34.332+08:00,Gesture Control: Cursor movement,ok,0.07,13.0586,3.5424
+424,Lee,2026-05-24T23:44:21.400+08:00,Voice Assistant: 请问什么是数据科学,ok,496.63,11.3003,18.5614
+425,Lee,2026-05-24T23:44:39.749+08:00,Voice Assistant: 解释数据科学,ok,802.98,7.3980,18.5664
+426,Lee,2026-05-24T23:45:18.956+08:00,Voice Assistant: 你好可以和我聊天吗,ok,3525.07,7.9036,18.6564
+427,Lee,2026-05-24T23:45:42.650+08:00,Voice Assistant: 一加一等于多少,ok,1569.64,9.9839,18.6565
+428,Lee,2026-05-24T23:46:10.467+08:00,Voice Assistant: 在这个现代社会什么东西最需要,ok,3123.10,7.4474,18.6575
+429,Lee,2026-05-24T23:47:26.346+08:00,Voice Assistant: 可以解释科学的来源吗,ok,3057.00,7.4593,18.6587
+430,Lee,2026-05-24T23:51:45.325+08:00,Gesture Control: Launch Voice Assistant,ok,0.05,10.7902,0.9270
+431,Lee,2026-05-24T23:52:19.975+08:00,Voice Assistant: Explain to me the meaning of life,ok,1186.54,9.1642,3.4473
+432,Lee,2026-05-24T23:52:40.735+08:00,Voice Assistant: 解释什么是现代社会需要的东西,ok,1790.97,7.9030,3.4740
+433,Lee,2026-05-25T00:02:33.110+08:00,Gesture Control: Launch Voice Assistant,ok,0.09,13.0924,0.9329
+434,Lee,2026-05-25T00:02:50.058+08:00,Voice Assistant: Open gesture control,ok,620.98,11.7480,3.4203
+435,Lee,2026-05-25T00:02:55.326+08:00,Gesture Control: Cursor movement,ok,0.08,15.1316,3.5296
+436,Lee,2026-05-25T00:09:30.969+08:00,Gesture Control: Cursor movement,ok,0.07,14.3211,3.5471
+437,Lee,2026-05-25T00:09:39.735+08:00,Gesture Control: Cursor movement,ok,0.08,13.2318,3.5602
+438,Lee,2026-05-25T00:35:43.911+08:00,Gesture Control: Cursor movement,ok,0.09,14.6843,3.6017
+439,Lee,2026-05-25T00:35:49.086+08:00,Gesture Control: Launch Voice Assistant,ok,0.07,17.3051,3.6133
+440,Lee,2026-05-25T00:36:00.953+08:00,Voice Assistant: Please open WhatsApp,ok,2757.16,12.6682,3.6909
+441,Lee,2026-05-25T00:36:13.628+08:00,Voice Assistant: Select second,ok,625.59,12.1012,3.6932
+442,Lee,2026-05-25T00:36:22.363+08:00,Voice Assistant: Select second chat,ok,999.93,15.1863,3.6936
+443,Lee,2026-05-25T00:36:30.437+08:00,Voice Assistant: Stop automation,ok,415.12,17.5591,3.6934
+444,Lee,2026-05-25T11:53:52.892+08:00,Gesture Control: Launch Voice Assistant,ok,0.08,14.2941,0.9317
+445,Lee,2026-05-25T11:54:16.866+08:00,Voice Assistant: Good morning please open WhatsApp,ok,2890.59,12.3539,3.5048
+446,Lee,2026-05-25T11:54:25.714+08:00,Voice Assistant: Select first chat,ok,967.89,18.4549,3.5102
+447,Lee,2026-05-25T11:54:33.867+08:00,Voice Assistant: Stop automation,ok,481.96,14.4260,3.5123
+448,Lee,2026-05-25T11:54:44.883+08:00,Voice Assistant: Please open gesture control,ok,792.81,14.4556,3.5127
+449,Lee,2026-05-25T11:54:49.539+08:00,Gesture Control: Launch Voice Assistant,ok,0.08,14.0929,3.6197
+450,Lee,2026-05-25T11:55:00.914+08:00,Voice Assistant: Good morning what is the date today,ok,593.00,17.6855,3.6073
+451,Lee,2026-06-01T10:32:42.871+08:00,Gesture Control: Cursor movement,ok,0.08,13.1366,0.9651
+452,Lee,2026-06-01T10:35:00.312+08:00,Gesture Control: Drag and drop,ok,0.06,12.5877,0.9644
+453,Lee,2026-06-01T10:36:24.741+08:00,Voice Assistant: Good morning please open WhatsApp,ok,2810.93,11.6339,3.5698
+454,Lee,2026-06-01T10:36:37.463+08:00,Voice Assistant: Stop all the music,ok,469.06,10.7891,3.5767
+455,Lee,2026-06-01T10:36:45.657+08:00,Voice Assistant: Stop automation,ok,432.06,10.5768,3.5797
+456,Lee,2026-06-01T10:37:49.190+08:00,Voice Assistant: Good morning tell me a story,ok,1108.6,10.6756,18.3493
+457,Lee,2026-06-01T10:40:23.966+08:00,Voice Assistant: What is the meaning of life,ok,1143.08,8.7259,18.3530
+458,Lee,2026-06-01T10:40:47.783+08:00,Voice Assistant: Explain to me computer science,ok,1016.15,7.6256,18.3533
+459,Lee,2026-06-01T10:41:18.130+08:00,Voice Assistant: 你好能和我说个故事吗,ok,2899.92,12.4807,18.3886
+460,Lee,2026-06-01T10:41:55.190+08:00,Voice Assistant: 什么是数学体系,ok,2791.69,4.1870,18.4780
+461,Lee,2026-06-01T10:42:11.228+08:00,Voice Assistant: 今天是什么时间,ok,1671.48,4.6800,18.4786
+462,Lee,2026-06-01T10:42:26.793+08:00,Gesture Control: Cursor movement,ok,0.09,10.5840,18.6451
+463,Test,2026-06-01T10:43:46.537+08:00,Voice Assistant: Hello could you tell me a story,ok,1096.42,10.1093,18.6357
+464,Test,2026-06-01T10:43:57.634+08:00,Voice Assistant: Good morning what is my name,ok,1152.55,9.1688,18.6360
+465,xinpei,2026-06-01T11:24:41.086+08:00,Voice Assistant: Open WhatsApp,ok,2857.43,11.6944,3.1741
+466,xinpei,2026-06-01T11:25:09.636+08:00,Voice Assistant: Selected chart,ok,648.20,10.8735,13.5750
+467,xinpei,2026-06-01T11:25:18.792+08:00,Voice Assistant: Select third chat,ok,1301.05,17.8307,13.5795
+468,xinpei,2026-06-01T11:25:26.952+08:00,Voice Assistant: Type good morning Mum,ok,1229.05,14.3299,13.5813
+469,xinpei,2026-06-01T11:25:34.763+08:00,Voice Assistant: Send,ok,776.02,13.8896,13.5814
+470,xinpei,2026-06-01T11:25:43.130+08:00,Voice Assistant: Delete the message,ok,1007.08,11.8473,13.5819
+471,xinpei,2026-06-01T11:25:51.014+08:00,Voice Assistant: Stop automation,ok,585.33,9.9311,13.5821
+472,xinpei,2026-06-01T11:28:00.072+08:00,Voice Assistant: 打开油管,ok,7498.12,24.3435,13.6802
+473,xinpei,2026-06-01T11:28:15.251+08:00,Voice Assistant: 搜索周兴哲,ok,6768.26,14.8061,13.6902
+474,xinpei,2026-06-01T11:28:39.920+08:00,Voice Assistant: 播放第一个,ok,3595.28,16.6691,13.6884
+475,xinpei,2026-06-01T11:28:55.380+08:00,Voice Assistant: 生,ok,1212.83,15.4112,13.6889
+476,xinpei,2026-06-01T11:29:05.865+08:00,Voice Assistant: 暂停,ok,2188.71,13.0572,13.6902
+477,xinpei,2026-06-01T11:29:16.551+08:00,Voice Assistant: 继续播放并调高音量,ok,2216.95,12.3375,13.6931
+478,xinpei,2026-06-01T11:29:27.539+08:00,Voice Assistant: 继续播放啊,ok,2128.78,12.4901,13.6951
+479,xinpei,2026-06-01T11:29:44.179+08:00,Voice Assistant: 停止退出,ok,2518.09,10.5897,13.7004
+480,xinpei,2026-06-01T11:30:02.144+08:00,Voice Assistant: 停止自动化,ok,3209.36,18.3509,13.7009
+481,xinpei,2026-06-01T11:33:13.198+08:00,Gesture Control: Cursor movement,ok,0.07,15.3209,14.3333
+482,xinpei,2026-06-01T11:34:26.243+08:00,Gesture Control: Launch Voice Assistant,ok,0.09,14.5181,13.9051
+483,xinpei,2026-06-01T11:35:02.987+08:00,Voice Assistant: Open gesture,ok,7622.96,12.2922,17.6354
+484,xinpei,2026-06-01T11:35:12.491+08:00,Voice Assistant: Open gesture control,ok,616.45,12.9290,17.6353
+485,xinpei,2026-06-01T11:35:29.714+08:00,Gesture Control: Cursor movement,ok,0.08,18.4516,17.8483
+486,xinpei,2026-06-01T11:38:18.719+08:00,Voice Assistant: Hello what is my name,ok,1859.47,6.7800,17.8463
+487,xinpei,2026-06-01T11:38:39.786+08:00,Voice Assistant: Good morning tell me a story,ok,1793.20,10.1588,11.4369
+488,xinpei,2026-06-01T11:59:11.546+08:00,Voice Assistant: Hello,ok,6178.74,8.0532,17.7727
+489,xinpei,2026-06-01T12:00:03.951+08:00,Voice Assistant: Hello good morning,ok,1573.80,11.8996,17.7830
+490,xinpei,2026-06-01T12:00:18.500+08:00,Voice Assistant: Open WhatsApp,ok,2923.07,13.4880,17.8776
+491,xinpei,2026-06-01T12:00:30.764+08:00,Voice Assistant: Open the Third,ok,453.17,13.1251,17.8779
+492,xinpei,2026-06-01T12:00:39.796+08:00,Voice Assistant: Open the third chat,ok,1230.91,21.7391,17.8780
+493,xinpei,2026-06-01T12:00:47.599+08:00,Voice Assistant: Type hello,ok,926.68,19.7716,17.8574
+494,xinpei,2026-06-01T12:00:56.018+08:00,Voice Assistant: Clear message,ok,997.32,19.8015,17.8571
+495,xinpei,2026-06-01T12:01:04.264+08:00,Voice Assistant: Type good morning and send,ok,1454.79,18.4876,17.8572
+496,xinpei,2026-06-01T12:01:16.239+08:00,Voice Assistant: Remove & Send,ok,422.34,16.6667,17.8573
+497,xinpei,2026-06-01T12:01:46.525+08:00,Voice Assistant: Send a message,ok,324.32,16.8163,20.3763
+498,xinpei,2026-06-01T12:01:59.076+08:00,Voice Assistant: Send a message please,ok,544.86,17.7278,20.3787
+499,xinpei,2026-06-01T12:02:06.935+08:00,Voice Assistant: Stop automation,ok,513.68,17.0774,20.3801
+500,testing,2026-06-01T12:18:57.533+08:00,Voice Assistant: Hello please open WhatsApp for me,ok,3049.67,10.3794,3.1307
+501,testing,2026-06-01T12:19:16.903+08:00,Voice Assistant: Search user PG,ok,1806.50,16.7182,13.5071
+502,testing,2026-06-01T12:19:26.116+08:00,Voice Assistant: Select first chat,ok,1186.77,14.3670,13.5098
+503,testing,2026-06-01T12:19:34.222+08:00,Voice Assistant: Type hello,ok,919.30,11.6215,13.5105
+504,testing,2026-06-01T12:19:43.104+08:00,Voice Assistant: Clear message,ok,1077.87,10.8455,13.5111
+505,testing,2026-06-01T12:19:52.727+08:00,Voice Assistant: Clear search,ok,1741.92,10.9793,13.5133
+506,testing,2026-06-01T12:20:00.901+08:00,Voice Assistant: Stop automation,ok,507.49,8.8470,13.5145
+507,testing,2026-06-01T12:20:37.794+08:00,Voice Assistant: Please open YouTube,ok,3713.06,17.6683,13.5606
+508,testing,2026-06-01T12:20:46.103+08:00,Voice Assistant: Open gesture control,ok,530.04,11.4766,13.5700
+509,testing,2026-06-01T12:20:53.870+08:00,Gesture Control: Launch Voice Assistant,ok,0.07,14.2562,14.2033
+510,testing,2026-06-01T12:21:19.070+08:00,Voice Assistant: Stop automation,ok,505.42,11.8530,14.1965
+511,xinpei01,2026-06-01T12:24:11.505+08:00,Voice Assistant: Hi open WhatsApp,ok,2776.55,16.0021,14.1814
+512,xinpei01,2026-06-01T12:24:20.269+08:00,Voice Assistant: Search user PG,ok,1318.88,19.0597,14.1817
+513,xinpei01,2026-06-01T12:24:29.257+08:00,Voice Assistant: Select the first chat,ok,1339.98,19.4929,14.0155
+514,xinpei01,2026-06-01T12:24:41.634+08:00,Voice Assistant: Hi good morning,ok,524.10,15.8031,14.0154
+515,xinpei01,2026-06-01T12:24:53.701+08:00,Voice Assistant: Good morning,ok,493.84,15.2885,14.0165
+516,xinpei01,2026-06-01T12:25:06.138+08:00,Voice Assistant: Good morning,ok,726.23,15.4489,14.0166
+517,xinpei01,2026-06-01T12:25:13.992+08:00,Voice Assistant: Enter good morning,ok,1037.84,17.9300,14.0166
+518,xinpei01,2026-06-01T12:25:21.991+08:00,Voice Assistant: Stop all the music stop automation,ok,644.18,17.8793,14.0165
+519,xinpei01,2026-06-01T12:26:40.315+08:00,Voice Assistant: Hi open WhatsApp,ok,2595.58,14.8954,14.0170
+520,xinpei01,2026-06-01T12:26:48.846+08:00,Voice Assistant: Select first chat,ok,1006.53,17.6777,14.0175
+521,xinpei01,2026-06-01T12:26:56.954+08:00,Voice Assistant: Stop automation,ok,720.37,27.2902,14.0176
+522,xinpei01,2026-06-01T12:27:14.200+08:00,Voice Assistant: Hi open WhatsApp,ok,2606.22,15.0166,14.0182
+523,xinpei01,2026-06-01T12:27:37.899+08:00,Voice Assistant: Ok,ok,576.61,19.6604,14.0182
+524,xinpei01,2026-06-01T12:28:01.227+08:00,Voice Assistant: Open WhatsApp,ok,552.15,12.1694,14.0200
+525,xinpei01,2026-06-01T12:28:08.987+08:00,Voice Assistant: Stop automation,ok,484.75,16.5604,14.0199
+526,xinpei01,2026-06-01T12:28:28.049+08:00,Voice Assistant: Hi open WhatsApp,ok,2643.94,13.1631,14.0203
+527,xinpei01,2026-06-01T12:28:40.841+08:00,Voice Assistant: Select first user,ok,621.75,21.2586,6.6421
+528,xinpei01,2026-06-01T12:28:53.310+08:00,Voice Assistant: First chat,ok,667.23,16.4849,6.6419
+529,xinpei01,2026-06-01T12:29:01.280+08:00,Voice Assistant: Stop automation,ok,462.62,20.5501,6.6418
+530,xinpei01,2026-06-01T12:29:28.554+08:00,Voice Assistant: Hi open WhatsApp,ok,2811.72,14.1116,6.6423
+531,xinpei01,2026-06-01T12:29:37.414+08:00,Voice Assistant: Select first chat,ok,998.15,20.4630,6.6423
+532,xinpei01,2026-06-01T12:29:49.647+08:00,Voice Assistant: The hello,ok,544.12,15.9057,6.6423
+533,xinpei01,2026-06-01T12:30:01.914+08:00,Voice Assistant: Tear hello,ok,661.13,13.2122,6.6422
+534,xinpei01,2026-06-01T12:30:09.533+08:00,Voice Assistant: Enter High,ok,945.08,17.9618,6.6422
+535,xinpei01,2026-06-01T12:30:17.649+08:00,Voice Assistant: Clear message,ok,749.31,16.5707,6.6422
+536,xinpei01,2026-06-01T12:30:30.092+08:00,Voice Assistant: Run gesture control,ok,646.56,14.2712,6.6422
+537,xinpei01,2026-06-01T12:30:38.609+08:00,Voice Assistant: Open open gesture control,ok,606.93,14.1206,6.6422
+538,xinpei01,2026-06-01T12:31:16.186+08:00,Gesture Control: Launch Voice Assistant,ok,0.07,18.6963,6.6892
+539,xinpei01,2026-06-01T12:31:24.083+08:00,Voice Assistant: Stop automation,ok,434.52,10.5633,6.6899
+540,xinpei01,2026-06-01T13:45:09.879+08:00,Voice Assistant: Please open WhatsApp,ok,2834.01,10.2501,3.1291
+541,xinpei01,2026-06-01T13:45:20.537+08:00,Voice Assistant: Blah blah blah blah blah,ok,683.92,8.9348,3.1355
+542,xinpei01,2026-06-01T13:45:38.376+08:00,Voice Assistant: Select first chat,ok,1435.16,13.5718,13.5055
+543,xinpei01,2026-06-01T13:45:47.454+08:00,Voice Assistant: Select second chat,ok,1152.51,11.8134,13.5077
+544,xinpei01,2026-06-01T13:45:57.649+08:00,Voice Assistant: Blah blah,ok,454.70,10.6532,13.5086
+545,xinpei01,2026-06-01T13:46:06.034+08:00,Voice Assistant: Stop automation,ok,616.80,12.8295,13.5091
+546,xinpei01,2026-06-01T13:47:55.228+08:00,Voice Assistant: Open YouTube,ok,3446.64,15.5484,3.0798
+547,xinpei01,2026-06-01T13:48:05.629+08:00,Voice Assistant: Blah blah,ok,489.35,11.1215,3.0885
+548,xinpei01,2026-06-01T13:48:16.861+08:00,Voice Assistant: Search Justin,ok,3978.42,14.7785,3.0903
+549,xinpei01,2026-06-01T13:48:35.424+08:00,Voice Assistant: Ok,ok,473.58,10.8103,13.4714
+550,xinpei01,2026-06-01T13:48:43.694+08:00,Voice Assistant: Stop automation,ok,555.87,14.8226,13.4743
+551,xinpei01,2026-06-01T13:49:27.841+08:00,Voice Assistant: 请打开油管,ok,5202.18,11.1474,13.5308
+552,xinpei01,2026-06-01T13:49:41.786+08:00,Voice Assistant: 搜索周杰伦,ok,5743.23,11.7647,13.5421
+553,xinpei01,2026-06-01T13:49:55.829+08:00,Voice Assistant: OK OK,ok,3472.47,12.3762,13.5432
+554,xinpei01,2026-06-01T13:50:12.952+08:00,Voice Assistant: 打开手动控制,ok,2207.81,6.6287,13.5445
+555,xinpei01,2026-06-01T13:50:19.873+08:00,Gesture Control: Launch Voice Assistant,ok,0.07,17.8566,14.1673
+556,xinpei01,2026-06-01T13:50:30.978+08:00,Voice Assistant: Things that you don't want,ok,734.90,11.0892,14.1623
+557,xinpei01,2026-06-01T13:50:39.047+08:00,Voice Assistant: Stop automation,ok,556.67,10.5505,14.1624
+558,xinpei01,2026-06-01T13:53:18.887+08:00,Voice Assistant: Good morning what is my name,ok,7603.01,9.1714,18.6219
+559,xinpei01,2026-06-01T13:53:38.538+08:00,Voice Assistant: 我的名字叫什么,ok,2886.37,7.7942,18.6297
+560,xinpei01,2026-06-01T13:54:04.803+08:00,Voice Assistant: 今天的日期是什么,ok,1987.63,6.8659,18.6298
+561,xinpei01,2026-06-01T13:54:19.614+08:00,Voice Assistant: 三加五等于多少,ok,2537.08,6.6597,18.6299
+562,xinpei01,2026-06-01T13:54:33.170+08:00,Voice Assistant: What is 3 / 3,ok,1050.58,11.6284,18.6299
+563,xinpei01,2026-06-01T13:54:40.922+08:00,Gesture Control: Cursor movement,ok,0.08,16.4988,18.8483
+564,xinpei01,2026-06-01T13:54:50.205+08:00,Gesture Control: Launch Voice Assistant,ok,0.08,15.0118,18.8518
+565,xinpei01,2026-06-01T13:54:59.367+08:00,Voice Assistant: Open gesture control,ok,475.00,7.9703,18.8467
+566,xinpei01,2026-06-01T13:55:03.847+08:00,Gesture Control: Cursor movement,ok,0.07,17.0032,18.8831
+567,xinpei01,2026-06-01T13:55:42.269+08:00,Voice Assistant: Open Chat gpt,ok,1790.68,16.3587,18.8747
+568,xinpei01,2026-06-01T13:55:52.996+08:00,Voice Assistant: I don't know what to,ok,468.40,16.8569,18.8747
+569,xinpei01,2026-06-01T13:56:25.450+08:00,Voice Assistant: Launch gastric control,ok,470.47,10.4803,18.8746
+570,xinpei01,2026-06-01T13:56:34.052+08:00,Voice Assistant: Launch gesture control,ok,590.97,9.9263,18.8745
+571,xinpei01,2026-06-01T13:56:40.338+08:00,Gesture Control: Launch Voice Assistant,ok,0.07,28.1205,18.9155
+572,xinpei01,2026-06-01T13:56:49.228+08:00,Voice Assistant: Stop automation,ok,674.93,15.4746,18.9074
+573,xinpei01,2026-06-01T13:57:19.804+08:00,Voice Assistant: Open Google Map,ok,1540.49,22.3942,18.9716
+574,xinpei01,2026-06-01T13:58:04.361+08:00,Voice Assistant: Open Google News,ok,1141.57,21.6021,18.3717
+575,xinpei01,2026-06-01T13:58:19.723+08:00,Voice Assistant: IPhone,ok,669.82,15.8990,18.3649
+576,xinpei01,2026-06-01T13:58:40.292+08:00,Voice Assistant: Open Google Maps,ok,1902.45,22.2941,18.1617
+577,xinpei01,2026-06-01T13:58:51.202+08:00,Voice Assistant: Hello hello,ok,399.38,16.6860,13.2038
+578,xinpei01,2026-06-01T13:59:00.001+08:00,Voice Assistant: Search United States,ok,1143.99,19.0883,13.2037
+579,xinpei01,2026-06-01T13:59:08.335+08:00,Voice Assistant: Stop automation,ok,778.75,13.4238,13.2035
+580,xinpei01,2026-06-01T13:59:32.705+08:00,Voice Assistant: Please open WhatsApp,ok,2698.85,13.0225,13.2447
+581,xinpei01,2026-06-01T13:59:40.790+08:00,Voice Assistant: Stop stop automation,ok,520.76,12.2141,13.2446
+582,xinpei01,2026-06-08T11:45:57.994+08:00,Voice Assistant: Good morning please take screenshot,ok,9751.16,12.0075,17.7760
+583,xinpei01,2026-06-08T11:46:13.307+08:00,Voice Assistant: Take screenshot,ok,1178.23,9.8755,17.7884
+584,xinpei01,2026-06-08T11:47:06.790+08:00,Voice Assistant: 请打开聊天应用,ok,4831.00,7.0788,17.9057
+585,xinpei01,2026-06-08T11:47:17.849+08:00,Voice Assistant: 请选择第三个聊天,ok,2210.74,8.7653,17.9070
+586,xinpei01,2026-06-08T11:47:36.773+08:00,Voice Assistant: 打开手势控制,ok,1577.44,7.4987,20.4341
+587,xinpei01,2026-06-08T11:47:47.117+08:00,Gesture Control: Launch Voice Assistant,ok,0.08,10.2125,21.0389
+588,xinpei01,2026-06-08T11:47:58.328+08:00,Voice Assistant: Things that you are,ok,610.48,6.7619,21.0383
+589,xinpei01,2026-06-08T11:48:06.443+08:00,Voice Assistant: Stop automation,ok,433.95,5.7091,21.0389
+590,xinpei01,2026-06-08T11:48:35.419+08:00,Gesture Control: Launch Voice Assistant,ok,0.07,11.6457,21.0773
+591,xinpei01,2026-06-08T11:48:49.500+08:00,Voice Assistant: Hello good morning how are you,ok,1582.54,7.6048,21.0777
+592,xinpei01,2026-06-08T11:49:00.414+08:00,Voice Assistant: Good morning what is the time today,ok,644.78,9.2810,21.0777
+593,xinpei01,2026-06-08T11:49:21.098+08:00,Voice Assistant: What is today's date,ok,437.68,8.0422,21.0790
+594,xinpei01,2026-06-08T11:49:35.902+08:00,Voice Assistant: What is today's date,ok,411.20,9.7141,21.0787
+595,xinpei01,2026-06-08T11:49:50.790+08:00,Voice Assistant: What is the time now,ok,419.42,6.6504,21.0787
+596,xinpei01,2026-06-08T11:50:06.597+08:00,Voice Assistant: What is 3 + 1 =,ok,1546.23,6.8742,21.0801
+597,xinpei01,2026-06-08T11:50:16.843+08:00,Voice Assistant: Open gesture control,ok,638.32,7.6730,21.0801
+598,xinpei01,2026-06-08T11:50:21.743+08:00,Gesture Control: Cursor movement,ok,0.07,12.4174,21.1578
+599,xinpei01,2026-06-08T11:50:44.555+08:00,Gesture Control: Cursor movement,ok,0.07,11.1139,21.1573
+600,lee,2026-06-08T12:30:04.715+08:00,Voice Assistant: Can you tell me what is,ok,12626.98,11.5636,18.2502
+601,lee,2026-06-08T12:30:17.477+08:00,Voice Assistant: What is the answer of 3 + 3,ok,1607.01,11.0392,18.2524
+602,lee,2026-06-08T12:30:37.002+08:00,Voice Assistant: Take screenshot,ok,2937.85,9.5754,18.2512
+603,lee,2026-06-08T12:31:34.985+08:00,Voice Assistant: Can you explain what is the meaning of computer science,ok,1146.92,10.6542,18.2516
+604,lee,2026-06-08T12:32:09.006+08:00,Voice Assistant: 三加一等于多少,ok,3743.43,9.0077,18.2799
+605,lee,2026-06-08T12:32:57.242+08:00,Voice Assistant: Can you open gesture control,ok,754.39,9.1532,18.2801
+606,lee,2026-06-08T12:34:00.862+08:00,Gesture Control: Launch Voice Assistant,ok,0.09,12.7657,18.8535
+607,lee,2026-06-08T12:34:19.889+08:00,Voice Assistant: Just like the orientation methods like you have,ok,2696.41,8.5547,18.8611
+608,lee,2026-06-08T12:37:56.619+08:00,Voice Assistant: Please open YouTube,ok,7898.38,17.6349,18.8935
+609,lee,2026-06-08T12:38:15.207+08:00,Voice Assistant: Search for Coldplay Yellow,ok,4498.07,13.0122,18.8978
+610,lee,2026-06-08T12:38:27.375+08:00,Voice Assistant: Play first,ok,3389.20,15.4258,18.8988
+611,lee,2026-06-08T12:38:48.651+08:00,Voice Assistant: Increase volume,ok,1479.59,15.0460,18.8994
+612,lee,2026-06-08T12:38:56.574+08:00,Voice Assistant: Pause video,ok,617.09,12.2276,18.8999
+613,lee,2026-06-08T12:39:26.974+08:00,Voice Assistant: It's not a direct Voice with the system it will not,ok,1677.27,9.1702,18.9021
+614,lee,2026-06-08T12:39:35.513+08:00,Voice Assistant: Resume video,ok,504.43,11.2764,18.9022
+615,lee,2026-06-08T12:39:43.461+08:00,Voice Assistant: Pause video,ok,639.15,9.8274,18.9028
+616,lee,2026-06-08T12:39:52.471+08:00,Voice Assistant: Open gesture control,ok,857.87,9.9708,18.9029
+617,lee,2026-06-08T12:41:41.476+08:00,Gesture Control: Launch Voice Assistant,ok,0.08,14.9531,19.0403
+618,lee,2026-06-08T12:41:52.641+08:00,Voice Assistant: Stop auto mission,ok,610.88,10.9330,19.0379
+619,lee,2026-06-08T12:42:02.274+08:00,Voice Assistant: Stop automation currently can,ok,1008.73,12.4975,19.0380
+620,lee,2026-06-14T13:45:22.507+08:00,Voice Assistant: Hello good morning what is the date today,ok,679.88,18.5738,3.0237
+621,lee,2026-06-14T13:45:33.727+08:00,Voice Assistant: What time is today,ok,499.21,18.6308,3.0263
+622,lee,2026-06-14T13:46:08.831+08:00,Voice Assistant: Please tell help me to take a screenshot,ok,10853.65,18.8700,17.7799
+623,lee,2026-06-14T13:46:26.817+08:00,Voice Assistant: Take screenshot,ok,1278.97,9.4796,17.7906
+624,lee,2026-06-14T13:46:57.661+08:00,Voice Assistant: What is 3 - 1,ok,1072.00,7.4961,17.7911
+625,lee,2026-06-14T13:47:11.848+08:00,Voice Assistant: Hi Friday I'm very sad today,ok,1326.55,11.1155,17.7914
+626,lee,2026-06-14T13:47:38.824+08:00,Voice Assistant: I've been wondering can you explain to me what is computer science,ok,4607.70,12.6468,17.7910
+627,lee,2026-06-14T13:48:34.584+08:00,Voice Assistant: Please switch to gesture control,ok,1379.60,9.5002,17.8783
+628,lee,2026-06-14T13:48:43.340+08:00,Voice Assistant: Open gesture control,ok,394.92,9.2726,17.8784
+629,lee,2026-06-14T13:50:38.916+08:00,Gesture Control: Cursor movement,ok,0.07,13.8019,18.4322
+630,lee,2026-06-14T13:51:19.385+08:00,Gesture Control: Launch Voice Assistant,ok,0.08,14.7208,18.4591
+631,lee,2026-06-14T13:51:38.788+08:00,Voice Assistant: Hello please tell me a story,ok,1374.98,8.3058,18.4594
+632,lee,2026-06-14T13:53:14.563+08:00,Voice Assistant: 你好请打开油管,ok,8966.79,14.0376,18.4962
+633,lee,2026-06-14T13:53:25.982+08:00,Voice Assistant: 搜索,ok,1471.77,9.4678,18.4999
+634,lee,2026-06-14T13:53:39.627+08:00,Voice Assistant: 搜索一半一半,ok,5469.09,10.1736,18.5002
+635,lee,2026-06-14T13:53:54.027+08:00,Voice Assistant: 播放第一个,ok,4748.85,13.3711,18.5011
+636,lee,2026-06-14T13:54:19.119+08:00,Voice Assistant: 调高音量,ok,2089.20,14.4311,19.3770
+637,lee,2026-06-14T13:54:36.112+08:00,Voice Assistant: 调低音量,ok,2580.16,11.6348,19.3773
+638,lee,2026-06-14T13:54:46.747+08:00,Voice Assistant: 暂停播放,ok,2103.68,10.7025,19.3779
+639,lee,2026-06-14T13:54:56.648+08:00,Voice Assistant: 继续播放,ok,1399.19,9.6341,14.4005
+640,lee,2026-06-14T13:55:08.514+08:00,Voice Assistant: 停止自动化,ok,3230.50,10.2255,14.4004
+641,lee,2026-06-14T13:55:38.795+08:00,Voice Assistant: Open WhatsApp,ok,2754.02,9.9194,14.4806
+642,lee,2026-06-14T13:55:47.514+08:00,Voice Assistant: Select second chat,ok,1170.85,10.5445,14.4806
+643,lee,2026-06-14T13:55:56.524+08:00,Voice Assistant: Search user y r n,ok,1608.43,12.5945,14.4806
+644,lee,2026-06-14T13:56:10.646+08:00,Voice Assistant: Select first chat,ok,1003.92,12.0925,14.4804
+645,lee,2026-06-14T13:56:31.363+08:00,Voice Assistant: Open gesture control,ok,1130.60,6.5829,14.4804
+646,lee,2026-06-14T13:56:53.310+08:00,Gesture Control: Launch Voice Assistant,ok,0.07,14.1411,14.7146
+647,lee,2026-06-14T13:57:02.680+08:00,Voice Assistant: Search user PG,ok,1417.46,11.7566,14.7134
+648,lee,2026-06-14T13:57:11.209+08:00,Voice Assistant: Clear search,ok,1181.85,10.3807,14.7134
+649,lee,2026-06-14T13:57:19.781+08:00,Voice Assistant: Select third chat,ok,1019.84,10.9670,14.7135
+650,lee,2026-06-14T13:57:28.034+08:00,Voice Assistant: Enter hello from Lee automation,ok,1632.72,8.1830,14.7131
+651,lee,2026-06-14T13:57:36.268+08:00,Voice Assistant: Clear message,ok,724.94,9.9219,14.7131
+652,lee,2026-06-14T13:57:44.712+08:00,Voice Assistant: Enter message hello automation,ok,1575.59,11.3946,14.7131
+653,lee,2026-06-14T13:57:52.603+08:00,Voice Assistant: Send message,ok,1147.48,9.4927,14.7131
+654,lee,2026-06-14T13:58:00.429+08:00,Voice Assistant: Stop automation,ok,553.79,13.0494,14.7130
+655,lee,2026-06-14T14:01:37.895+08:00,Gesture Control: Right-click,ok,0.07,11.7008,8.6758
+656,lee,2026-06-14T14:01:48.302+08:00,Gesture Control: Double click,ok,0.07,13.3832,8.7041
+657,lee,2026-06-14T14:07:41.039+08:00,Voice Assistant: Hi Friday do you know who am I,ok,1497.84,7.6287,8.5050
+658,lee,2026-06-14T14:07:54.207+08:00,Voice Assistant: Do you know what's my name,ok,1081.24,7.7539,8.5058
+659,lee,2026-06-14T14:08:15.628+08:00,Voice Assistant: Great now do 4 / 2 for me,ok,979.48,10.0926,8.5059
+660,lee,2026-06-14T14:08:37.736+08:00,Voice Assistant: 你好可以告诉我今天的日期吗,ok,3899.13,5.5748,8.5084
+661,lee,2026-06-14T14:08:57.904+08:00,Voice Assistant: 可以告诉我现在的时间吗,ok,2404.66,6.1620,8.5098
+662,lee,2026-06-14T14:09:19.831+08:00,Voice Assistant: 可以告诉我今天的日期吗,ok,3010.10,8.2833,8.5099
+663,lee,2026-06-14T14:09:50.952+08:00,Voice Assistant: Open gesture control,ok,957.72,6.2976,8.5099
+664,lee,2026-06-14T14:11:45.262+08:00,Gesture Control: Launch Voice Assistant,ok,0.07,12.3834,8.3286
+665,lee,2026-06-14T14:12:00.220+08:00,Voice Assistant: Open YouTube for me,ok,7546.99,14.3600,8.3288
+666,lee,2026-06-14T14:12:10.925+08:00,Voice Assistant: Please search dais,ok,3945.24,10.1555,8.3307
+667,lee,2026-06-14T14:12:20.555+08:00,Voice Assistant: Play the first song,ok,2038.77,8.9208,8.3310
+668,lee,2026-06-14T14:12:36.161+08:00,Voice Assistant: Increase the volume for me,ok,545.38,10.8923,8.3310
+669,lee,2026-06-14T14:12:44.157+08:00,Voice Assistant: Increase volume,ok,914.57,12.3189,8.3310
+670,lee,2026-06-14T14:12:52.393+08:00,Voice Assistant: Decrease volume,ok,869.11,17.2373,8.3311
+671,lee,2026-06-14T14:13:00.605+08:00,Voice Assistant: Open gesture control,ok,521.96,11.1309,8.3311
+672,lee,2026-06-14T14:13:48.412+08:00,Gesture Control: Launch Voice Assistant,ok,0.08,18.5771,8.3786
+673,lee,2026-06-14T14:13:55.837+08:00,Voice Assistant: Pause the video for me,ok,455.73,11.7073,8.3792
+674,lee,2026-06-14T14:14:04.045+08:00,Voice Assistant: Stop automation,ok,854.60,21.3373,8.3787
+675,yan02,2026-06-14T14:17:18.234+08:00,Voice Assistant: Hi Friday what's my name,ok,1450.45,29.3454,8.0683
+676,yan02,2026-06-14T14:18:40.585+08:00,Voice Assistant: Hi Friday what's my name,ok,1715.62,28.2993,7.2541
+677,yan02,2026-06-14T14:18:57.602+08:00,Voice Assistant: Can you tell me the date for today,ok,1630.60,31.4917,7.2544
+678,yan02,2026-06-14T14:19:16.236+08:00,Voice Assistant: What is the date for today,ok,666.42,34.2471,7.2544
+679,yan02,2026-06-14T14:20:18.765+08:00,Voice Assistant: Hi Friday what's my name,ok,1242.22,36.9334,6.8311
+680,yan02,2026-06-14T14:20:30.608+08:00,Voice Assistant: What is 3 + 2,ok,996.99,31.2248,6.8311
+681,yan02,2026-06-14T14:20:53.099+08:00,Voice Assistant: 可以告诉我今天的时间吗,ok,3080.86,28.5173,6.8314
+682,yan02,2026-06-14T14:21:04.895+08:00,Voice Assistant: Hi Friday open gesture control,ok,604.79,29.7416,6.8313
+683,yan02,2026-06-14T14:22:24.012+08:00,Gesture Control: Cursor movement,ok,0.07,42.3424,6.1197
+684,yan02,2026-06-14T14:23:14.367+08:00,Voice Assistant: Good morning Friday,ok,1120.91,31.4616,6.1181
+685,yan02,2026-06-14T14:23:25.617+08:00,Voice Assistant: Can you tell me what's my name,ok,1406.22,30.5069,6.1182
+686,yan02,2026-06-14T14:23:37.364+08:00,Voice Assistant: How much is 3 + 2,ok,856.41,30.4010,6.1182
+687,yan02,2026-06-14T14:23:54.005+08:00,Voice Assistant: 请告诉我现在的时间,ok,2104.30,30.7523,6.1187
+688,yan02,2026-06-14T14:24:06.575+08:00,Voice Assistant: Hi Friday open gesture control,ok,698.99,32.5224,6.1187
+689,yan02,2026-06-14T14:24:42.959+08:00,Gesture Control: Launch Voice Assistant,ok,0.06,42.6172,6.1349
+690,yan02,2026-06-14T14:24:56.740+08:00,Voice Assistant: Hi Friday open YouTube for,ok,4775.76,42.2248,6.1324
+691,yan02,2026-06-14T14:25:08.837+08:00,Voice Assistant: Please search yummy,ok,4136.79,45.5170,4.0468
+692,yan02,2026-06-14T14:25:19.379+08:00,Voice Assistant: Please,ok,415.41,40.4091,4.0468
+693,yan02,2026-06-14T14:25:29.948+08:00,Voice Assistant: Play the first video for me,ok,2330.68,52.3745,4.0468
+694,yan02,2026-06-14T14:25:46.249+08:00,Voice Assistant: Increase the volume,ok,669.84,54.1194,4.0470
+695,yan02,2026-06-14T14:25:55.257+08:00,Voice Assistant: Increase volume,ok,1591.74,57.6907,4.0470
+696,yan02,2026-06-14T14:26:02.995+08:00,Voice Assistant: Pause the video,ok,638.87,57.0752,4.0470
+697,yan02,2026-06-14T14:26:11.423+08:00,Voice Assistant: Open gesture control,ok,496.00,43.1366,4.0470
+698,yan02,2026-06-14T14:26:30.823+08:00,Gesture Control: Launch Voice Assistant,ok,0.12,61.6341,4.0625
+699,yan02,2026-06-14T14:26:39.084+08:00,Voice Assistant: Pause the video,ok,545.72,56.4013,4.0603
+700,yan02,2026-06-14T14:26:47.594+08:00,Voice Assistant: Stop automation,ok,512.19,44.9525,4.0596
+701,yan02,2026-06-14T14:27:39.723+08:00,Gesture Control: Cursor movement,ok,0.07,56.1121,4.0764
+702,yan02,2026-06-14T14:28:39.104+08:00,Voice Assistant: Good morning Friday,ok,1336.04,31.4331,4.0734
+703,yan02,2026-06-14T14:28:50.411+08:00,Voice Assistant: Can you tell me what's my name,ok,1331.46,29.3051,3.6089
+704,yan02,2026-06-14T14:29:01.578+08:00,Voice Assistant: Please tell me how much is 3 + 2,ok,1114.49,31.4618,3.6089
+705,yan02,2026-06-14T14:29:18.612+08:00,Voice Assistant: 请告诉我现在的时间,ok,2258.15,34.2545,3.6090
+706,yan02,2026-06-14T14:29:30.788+08:00,Voice Assistant: Hi Friday open gesture control,ok,634.01,30.8562,3.6090
+707,yan02,2026-06-14T14:30:00.679+08:00,Gesture Control: Launch Voice Assistant,ok,0.08,42.9651,3.6335
+708,yan02,2026-06-14T14:30:16.530+08:00,Voice Assistant: Hi Friday open YouTube for me,ok,8635.05,47.0028,3.5398
+709,yan02,2026-06-14T14:30:26.913+08:00,Voice Assistant: Thank you,ok,410.50,41.9259,3.5397
+710,yan02,2026-06-14T14:30:38.539+08:00,Voice Assistant: Please search baby by,ok,4251.26,42.0584,3.5394
+711,yan02,2026-06-14T14:30:48.809+08:00,Voice Assistant: Play the first video,ok,2263.19,47.5836,3.5393
+712,yan02,2026-06-14T14:31:03.370+08:00,Voice Assistant: Increase volume,ok,1080.55,62.7946,3.4208
+713,yan02,2026-06-14T14:31:11.085+08:00,Voice Assistant: Pause the video,ok,499.65,54.2818,3.4100
+714,yan02,2026-06-14T14:31:19.571+08:00,Voice Assistant: No open gesture control,ok,726.86,45.9456,3.4118
+715,yan02,2026-06-14T14:31:56.323+08:00,Gesture Control: Cursor movement,ok,0.09,58.1777,3.4749
+716,yan02,2026-06-14T15:45:08.206+08:00,Voice Assistant: Hi good morning,ok,12542.19,35.2237,17.8586
+717,yan02,2026-06-14T15:45:27.751+08:00,Gesture Control: Cursor movement,ok,0.08,36.6993,18.4642
+718,yan02,2026-06-26T16:30:34.925+08:00,Voice Assistant: Hi good morning how are you today,ok,10895.11,12.4322,17.7782
+719,yan02,2026-06-26T16:30:47.832+08:00,Voice Assistant: Do you know what is my name,ok,1191.76,13.2061,17.7790
+720,yan02,2026-06-26T16:31:07.507+08:00,Voice Assistant: 一加一等于多少,ok,3355.94,13.5915,17.7910
+721,yan02,2026-06-26T16:31:38.126+08:00,Voice Assistant: Open gesture control,ok,675.36,14.0517,17.7910
+722,yan02,2026-06-26T16:31:48.604+08:00,Gesture Control: Launch Voice Assistant,ok,0.07,27.5327,18.3603
+723,yan02,2026-06-26T16:31:59.168+08:00,Voice Assistant: Thank you so much,ok,1789.04,15.9044,18.3630
+724,chow03,2026-06-27T16:36:05.958+08:00,Gesture Control: Launch Voice Assistant,ok,0.08,11.7451,0.9388
+725,chow03,2026-06-27T16:36:49.613+08:00,Voice Assistant: Hi do you know what is the meaning of Science,ok,11488.35,12.6135,18.1739
+726,chow03,2026-06-27T16:37:02.151+08:00,Voice Assistant: What is 1 / 5,ok,755.59,9.6535,18.1745
+727,chow03,2026-06-27T16:37:27.520+08:00,Voice Assistant: Do you know how we get free food in the world,ok,1593.84,7.9584,18.1796
+728,chow03,2026-06-27T16:37:45.625+08:00,Voice Assistant: 可以和我说下今天的日期吗,ok,3883.26,7.6873,18.2938
+729,chow03,2026-06-27T16:38:01.341+08:00,Voice Assistant: 现在是什么时间,ok,2696.31,8.3526,18.2941
+730,chow03,2026-06-27T16:38:25.913+08:00,Voice Assistant: 可以和我说下马来西亚的来源吗简单的,ok,3485.33,7.4894,18.2952
+731,chow03,2026-06-27T16:38:43.887+08:00,Voice Assistant: 马来西亚沙巴,ok,2636.77,6.4574,18.2959
+732,chow03,2026-06-27T16:39:02.037+08:00,Voice Assistant: 可以和我说下马来西亚沙巴的来源吗,ok,4006.78,10.8501,18.2965
+733,chow03,2026-06-27T16:39:20.405+08:00,Voice Assistant: 打开手动操作,ok,2116.52,13.2807,18.2968
+734,chow03,2026-06-27T16:39:33.047+08:00,Voice Assistant: 打开手势控制,ok,2385.76,15.0347,18.2969
+735,chow03,2026-06-27T16:39:39.019+08:00,Gesture Control: Launch Voice Assistant,ok,0.07,17.8889,18.4888
+736,chow03,2026-06-27T16:39:48.905+08:00,Voice Assistant: What time is today,ok,337.68,8.0213,18.4800
+737,chow03,2026-06-27T16:39:59.974+08:00,Voice Assistant: What is the date today,ok,592.88,7.9277,18.4801
+738,chow03,2026-06-27T16:40:32.077+08:00,Voice Assistant: Can you tell me how the world is created,ok,1523.49,9.5416,18.4797
+739,chow03,2026-06-27T16:40:42.955+08:00,Voice Assistant: Thank you so much,ok,885.49,11.9184,18.4808
+740,chow03,2026-06-27T16:41:06.570+08:00,Gesture Control: Drag and drop,ok,0.07,15.6765,18.5001
+741,chow03,2026-06-27T16:41:18.617+08:00,Gesture Control: Zoom gestures,ok,0.12,13.3669,18.5454
+742,chow03,2026-06-27T16:41:24.568+08:00,Gesture Control: Pinch gestures,ok,0.07,14.0380,18.5497
+743,chow03,2026-06-27T16:41:40.459+08:00,Gesture Control: Cursor movement,ok,0.07,14.0158,18.5531
+744,chow03,2026-06-28T13:22:28.385+08:00,Gesture Control: Cursor movement,ok,0.08,17.5168,0.9270
+745,chow03,2026-06-28T13:23:22.266+08:00,Gesture Control: Launch Voice Assistant,ok,0.08,15.3091,0.9402
+746,chow03,2026-06-28T13:23:58.114+08:00,Voice Assistant: Hello good morning how are you,ok,11659.19,15.3837,10.0520
+747,chow03,2026-06-28T13:24:12.986+08:00,Voice Assistant: What is 1 - 3 = 2,ok,1072.83,15.8275,10.0822
+748,chow03,2026-07-06T22:55:12.283+08:00,Gesture Control: Right-click,ok,0.09,23.3405,0.9886
+749,chow03,2026-07-06T22:56:08.723+08:00,Voice Assistant: He who invented mathematics,ok,13339.32,24.7463,17.7362
+750,chow03,2026-07-06T22:56:29.715+08:00,Voice Assistant: May I ask who invented mathematics,ok,3547.76,15.8814,17.7509
+751,chow03,2026-07-06T22:56:46.946+08:00,Voice Assistant: Who invented Python programming language,ok,1711.04,24.1567,17.8471
+752,chow03,2026-07-06T22:57:15.483+08:00,Voice Assistant: Can you explain to me who invented Python programming language,ok,5418.03,15.9421,17.8480
+753,chow03,2026-07-06T22:57:34.733+08:00,Voice Assistant: 现在是什么时间,ok,2984.42,20.8402,17.8709
+754,chow03,2026-07-06T22:57:55.451+08:00,Voice Assistant: Please open WhatsApp,ok,2915.70,26.4890,17.9754
+755,chow03,2026-07-06T22:58:04.247+08:00,Voice Assistant: Select first chat,ok,1020.36,21.7252,17.9759
+756,chow03,2026-07-06T22:58:12.496+08:00,Voice Assistant: Type message how are you,ok,1218.90,22.9680,17.9762
+757,chow03,2026-07-06T22:58:20.772+08:00,Voice Assistant: Clear message,ok,791.15,20.4833,17.9761
+758,chow03,2026-07-06T22:58:31.066+08:00,Voice Assistant: Type ok,ok,3430.48,20.0245,17.9809
+759,chow03,2026-07-06T22:58:39.511+08:00,Voice Assistant: Send message,ok,1409.20,23.7220,17.9817
+760,chow03,2026-07-06T22:58:47.449+08:00,Voice Assistant: Stop automation,ok,483.43,25.5122,17.9623
+761,chow03,2026-07-06T23:00:52.469+08:00,Gesture Control: Drag and drop,ok,0.09,27.7283,0.9745
+762,chow03,2026-07-06T23:02:09.375+08:00,Gesture Control: Right-click,ok,0.06,27.3517,0.9891
+763,chow03,2026-07-06T23:04:41.403+08:00,Gesture Control: Right-click,ok,0.04,24.1480,1.0013
+764,Shanyue,2026-07-07T12:16:13.500+08:00,Gesture Control: Cursor movement,ok,0.07,16.5135,0.9351
+765,Shanyue,2026-07-07T12:45:07.635+08:00,Gesture Control: Cursor movement,ok,0.07,17.2051,0.9518
+766,Shanyue,2026-07-07T12:48:53.192+08:00,Gesture Control: Cursor movement,ok,0.07,14.6562,0.9679
+767,Shanyue,2026-07-07T12:53:57.418+08:00,Voice Assistant: Please open YouTube,ok,5587.18,33.3535,13.6846
+768,Shanyue,2026-07-07T12:54:07.782+08:00,Voice Assistant: Please open Google,ok,463.64,20.4490,13.6953
+769,Shanyue,2026-07-07T12:54:18.068+08:00,Voice Assistant: Please open Google Maps,ok,519.87,8.3381,13.6965
+770,Shanyue,2026-07-07T12:54:25.975+08:00,Voice Assistant: Stop automation,ok,676.13,8.9094,13.6979
+771,Shanyue,2026-07-07T13:07:11.032+08:00,Gesture Control: Cursor movement,ok,0.07,13.3543,3.8360
+772,Shanyue,2026-07-07T13:23:47.258+08:00,Voice Assistant: Good morning how are you,ok,8908.18,9.0198,10.0258
+773,Shanyue,2026-07-07T13:23:59.288+08:00,Voice Assistant: Do you know what is my name,ok,1403.60,11.8671,10.0309
+774,Shanyue,2026-07-07T13:24:12.593+08:00,Voice Assistant: Do you know what is my name,ok,1091.40,8.0157,10.0314
+775,Shanyue,2026-07-07T13:24:23.305+08:00,Voice Assistant: Hi,ok,1320.58,9.8864,10.1313
+776,Shanyue,2026-07-07T13:24:33.416+08:00,Voice Assistant: Do you know who am I,ok,1246.42,6.1746,10.1318
+777,Shanyue,2026-07-07T13:24:44.188+08:00,Voice Assistant: My name is Sharni,ok,1077.26,10.2086,9.7123
+778,Shanyue,2026-07-07T13:24:55.860+08:00,Voice Assistant: Do you know what is my name,ok,1372.57,8.7905,9.4547
+779,Shanyue,2026-07-07T13:25:13.642+08:00,Voice Assistant: Hi do you know me,ok,1242.94,8.9141,9.4551
+780,Shanyue,2026-07-07T13:25:24.499+08:00,Voice Assistant: Open gesture control,ok,453.04,8.8694,9.4551
+781,Shanyue,2026-07-07T13:25:31.871+08:00,Gesture Control: Launch Voice Assistant,ok,0.06,11.2412,9.6220
+782,Shanyue,2026-07-07T13:25:47.443+08:00,Voice Assistant: Open gesture,ok,780.49,7.0579,9.6201
+783,Shanyue,2026-07-07T13:25:56.684+08:00,Voice Assistant: Open gesture control for me please,ok,676.92,10.5326,9.6200
+784,Shanyue,2026-07-07T13:26:03.512+08:00,Gesture Control: Launch Voice Assistant,ok,0.07,12.5552,9.6532
+785,Shanyue,2026-07-07T13:26:14.139+08:00,Voice Assistant: Hi how are you what is my name,ok,1102.22,9.3858,9.6457
+786,Shanyue,2026-07-07T13:28:47.463+08:00,Voice Assistant: Good afternoon Friday how are you,ok,1241.87,8.3032,9.6455
+787,Shanyue,2026-07-07T13:29:01.360+08:00,Voice Assistant: Could you tell me what day is today,ok,610.92,8.8109,9.6456
+788,Shanyue,2026-07-07T13:29:13.256+08:00,Voice Assistant: Could you tell me what is the time now,ok,677.35,9.1170,9.6456
+789,Shanyue,2026-07-07T13:29:34.422+08:00,Voice Assistant: Could you tell me who invented the computer,ok,1216.11,8.4141,9.6457
+790,Shanyue,2026-07-07T13:29:45.584+08:00,Voice Assistant: Please open Notepad for me,ok,1770.95,8.5928,9.7106
+791,Shanyue,2026-07-07T13:30:10.537+08:00,Voice Assistant: 你好现在是什么日期,ok,1645.53,9.6388,9.5838
+792,Shanyue,2026-07-07T13:30:23.418+08:00,Voice Assistant: 好的那一加一等于多少,ok,1669.32,10.7199,9.5845
+793,Shanyue,2026-07-07T13:31:39.519+08:00,Voice Assistant: Open YouTube and search Justin Bieber daisies,ok,8026.41,16.7880,9.4490
+794,Shanyue,2026-07-07T13:31:49.510+08:00,Voice Assistant: Thank you play first,ok,2168.03,13.0447,9.4490
+795,Shanyue,2026-07-07T13:31:59.862+08:00,Voice Assistant: The volume is quite loud decrease the,ok,522.25,8.5531,9.4492
+796,Shanyue,2026-07-07T13:32:10.046+08:00,Voice Assistant: The volume is quite loud decrease the volume,ok,638.70,13.7578,9.4493
+797,Shanyue,2026-07-07T13:32:18.344+08:00,Voice Assistant: The volume is quite loud decrease volume,ok,1082.69,13.2053,9.4494
+798,Shanyue,2026-07-07T13:32:26.498+08:00,Voice Assistant: Decrease volume again,ok,853.73,13.5919,9.4495
+799,Shanyue,2026-07-07T13:32:33.794+08:00,Voice Assistant: Pause the video about,ok,545.04,12.2948,9.4525
+800,Shanyue,2026-07-07T13:32:41.548+08:00,Voice Assistant: Great now resume the video again,ok,636.90,11.7831,9.4526
+801,Shanyue,2026-07-07T13:33:06.864+08:00,Voice Assistant: Open gesture control,ok,1260.45,7.8234,9.4526
+802,Shanyue,2026-07-07T13:33:49.016+08:00,Gesture Control: Launch Voice Assistant,ok,0.07,18.5149,9.5146
+803,Shanyue,2026-07-07T13:33:57.159+08:00,Voice Assistant: Stop automation,ok,476.46,13.1043,9.5132
+804,Shanyue,2026-07-07T13:34:37.204+08:00,Voice Assistant: 请打开谷歌新闻,ok,3575.85,13.1184,9.5135
+805,Shanyue,2026-07-07T13:34:48.046+08:00,Voice Assistant: 搜索世界杯新闻,ok,2752.74,10.7848,9.4985
+806,Shanyue,2026-07-07T13:34:59.394+08:00,Voice Assistant: 帮我煮饭,ok,1442.50,8.6464,9.4987
+807,Shanyue,2026-07-07T13:35:09.748+08:00,Voice Assistant: 停止自动化吧,ok,1866.80,8.5663,9.4986
+808,Shanyue,2026-07-07T13:35:41.115+08:00,Voice Assistant: Hello please open WhatsApp for me,ok,2922.33,7.9439,9.5354
+809,Shanyue,2026-07-07T13:35:49.063+08:00,Voice Assistant: Stop automation,ok,744.29,9.9083,9.5354
+810,Shanyue,2026-07-07T13:36:23.960+08:00,Voice Assistant: Hi please open gesture control for me,ok,859.56,9.0124,9.5349
+811,Shanyue,2026-07-07T13:39:47.129+08:00,Gesture Control: Cursor movement,ok,0.08,13.9017,9.5499
+812,Shanyue,2026-07-07T14:13:06.571+08:00,Voice Assistant: Good morning Friday how are you,ok,1252.43,12.0262,2.2893
+813,Shanyue,2026-07-07T14:14:19.797+08:00,Voice Assistant: Hello good day Friday how are you,ok,2565.87,10.4926,2.3139
+814,Shanyue,2026-07-07T14:14:30.559+08:00,Voice Assistant: Great let's start could you tell me what is the time,ok,909.77,12.3614,2.3191
+815,Shanyue,2026-07-07T14:14:54.009+08:00,Voice Assistant: Excellent could you tell me who invented computer,ok,1451.10,9.5087,1.8670
+816,Shanyue,2026-07-07T14:15:04.758+08:00,Voice Assistant: Thanks for the information please open Notepad for me,ok,1223.59,21.5738,1.8849
+817,Shanyue,2026-07-07T14:16:39.288+08:00,Voice Assistant: Hello good day Friday how are you,ok,1532.89,13.4603,1.8939
+818,Shanyue,2026-07-07T14:16:49.599+08:00,Voice Assistant: Tell me what is the time,ok,532.18,11.2900,1.8951
+819,Shanyue,2026-07-07T14:17:07.246+08:00,Voice Assistant: Excellent job could you tell me who invented calculator,ok,1246.76,12.6872,1.9001
+820,Shanyue,2026-07-07T14:17:17.720+08:00,Voice Assistant: Thanks for the information now please open Notepad,ok,963.87,12.6639,1.9014
+821,Shanyue,2026-07-07T14:17:46.192+08:00,Voice Assistant: 你好可以告诉我今天的日期是什么吗,ok,2718.17,12.0003,1.9274
+822,Shanyue,2026-07-07T14:18:01.266+08:00,Voice Assistant: 非常感谢请问一加一等于多少,ok,2746.95,11.9003,1.9305
+823,Shanyue,2026-07-07T14:18:56.916+08:00,Voice Assistant: Hi Friday please open YouTube and search Justin Bieber,ok,8284.05,18.5589,1.9562
+824,Shanyue,2026-07-07T14:19:08.581+08:00,Voice Assistant: Search Justin Bieber basis,ok,4436.53,25.4156,1.9598
+825,Shanyue,2026-07-07T14:19:19.559+08:00,Voice Assistant: Automation,ok,1195.94,27.4420,1.9605
+826,Shanyue,2026-07-07T14:19:27.453+08:00,Voice Assistant: Stop automation stop automation stop,ok,731.62,19.8650,1.9618
+827,Shanyue,2026-07-07T14:19:44.879+08:00,Voice Assistant: What is 1 + 1 =,ok,826.40,8.1573,1.9649
+828,Shanyue,2026-07-07T14:19:58.363+08:00,Voice Assistant: Good morning do you know who am I,ok,1089.00,9.7142,1.9004
+829,Shanyue,2026-07-07T14:20:07.540+08:00,Voice Assistant: Thank you so much,ok,1151.56,8.6234,1.9029
+830,Shanyue,2026-07-07T14:21:19.133+08:00,Voice Assistant: Good morning do you know who am I,ok,1095.14,9.2313,1.9077
+831,Shanyue,2026-07-07T14:21:29.772+08:00,Voice Assistant: Great let's start could you tell me what is the time now,ok,877.22,13.3247,1.9078
+832,Shanyue,2026-07-07T14:21:45.209+08:00,Voice Assistant: Excellent could you tell me who invented calculator,ok,1165.05,12.8018,1.9102
+833,Shanyue,2026-07-07T14:21:56.333+08:00,Voice Assistant: Thanks for information now please open Notepad,ok,1134.32,18.3762,1.9113
+834,Shanyue,2026-07-07T14:22:22.619+08:00,Voice Assistant: 你好可以告诉我今天的日期是什么,ok,2935.59,9.9171,1.9151
+835,Shanyue,2026-07-07T14:22:35.954+08:00,Voice Assistant: 好的那一加一等于多少,ok,2002.64,10.4962,1.9159
+836,Shanyue,2026-07-07T14:22:53.388+08:00,Voice Assistant: 好的非常感谢,ok,2030.11,9.3509,1.9184
+837,Shanyue,2026-07-07T14:24:14.922+08:00,Voice Assistant: Good morning do you know who am I,ok,1073.24,13.1579,1.9234
+838,Shanyue,2026-07-07T14:24:25.784+08:00,Voice Assistant: That's great could you tell me what is the time now,ok,853.51,16.1138,1.9234
+839,Shanyue,2026-07-07T14:24:41.161+08:00,Voice Assistant: Excellent no explain to me who invented calculator,ok,1250.09,9.0407,1.9238
+840,Shanyue,2026-07-07T14:24:51.945+08:00,Voice Assistant: Thank you for the information please open Notepad for me,ok,1331.14,11.4574,1.9260
+841,Shanyue,2026-07-07T14:25:20.437+08:00,Voice Assistant: 你好能告诉我今天的日期吗,ok,3687.91,10.1759,1.9282
+842,Shanyue,2026-07-07T14:25:33.055+08:00,Voice Assistant: 好的那一加一等于多少,ok,1522.60,12.8795,1.9284
+843,Shanyue,2026-07-07T14:27:23.467+08:00,Voice Assistant: Hello good morning I would like to open YouTube and search Justin Bieber,ok,8082.63,18.0765,1.9301
+844,Shanyue,2026-07-07T14:27:34.943+08:00,Voice Assistant: Search Justin Bieber d,ok,4224.57,22.1593,1.9320
+845,Shanyue,2026-07-07T14:27:43.562+08:00,Voice Assistant: Stop automation,ok,715.05,36.6368,1.9320
+846,Shanyue,2026-07-07T14:29:01.297+08:00,Voice Assistant: Hi Friday please open YouTube and search Justin Bieber,ok,7851.32,18.8015,1.9332
+847,Shanyue,2026-07-07T14:29:12.546+08:00,Voice Assistant: Search Justin Bieber thesis,ok,4217.28,23.5147,1.9380
+848,Shanyue,2026-07-07T14:29:24.045+08:00,Voice Assistant: Search Justin Bieber daisies,ok,4463.60,27.3064,1.9385
+849,Shanyue,2026-07-07T14:29:32.156+08:00,Voice Assistant: Stop automation,ok,560.65,27.4272,1.9389
+850,Shanyue,2026-07-07T14:31:09.524+08:00,Voice Assistant: Good morning please open YouTube and search Justin Bieber,ok,7706.20,17.8250,1.9098
+851,Shanyue,2026-07-07T14:31:20.710+08:00,Voice Assistant: Search Justin Bieber daisies,ok,4165.71,19.1957,1.9130
+852,Shanyue,2026-07-07T14:31:30.512+08:00,Voice Assistant: Could you play first,ok,2153.59,24.1482,1.9133
+853,Shanyue,2026-07-07T14:31:39.179+08:00,Voice Assistant: Decrease volume,ok,1186.55,26.6950,1.9140
+854,Shanyue,2026-07-07T14:31:54.598+08:00,Voice Assistant: Increase the volume,ok,432.35,25.0684,1.9142
+855,Shanyue,2026-07-07T14:32:02.743+08:00,Voice Assistant: Stop automation,ok,723.00,26.3846,1.9142
+856,Shanyue,2026-07-07T14:34:30.877+08:00,Voice Assistant: Hello good morning please open YouTube,ok,3703.05,27.5394,1.9153
+857,Shanyue,2026-07-07T14:34:42.222+08:00,Voice Assistant: Search Justin Bieber thesis,ok,4209.57,23.3879,1.9202
+858,Shanyue,2026-07-07T14:34:50.107+08:00,Voice Assistant: Stop automation,ok,466.41,24.7942,1.9202
+859,Shanyue,2026-07-07T14:36:17.883+08:00,Voice Assistant: Hi there open YouTube,ok,3160.98,17.8723,1.8744
+860,Shanyue,2026-07-07T14:36:28.254+08:00,Voice Assistant: Great search Justin Bieber,ok,557.74,21.0635,1.8763
+861,Shanyue,2026-07-07T14:36:36.668+08:00,Voice Assistant: Stop automation please,ok,868.21,28.6454,1.8768
+862,Shanyue,2026-07-07T14:37:12.584+08:00,Voice Assistant: So,ok,639.53,11.6376,1.8778
+863,Shanyue,2026-07-07T14:38:39.230+08:00,Voice Assistant: Hi there open YouTube,ok,3501.41,16.5609,1.8782
+864,Shanyue,2026-07-07T14:38:50.021+08:00,Voice Assistant: Search Justin Bieber,ok,4009.38,16.1807,1.8788
+865,Shanyue,2026-07-07T14:39:00.069+08:00,Voice Assistant: Could you play first,ok,2207.22,19.2981,1.8789
+866,Shanyue,2026-07-07T14:39:14.443+08:00,Voice Assistant: It's too loud decrease volume,ok,959.34,22.6741,1.8794
+867,Shanyue,2026-07-07T14:39:27.565+08:00,Voice Assistant: Pause video for me,ok,535.02,21.9471,1.8813
+868,Shanyue,2026-07-07T14:39:35.640+08:00,Voice Assistant: Resume video back,ok,923.55,20.0024,1.8813
+869,Shanyue,2026-07-07T14:39:49.420+08:00,Voice Assistant: Open gesture control,ok,523.11,17.0670,1.8819
+870,Shanyue,2026-07-07T14:40:18.776+08:00,Gesture Control: Launch Voice Assistant,ok,0.07,26.8300,2.1686
+871,Shanyue,2026-07-07T14:40:26.226+08:00,Voice Assistant: Pause video,ok,457.61,17.2168,2.1740
+872,Shanyue,2026-07-07T14:40:34.244+08:00,Voice Assistant: Excellent stop automation,ok,760.68,16.1141,2.1741
+873,Shanyue,2026-07-07T14:41:55.326+08:00,Voice Assistant: Hi there open Google News,ok,2150.47,20.6273,2.1747
+874,Shanyue,2026-07-07T14:42:09.413+08:00,Voice Assistant: Search FIFA World Cup,ok,1666.83,17.1380,2.1770
+875,Shanyue,2026-07-07T14:42:19.626+08:00,Voice Assistant: I'm hungry please cook for me,ok,599.47,14.4490,2.1771
+876,Shanyue,2026-07-07T14:42:27.742+08:00,Voice Assistant: Ok sure stop automation,ok,789.58,14.4893,2.1768
+877,Shanyue,2026-07-07T14:43:08.416+08:00,Voice Assistant: 请打开谷歌地图,ok,2923.22,23.3113,2.1786
+878,Shanyue,2026-07-07T14:43:19.163+08:00,Voice Assistant: 请搜索马来西亚,ok,2168.95,20.4117,2.1808
+879,Shanyue,2026-07-07T14:43:29.729+08:00,Voice Assistant: 搜索中国,ok,2222.67,18.9097,2.1817
+880,Shanyue,2026-07-07T14:43:40.759+08:00,Voice Assistant: 搜索喜马拉雅,ok,2638.55,19.7603,2.1818
+881,Shanyue,2026-07-07T14:43:50.920+08:00,Voice Assistant: 好的停止自动化,ok,1735.52,12.7060,2.1818
+882,Shanyue,2026-07-07T14:44:35.676+08:00,Voice Assistant: Hi I would like to open WhatsApp,ok,2979.38,15.2166,2.1855
+883,Shanyue,2026-07-07T14:44:44.535+08:00,Voice Assistant: Select first chat,ok,1037.91,19.3704,2.1862
+884,Shanyue,2026-07-07T14:44:53.446+08:00,Voice Assistant: Search user PG,ok,1339.38,17.5603,2.1864
+885,Shanyue,2026-07-07T14:45:02.131+08:00,Voice Assistant: Select first chat,ok,1178.08,13.0664,2.1713
+886,Shanyue,2026-07-07T14:45:09.794+08:00,Voice Assistant: Stop automation,ok,417.77,19.0313,2.1714
+887,Shanyue,2026-07-07T14:46:25.622+08:00,Voice Assistant: Good morning please open WhatsApp,ok,2849.95,14.3335,2.1725
+888,Shanyue,2026-07-07T14:46:34.389+08:00,Voice Assistant: Search user PG,ok,1338.98,20.2348,2.1726
+889,Shanyue,2026-07-07T14:46:43.049+08:00,Voice Assistant: Clear search,ok,1164.00,17.0633,2.1728
+890,Shanyue,2026-07-07T14:46:51.878+08:00,Voice Assistant: Search user you,ok,1491.27,16.9127,2.1724
+891,Shanyue,2026-07-07T14:47:00.536+08:00,Voice Assistant: Select first chat,ok,1085.24,18.8798,2.1725
+892,Shanyue,2026-07-07T14:47:11.606+08:00,Voice Assistant: Stop automation,ok,3644.41,19.8901,2.1722
+893,Shanyue,2026-07-07T14:47:32.964+08:00,Voice Assistant: Open WhatsApp,ok,2814.98,10.7203,2.1728
+894,Shanyue,2026-07-07T14:47:41.776+08:00,Voice Assistant: Select first chat,ok,1312.00,14.6315,2.1728
+895,Shanyue,2026-07-07T14:47:50.485+08:00,Voice Assistant: Search user PG,ok,1365.41,14.0524,2.1729
+896,Shanyue,2026-07-07T14:48:00.488+08:00,Voice Assistant: First check,ok,467.44,11.6510,2.1728
+897,Shanyue,2026-07-07T14:48:08.980+08:00,Voice Assistant: Select first chat,ok,1099.43,12.5818,2.1728
+898,Shanyue,2026-07-07T14:48:23.443+08:00,Voice Assistant: Clear search,ok,1483.16,16.7899,2.1726
+899,Shanyue,2026-07-07T14:48:32.017+08:00,Voice Assistant: Select third chat,ok,1194.70,12.3624,2.1728
+900,Shanyue,2026-07-07T14:48:40.726+08:00,Voice Assistant: Search user you,ok,1471.53,12.3826,2.1727
+901,Shanyue,2026-07-07T14:48:49.355+08:00,Voice Assistant: Select first chat,ok,1269.14,13.4970,2.1738
+902,Shanyue,2026-07-07T14:48:57.202+08:00,Voice Assistant: Stop automation,ok,579.25,11.8817,2.1736
+903,Shanyue,2026-07-07T15:09:54.510+08:00,Voice Assistant: Hello good morning,ok,10836.05,14.0932,17.7073
+904,Shanyue,2026-07-07T15:10:04.197+08:00,Voice Assistant: What is 1 + 1,ok,938.65,11.3624,17.7079
+905,Shanyue,2026-07-07T15:16:22.675+08:00,Voice Assistant: Good afternoon do you know who am I,ok,2570.71,11.2326,17.7187
+906,Shanyue,2026-07-07T15:16:33.586+08:00,Voice Assistant: Great let's start could you tell me what is the time now,ok,783.00,16.9047,17.7193
+907,Shanyue,2026-07-07T15:16:50.765+08:00,Voice Assistant: Excellent please tell me who invented calculator,ok,1935.10,12.9900,17.8083
+908,Shanyue,2026-07-07T15:17:00.731+08:00,Voice Assistant: Thank you for information now please open Notepad,ok,1272.26,19.3476,17.8714
+909,Shanyue,2026-07-07T15:17:35.228+08:00,Voice Assistant: 可以告诉我今天的日期是什么,ok,1964.78,11.5234,17.8777
+910,Shanyue,2026-07-07T15:17:46.607+08:00,Voice Assistant: 好的那一加一等于多少,ok,1311.47,11.0732,17.8781
+911,Shanyue,2026-07-07T15:18:58.318+08:00,Voice Assistant: Hi there please open YouTube,ok,4535.85,28.5075,16.8772
+912,Shanyue,2026-07-07T15:19:09.563+08:00,Voice Assistant: Search Justin Bieber dais,ok,4283.23,22.8690,16.8817
+913,Shanyue,2026-07-07T15:19:19.963+08:00,Voice Assistant: Ok play first,ok,2302.12,23.9305,16.0685
+914,Shanyue,2026-07-07T15:19:28.717+08:00,Voice Assistant: It's too loud decrease volume,ok,1046.43,27.0854,16.0684
+915,Shanyue,2026-07-07T15:19:49.673+08:00,Voice Assistant: Thank you please pause video,ok,594.83,26.9035,17.7876
+916,Shanyue,2026-07-07T15:19:57.310+08:00,Voice Assistant: Resume video back,ok,500.55,29.9760,17.7911
+917,Shanyue,2026-07-07T15:20:05.610+08:00,Voice Assistant: Open gesture control,ok,433.75,23.6366,17.7933
+918,Shanyue,2026-07-07T15:20:35.862+08:00,Gesture Control: Launch Voice Assistant,ok,0.07,28.8394,9.5606
+919,Shanyue,2026-07-07T15:20:45.587+08:00,Voice Assistant: Pause video,ok,2663.20,20.8934,9.5615
+920,Shanyue,2026-07-07T15:20:54.140+08:00,Voice Assistant: No stop automation,ok,1251.78,16.7178,9.5616
+921,Shanyue,2026-07-07T15:22:53.149+08:00,Voice Assistant: Good morning open YouTube and search Justin Bieber,ok,7659.78,18.9668,9.5623
+922,Shanyue,2026-07-07T15:23:01.663+08:00,Voice Assistant: Open gesture control,ok,467.38,28.8249,9.5649
+923,Shanyue,2026-07-07T15:23:14.538+08:00,Gesture Control: Launch Voice Assistant,ok,0.07,39.0235,9.6258
+924,Shanyue,2026-07-07T15:23:26.858+08:00,Voice Assistant: Search daisies,ok,4937.17,30.9928,9.6269
+925,Shanyue,2026-07-07T15:23:37.540+08:00,Voice Assistant: Ok play first,ok,2673.36,35.9811,9.6271
+926,Shanyue,2026-07-07T15:23:47.637+08:00,Voice Assistant: The volume is too loud decrease volume,ok,2408.39,38.3341,9.6268
+927,Shanyue,2026-07-07T15:23:55.128+08:00,Voice Assistant: Pause video,ok,470.56,33.5822,9.6268
+928,Shanyue,2026-07-07T15:24:02.846+08:00,Voice Assistant: Resume video back,ok,621.04,27.4475,9.6268
+929,Shanyue,2026-07-07T15:24:11.285+08:00,Voice Assistant: Please increase volume,ok,958.71,28.0768,9.6268
+930,Shanyue,2026-07-07T15:24:20.477+08:00,Voice Assistant: Open gesture control,ok,538.54,39.5188,9.6268
+931,Shanyue,2026-07-07T15:24:34.257+08:00,Gesture Control: Launch Voice Assistant,ok,0.09,48.2158,9.6570
+932,Shanyue,2026-07-07T15:24:41.994+08:00,Voice Assistant: Pause video,ok,372.83,45.3034,9.6593
+933,Shanyue,2026-07-07T15:24:50.444+08:00,Voice Assistant: Stop automation,ok,930.02,32.9885,9.6585
+934,Shanyue,2026-07-07T15:25:40.374+08:00,Voice Assistant: 请打开谷歌地图,ok,2867.95,22.5343,7.6599
+935,Shanyue,2026-07-07T15:25:52.667+08:00,Voice Assistant: 搜索马六甲,ok,2835.61,38.9388,7.6612
+936,Shanyue,2026-07-07T15:26:03.574+08:00,Voice Assistant: 帮我煮饭,ok,800.07,29.6536,7.6614
+937,Shanyue,2026-07-07T15:26:15.239+08:00,Voice Assistant: 停止自动化,ok,2737.59,30.3156,7.6613
+938,Shanyue,2026-07-07T15:27:11.176+08:00,Voice Assistant: 你好请打开谷歌新闻,ok,5235.45,18.7965,7.6617
+939,Shanyue,2026-07-07T15:27:22.368+08:00,Voice Assistant: 搜索世界杯,ok,2979.89,28.7974,7.6643
+940,Shanyue,2026-07-07T15:27:34.768+08:00,Voice Assistant: 我有点饿可以帮我煮饭吗,ok,2406.67,28.0234,7.6645
+941,Shanyue,2026-07-07T15:27:45.205+08:00,Voice Assistant: 好的停止自动化,ok,1775.47,35.5156,7.6644
+942,Shanyue,2026-07-07T15:28:40.144+08:00,Voice Assistant: Hi there please open WhatsApp,ok,3229.76,19.2153,7.3495
+943,Shanyue,2026-07-07T15:28:50.820+08:00,Voice Assistant: Select dirt chat,ok,690.47,18.1296,7.3498
+944,Shanyue,2026-07-07T15:28:58.812+08:00,Voice Assistant: Stop automation,ok,533.64,21.7487,7.3497
+945,Shanyue,2026-07-07T15:29:44.370+08:00,Voice Assistant: Hi please open WhatsApp,ok,2727.17,17.6953,7.3499
+946,Shanyue,2026-07-07T15:29:53.327+08:00,Voice Assistant: Select second chat,ok,1075.01,23.0702,7.1734
+947,Shanyue,2026-07-07T15:30:02.205+08:00,Voice Assistant: Search user you,ok,1399.83,27.0845,7.1734
+948,Shanyue,2026-07-07T15:30:12.612+08:00,Voice Assistant: Thank you select first chat,ok,568.37,19.1559,7.1730
+949,Shanyue,2026-07-07T15:30:21.555+08:00,Voice Assistant: Select first chat,ok,1237.88,23.8678,7.1730
+950,Shanyue,2026-07-07T15:30:29.349+08:00,Voice Assistant: Stop automation,ok,503.75,25.7086,7.1729
+951,Shanyue,2026-07-07T15:31:11.161+08:00,Voice Assistant: Good morning please open WhatsApp,ok,2770.62,15.3320,7.0229
+952,Shanyue,2026-07-07T15:31:20.023+08:00,Voice Assistant: Please select second chat,ok,1240.57,21.2799,7.0229
+953,Shanyue,2026-07-07T15:31:29.056+08:00,Voice Assistant: Search user you,ok,1476.35,24.4258,7.0229
+954,Shanyue,2026-07-07T15:31:37.606+08:00,Voice Assistant: Select first chat,ok,1054.45,20.8291,7.0228
+955,Shanyue,2026-07-07T15:31:45.818+08:00,Voice Assistant: Open gesture control,ok,462.11,19.3933,7.0226
+956,Shanyue,2026-07-07T15:31:55.750+08:00,Gesture Control: Launch Voice Assistant,ok,0.08,21.6893,7.0642
+957,Shanyue,2026-07-07T15:32:11.627+08:00,Voice Assistant: Are you please enter how are you,ok,596.88,22.2684,7.0646
+958,Shanyue,2026-07-07T15:32:19.725+08:00,Voice Assistant: Stop automation,ok,736.08,27.1363,7.0645
+959,Shanyue,2026-07-07T15:33:01.784+08:00,Voice Assistant: Hi there please open WhatsApp,ok,2761.34,13.2922,7.0645
+960,Shanyue,2026-07-07T15:33:10.356+08:00,Voice Assistant: Select second chat,ok,1027.19,18.4845,7.0645
+961,Shanyue,2026-07-07T15:33:19.067+08:00,Voice Assistant: Search user you,ok,1313.47,22.2743,7.0645
+962,Shanyue,2026-07-07T15:33:27.747+08:00,Voice Assistant: Select first chat,ok,1122.83,18.5950,7.0643
+963,Shanyue,2026-07-07T15:33:38.093+08:00,Voice Assistant: How are you today from automation,ok,555.92,17.9987,7.0646
+964,Shanyue,2026-07-07T15:33:48.352+08:00,Voice Assistant: Stop auto music,ok,606.59,19.9053,7.0645
+965,Shanyue,2026-07-07T15:33:56.171+08:00,Voice Assistant: Stop automation,ok,470.26,21.3877,7.0644
+966,Shanyue,2026-07-07T15:34:08.323+08:00,Voice Assistant: So previously thank you,ok,1191.17,14.8881,7.0668
+967,Shanyue,2026-07-07T15:34:52.228+08:00,Voice Assistant: Hi there please open WhatsApp,ok,2803.09,16.6085,7.0674
+968,Shanyue,2026-07-07T15:35:01.943+08:00,Voice Assistant: Select second chat,ok,2073.55,17.7562,7.0674
+969,Shanyue,2026-07-07T15:35:10.993+08:00,Voice Assistant: Search user you,ok,1608.10,22.6994,7.0674
+970,Shanyue,2026-07-07T15:35:19.641+08:00,Voice Assistant: Select first chat,ok,1148.05,21.3198,7.0673
+971,Shanyue,2026-07-07T15:35:27.806+08:00,Voice Assistant: Enter high from automation,ok,1345.69,25.6170,7.0673
+972,Shanyue,2026-07-07T15:35:35.994+08:00,Voice Assistant: Clear message,ok,854.65,15.0166,7.0674
+973,Shanyue,2026-07-07T15:35:44.477+08:00,Voice Assistant: Enter good morning automation,ok,1767.58,20.2162,6.7143
+974,Shanyue,2026-07-07T15:35:52.301+08:00,Voice Assistant: Send message,ok,833.57,20.1442,6.7144
+975,Shanyue,2026-07-07T15:36:00.060+08:00,Voice Assistant: Thank you stop automation,ok,506.27,18.0070,6.7143
+976,Shanyue,2026-07-07T15:37:11.633+08:00,Voice Assistant: Good morning I would like to open gesture control,ok,719.41,13.2158,6.7143
+977,Shanyue,2026-07-07T15:39:10.640+08:00,Gesture Control: Cursor movement,ok,0.08,19.0448,6.5963
+978,Shanyue,2026-07-07T15:41:44.432+08:00,Voice Assistant: Sure,ok,,16.1933,16.5817
+979,Shanyue,2026-07-07T15:41:54.003+08:00,Voice Assistant: Your're welcome,ok,,17.5481,16.5838
+980,Shanyue,2026-07-07T15:43:12.006+08:00,Voice Assistant: Hi there good morning,ok,9766.21,10.5794,17.7697
+981,Shanyue,2026-07-07T15:44:08.709+08:00,Voice Assistant: Hi there I would like to open gesture control,ok,689.64,18.0548,17.7699
+982,Shanyue,2026-07-07T15:44:41.817+08:00,Gesture Control: Session ended,ok,,23.8478,18.3205
+983,Shanyue,2026-07-07T15:46:09.735+08:00,Voice Assistant: Good morning open gesture control,ok,564.34,12.8062,18.3233
+984,Shanyue,2026-07-07T15:47:02.653+08:00,Gesture Control: Session ended,ok,,18.0898,18.3787
+985,Shanyue,2026-07-07T15:48:06.186+08:00,Gesture Control: Cursor movement,ok,0.09,24.8664,18.3983
+986,Shanyue,2026-07-07T15:51:50.416+08:00,Voice Assistant: Good morning please open gesture control for me,ok,1923.85,13.7119,18.3997
+987,Shanyue,2026-07-07T15:52:23.387+08:00,Gesture Control: Cursor movement,ok,0.07,17.7959,18.4276
+988,Shanyue,2026-07-07T15:54:23.577+08:00,Voice Assistant: Hello please open gesture control,ok,604.22,15.9482,18.4279
+989,Shanyue,2026-07-07T15:55:28.779+08:00,Gesture Control: Launch Voice Assistant,ok,0.08,19.4474,18.4442
+990,Shanyue,2026-07-07T15:55:38.768+08:00,Voice Assistant: Please open back gesture control,ok,1988.90,15.0840,18.4448
+991,Shanyue,2026-07-07T15:56:37.133+08:00,Gesture Control: Cursor movement,ok,0.08,17.4829,18.4764
+992,Shanyue,2026-07-07T16:12:21.046+08:00,Voice Assistant: Good morning Friday do you know who I am,ok,2512.48,11.7935,4.0738
+993,Shanyue,2026-07-07T16:12:31.249+08:00,Voice Assistant: Great let's start could you tell me what is the time now,ok,860.14,12.8906,4.0754
+994,Shanyue,2026-07-07T16:12:48.083+08:00,Voice Assistant: Excellent know let me know who invented calculator,ok,3011.23,9.9083,4.1117
+995,Shanyue,2026-07-07T16:12:58.399+08:00,Voice Assistant: Thank you for the information could you please open Notepad,ok,1397.11,18.2362,4.1760
+996,Shanyue,2026-07-07T16:13:24.107+08:00,Voice Assistant: 你好今天是什么日期,ok,2148.56,13.2715,4.2031
+997,Shanyue,2026-07-07T16:13:36.288+08:00,Voice Assistant: 好的那一加一等于多少,ok,1622.08,11.9606,4.2039
+998,Shanyue,2026-07-07T16:20:00.168+08:00,Voice Assistant: Good morning Friday do you know who am I,ok,1354.21,12.4164,3.8142
+999,Shanyue,2026-07-07T16:20:11.241+08:00,Voice Assistant: Great let's start could you tell me what is the time now,ok,1440.74,12.2529,3.8154
+1000,Shanyue,2026-07-07T16:20:26.208+08:00,Voice Assistant: Excellent no explain to me who invented calculator,ok,1219.22,13.7167,3.8156
+1001,Shanyue,2026-07-07T16:20:37.545+08:00,Voice Assistant: Thank you for the information please open Notepad,ok,1926.45,17.9093,3.8196
+1002,Shanyue,2026-07-07T16:21:05.203+08:00,Voice Assistant: 你好今天的日期是什么,ok,1854.65,12.6933,3.7059
+1003,Shanyue,2026-07-07T16:21:18.071+08:00,Voice Assistant: 好的那一加一等于多少,ok,2574.31,13.2979,3.7061
+1004,Shanyue,2026-07-07T16:22:22.485+08:00,Voice Assistant: Good morning please open YouTube for me,ok,9563.83,23.3652,3.8039
+1005,Shanyue,2026-07-07T16:22:34.338+08:00,Voice Assistant: Search Justin Bieber basis,ok,4694.65,31.8680,3.8088
+1006,Shanyue,2026-07-07T16:22:42.683+08:00,Voice Assistant: Stop automation,ok,772.36,33.4262,3.8094
+1007,Shanyue,2026-07-07T16:24:13.216+08:00,Voice Assistant: Good morning Friday do you know who am I,ok,1549.48,13.2956,3.8106
+1008,Shanyue,2026-07-07T16:24:23.408+08:00,Voice Assistant: Sanskrit could you tell me what is the time now,ok,657.55,11.6231,3.8107
+1009,Shanyue,2026-07-07T16:24:48.768+08:00,Voice Assistant: Thanks tell me who invented calculator,ok,2426.87,18.8234,3.8116
+1010,Shanyue,2026-07-07T16:29:36.309+08:00,Voice Assistant: Good evening do you know who am I,ok,1250.74,12.7670,6.2113
+1011,Shanyue,2026-07-07T16:29:46.834+08:00,Voice Assistant: Do you know what is the time now,ok,495.10,17.4253,6.2143
+1012,Shanyue,2026-07-07T16:30:10.420+08:00,Voice Assistant: Excellent could you tell me who invented calculator,ok,1313.69,14.0013,6.2185
+1013,Shanyue,2026-07-07T16:30:20.416+08:00,Voice Assistant: Thanks for your information now open Notepad,ok,903.75,17.3148,6.2209
+1014,Shanyue,2026-07-07T16:30:46.240+08:00,Voice Assistant: Hello你好今天是什么日期,ok,2374.60,12.6028,6.2232
+1015,Shanyue,2026-07-07T16:30:59.128+08:00,Voice Assistant: 好的那一加一等于多少,ok,2472.13,9.5035,5.8629
+1016,Shanyue,2026-07-07T16:32:11.903+08:00,Voice Assistant: Hello please open YouTube,ok,3529.59,24.8995,5.8639
+1017,Shanyue,2026-07-07T16:32:23.257+08:00,Voice Assistant: Search Justin Bieber,ok,4267.09,29.5987,5.8707
+1018,Shanyue,2026-07-07T16:32:33.919+08:00,Voice Assistant: Select first,ok,548.08,34.1576,5.8719
+1019,Shanyue,2026-07-07T16:32:56.507+08:00,Voice Assistant: Functions either in conversation or system action,ok,1082.11,12.4691,5.8747
+1020,Shanyue,2026-07-07T16:33:04.344+08:00,Voice Assistant: Stop automation,ok,497.45,14.5292,5.8759
+1021,Shanyue,2026-07-07T16:34:14.567+08:00,Voice Assistant: Hello open YouTube,ok,3575.12,20.2387,5.8764
+1022,Shanyue,2026-07-07T16:34:25.884+08:00,Voice Assistant: Search Justin Bieber,ok,4152.94,28.5947,5.8806
+1023,Shanyue,2026-07-07T16:34:36.816+08:00,Voice Assistant: Alright play first,ok,2364.85,38.0798,5.8806
+1024,Shanyue,2026-07-07T16:34:51.830+08:00,Voice Assistant: It's too loud decrease volume,ok,1592.99,37.9200,6.0892
+1025,Shanyue,2026-07-07T16:35:04.995+08:00,Voice Assistant: Pause video,ok,596.20,40.5817,6.0897
+1026,Shanyue,2026-07-07T16:35:13.476+08:00,Voice Assistant: Open gesture control,ok,585.72,36.3014,6.0901
+1027,Shanyue,2026-07-07T16:35:41.491+08:00,Gesture Control: Launch Voice Assistant,ok,0.05,29.1523,6.3932
+1028,Shanyue,2026-07-07T16:35:50.356+08:00,Voice Assistant: Stop automation,ok,1063.11,31.6646,6.3939
+1029,Shanyue,2026-07-07T16:42:39.644+08:00,Voice Assistant: Good morning do you know who am I,ok,1406.86,14.3370,6.0977
+1030,Shanyue,2026-07-07T16:42:50.528+08:00,Voice Assistant: Great let's start could you tell me what is the time now,ok,855.46,13.9248,6.0991
+1031,Shanyue,2026-07-07T16:43:15.275+08:00,Voice Assistant: Excellent could you let me know who invented calculator,ok,3195.90,12.2948,6.1030
+1032,Shanyue,2026-07-07T16:43:25.737+08:00,Voice Assistant: Thanks for the information now please open Notepad,ok,1543.82,14.8031,6.1060
+1033,Shanyue,2026-07-07T16:44:06.355+08:00,Voice Assistant: 你好能告诉我现在是什么日期吗,ok,2522.53,11.5242,6.1078
+1034,Shanyue,2026-07-07T16:44:19.786+08:00,Voice Assistant: 好的那一加一等于多少呢,ok,3149.60,13.1091,6.1083
+1035,Shanyue,2026-07-07T16:45:28.900+08:00,Voice Assistant: Hi there please open YouTube,ok,3689.08,24.6231,6.1100
+1036,Shanyue,2026-07-07T16:45:40.359+08:00,Voice Assistant: Search for Justin Bieber,ok,4246.13,32.1516,6.1109
+1037,Shanyue,2026-07-07T16:45:50.875+08:00,Voice Assistant: Play first,ok,2268.25,37.5667,6.1119
+1038,Shanyue,2026-07-07T16:46:05.628+08:00,Voice Assistant: The volume is too loud decrease volume,ok,1444.79,37.3563,6.0615
+1039,Shanyue,2026-07-07T16:46:13.879+08:00,Voice Assistant: Increase volume,ok,890.07,42.7213,6.0621
+1040,Shanyue,2026-07-07T16:46:21.689+08:00,Voice Assistant: Help me to pause video,ok,752.56,37.7405,6.0622
+1041,Shanyue,2026-07-07T16:46:30.772+08:00,Voice Assistant: Open gesture control,ok,1180.77,31.3057,6.0623
+1042,Shanyue,2026-07-07T16:47:06.155+08:00,Gesture Control: Launch Voice Assistant,ok,0.06,28.0269,6.1192
+1043,Shanyue,2026-07-07T16:47:14.563+08:00,Voice Assistant: Stop automation,ok,593.93,34.3333,6.1170
+1044,Shanyue,2026-07-07T16:48:24.795+08:00,Voice Assistant: Good evening do you know who am I,ok,1405.57,12.3102,6.1171
+1045,Shanyue,2026-07-07T16:48:35.137+08:00,Voice Assistant: Excellent could you tell me what is the time now,ok,697.02,14.8186,6.1171
+1046,Shanyue,2026-07-07T16:48:50.221+08:00,Voice Assistant: Great job no tell me who invented calculator,ok,1983.59,10.6207,6.1186
+1047,Shanyue,2026-07-07T16:49:00.191+08:00,Voice Assistant: Please open Notepad,ok,1450.65,12.7068,6.1193
+1048,Shanyue,2026-07-07T16:49:30.374+08:00,Voice Assistant: Hello你好请问今天是什么日期,ok,2048.55,14.7243,6.1191
+1049,Shanyue,2026-07-07T16:49:43.012+08:00,Voice Assistant: 好的那一加一等于多少呢,ok,2126.90,9.7837,6.1190
+1050,Shanyue,2026-07-07T16:50:59.391+08:00,Voice Assistant: Hi please open YouTube,ok,3482.65,20.5882,5.9643
+1051,Shanyue,2026-07-07T16:51:10.702+08:00,Voice Assistant: Search Justin Bieber,ok,4183.87,32.5353,5.9644
+1052,Shanyue,2026-07-07T16:51:21.441+08:00,Voice Assistant: Thank you play first,ok,2673.20,36.4443,5.9643
+1053,Shanyue,2026-07-07T16:51:36.290+08:00,Voice Assistant: The volume is too loud decrease volume,ok,1100.26,40.2913,5.9643
+1054,Shanyue,2026-07-07T16:51:44.182+08:00,Voice Assistant: Thank you pause video,ok,580.63,40.7762,5.9643
+1055,Shanyue,2026-07-07T16:51:52.535+08:00,Voice Assistant: Open gesture control,ok,473.93,36.1056,5.9644
+1056,Shanyue,2026-07-07T16:52:50.974+08:00,Gesture Control: Launch Voice Assistant,ok,0.08,30.3606,6.0124
+1057,Shanyue,2026-07-07T16:52:59.030+08:00,Voice Assistant: Resume video,ok,472.50,36.8454,6.0107
+1058,Shanyue,2026-07-07T16:53:09.549+08:00,Voice Assistant: Stop video,ok,596.51,36.3452,6.0106
+1059,Shanyue,2026-07-07T16:53:16.947+08:00,Voice Assistant: Pause video,ok,400.85,41.9253,6.0106
+1060,Shanyue,2026-07-07T16:53:25.124+08:00,Voice Assistant: Stop automation,ok,657.43,34.6869,6.0103
+1061,Shanyue,2026-07-07T16:54:31.529+08:00,Voice Assistant: Hi please open WhatsApp,ok,2737.63,16.7157,6.0472
+1062,Shanyue,2026-07-07T16:54:40.276+08:00,Voice Assistant: Select first chat,ok,1035.95,26.3571,6.0473
+1063,Shanyue,2026-07-07T16:54:49.641+08:00,Voice Assistant: Search user you,ok,1730.38,24.0514,6.0474
+1064,Shanyue,2026-07-07T16:54:58.577+08:00,Voice Assistant: Select first chat,ok,1261.62,22.7149,6.0471
+1065,Shanyue,2026-07-07T16:55:07.455+08:00,Voice Assistant: Enter hello from automation,ok,1910.14,44.9133,6.0471
+1066,Shanyue,2026-07-07T16:55:16.280+08:00,Voice Assistant: Clear message,ok,1324.37,22.3227,6.0471
+1067,Shanyue,2026-07-07T16:55:24.503+08:00,Voice Assistant: Enter I am myself,ok,1509.51,28.4788,6.0471
+1068,Shanyue,2026-07-07T16:55:32.635+08:00,Voice Assistant: Send message,ok,955.24,28.3026,6.0471
+1069,Shanyue,2026-07-07T16:55:46.102+08:00,Voice Assistant: Stop automation,ok,429.90,13.7262,6.0471
+1070,Shanyue,2026-07-07T16:56:13.861+08:00,Voice Assistant: I would like to open gesture control,ok,637.39,14.6238,5.4157
+1071,Shanyue,2026-07-07T16:58:25.592+08:00,Gesture Control: Cursor movement,ok,0.08,19.3969,5.4487
+1072,Shanyue,2026-07-07T17:21:00.199+08:00,Voice Assistant: Good evening do you know who am I,ok,2583.15,11.8154,2.8578
+1073,Shanyue,2026-07-07T17:21:11.196+08:00,Voice Assistant: OK great could you tell me what is the time now,ok,1050.61,17.5341,2.7668
+1074,Shanyue,2026-07-07T17:21:28.152+08:00,Voice Assistant: Excellent could you let me know who invented calculator,ok,1868.50,13.9771,2.2994
+1075,Shanyue,2026-07-07T17:21:38.304+08:00,Voice Assistant: Thanks for information now open Notepad,ok,1214.08,18.7174,2.3015
+1076,Shanyue,2026-07-07T17:22:09.153+08:00,Voice Assistant: Hello你好请问今天是什么日期,ok,2264.74,14.7829,2.3016
+1077,Shanyue,2026-07-07T17:22:21.754+08:00,Voice Assistant: 好的那一加一等于多少,ok,1911.80,11.2259,2.3017
+1078,Shanyue,2026-07-07T17:23:27.151+08:00,Voice Assistant: Hi there please open YouTube,ok,4151.81,21.9742,2.3028
+1079,Shanyue,2026-07-07T17:23:38.723+08:00,Voice Assistant: Search Justin Bieber,ok,4331.53,31.8224,2.3031
+1080,Shanyue,2026-07-07T17:23:50.157+08:00,Voice Assistant: Ok play first,ok,3402.75,41.6032,2.3030
+1081,Shanyue,2026-07-07T17:24:04.215+08:00,Voice Assistant: The volume is too loud increase volume,ok,954.95,45.3200,2.3034
+1082,Shanyue,2026-07-07T17:24:18.970+08:00,Voice Assistant: Decrease volume,ok,1355.07,40.7677,2.3035
+1083,Shanyue,2026-07-07T17:24:26.699+08:00,Voice Assistant: Pause video,ok,488.60,41.0250,2.3035
+1084,Shanyue,2026-07-07T17:24:34.689+08:00,Voice Assistant: Stop automation,ok,586.25,34.8350,2.3035
+1085,Shanyue,2026-07-07T17:25:47.832+08:00,Voice Assistant: Good evening do you know who am I,ok,1279.25,16.6764,2.3071
+1086,Shanyue,2026-07-07T17:25:58.407+08:00,Voice Assistant: Could you tell me what is the time now,ok,730.95,13.6939,2.3072
+1087,Shanyue,2026-07-07T17:26:13.831+08:00,Voice Assistant: Excellent know let me know who invented calculator,ok,2047.02,14.9248,2.2540
+1088,Shanyue,2026-07-07T17:26:23.279+08:00,Voice Assistant: Thank you for your information open Notepad,ok,954.56,16.2412,2.2555
+1089,Shanyue,2026-07-07T17:26:51.913+08:00,Voice Assistant: 你好请问今天是什么日期,ok,2651.23,15.3816,2.2559
+1090,Shanyue,2026-07-07T17:27:05.264+08:00,Voice Assistant: 好的那一加一等于多少,ok,2756.60,13.0226,2.2561
+1091,Shanyue,2026-07-07T17:28:38.481+08:00,Voice Assistant: Hi please open YouTube,ok,3547.13,21.7767,2.2564
+1092,Shanyue,2026-07-07T17:28:49.848+08:00,Voice Assistant: Search Justin Bieber,ok,4307.30,33.2425,2.2565
+1093,Shanyue,2026-07-07T17:29:02.283+08:00,Voice Assistant: Search Justin Bieber daisies,ok,5496.72,37.1193,2.2568
+1094,Shanyue,2026-07-07T17:29:12.778+08:00,Voice Assistant: Ok play first,ok,2287.39,42.4625,2.2569
+1095,Shanyue,2026-07-07T17:29:21.870+08:00,Voice Assistant: The volume is too loud decrease volume,ok,1453.40,48.4234,2.2571
+1096,Shanyue,2026-07-07T17:29:30.624+08:00,Voice Assistant: Increase volume,ok,1089.74,41.3351,2.2570
+1097,Shanyue,2026-07-07T17:29:38.077+08:00,Voice Assistant: Pause video,ok,440.80,36.4796,2.2571
+1098,Shanyue,2026-07-07T17:29:46.889+08:00,Voice Assistant: Ok now open gesture control,ok,746.83,37.1950,2.2569
+1099,Shanyue,2026-07-07T17:31:26.364+08:00,Gesture Control: Launch Voice Assistant,ok,0.09,30.1390,2.2375
+1100,Shanyue,2026-07-07T17:31:34.464+08:00,Voice Assistant: Resume video,ok,399.94,40.9954,2.2442
+1101,Shanyue,2026-07-07T17:31:41.955+08:00,Voice Assistant: Pause video,ok,472.49,43.0676,2.2440
+1102,Shanyue,2026-07-07T17:31:50.440+08:00,Voice Assistant: Alright stop automation,ok,893.80,43.8587,2.2439
+1103,Shanyue,2026-07-07T17:32:47.016+08:00,Voice Assistant: 请打开谷歌地图,ok,5507.87,21.3875,2.2460
+1104,Shanyue,2026-07-07T17:32:57.622+08:00,Voice Assistant: 搜索马六甲,ok,1775.03,37.7052,2.2485
+1105,Shanyue,2026-07-07T17:33:09.245+08:00,Voice Assistant: 搜索喜马拉雅,ok,2647.75,42.5324,2.2491
+1106,Shanyue,2026-07-07T17:33:19.954+08:00,Voice Assistant: 停止自动化,ok,1262.62,29.7755,2.2495
+1107,Shanyue,2026-07-07T17:33:55.621+08:00,Voice Assistant: Hello good evening please open WhatsApp,ok,3003.12,16.7464,2.2524
+1108,Shanyue,2026-07-07T17:34:05.797+08:00,Voice Assistant: Select first chat,ok,2402.48,22.4194,2.2527
+1109,Shanyue,2026-07-07T17:34:15.957+08:00,Voice Assistant: Search user you,ok,2607.35,24.9928,2.2529
+1110,Shanyue,2026-07-07T17:34:24.852+08:00,Voice Assistant: Select first chat,ok,1190.69,25.6874,2.2529
+1111,Shanyue,2026-07-07T17:34:33.478+08:00,Voice Assistant: Enter How are you from automation,ok,1615.43,25.1262,2.2529
+1112,Shanyue,2026-07-07T17:34:41.981+08:00,Voice Assistant: Clear message,ok,1068.01,21.8346,2.2528
+1113,Shanyue,2026-07-07T17:34:50.081+08:00,Voice Assistant: Enter this is automation again,ok,1399.04,25.2374,2.2530
+1114,Shanyue,2026-07-07T17:34:58.087+08:00,Voice Assistant: Send message,ok,783.65,28.5141,2.2532
+1115,Shanyue,2026-07-07T17:35:07.304+08:00,Voice Assistant: Stop automation,ok,1910.75,22.7302,2.2531
+1116,Shanyue,2026-07-07T17:35:37.966+08:00,Voice Assistant: Hello please open gesture control,ok,638.56,19.0043,2.2533
+1117,Shanyue,2026-07-07T17:36:15.677+08:00,Gesture Control: Session ended,ok,,19.3133,2.2848
+1118,Shanyue,2026-07-07T17:36:51.787+08:00,Voice Assistant: Hello open gesture control,ok,740.71,16.1900,2.2847
+1119,Shanyue,2026-07-07T17:39:27.673+08:00,Gesture Control: Cursor movement,ok,0.08,20.1363,3.5561
+1120,Shanyue,2026-07-07T18:07:26.836+08:00,Voice Assistant: Hi good evening please open gesture control,ok,605.99,28.5440,3.3721
+1121,Shanyue,2026-07-07T18:07:38.633+08:00,Gesture Control: Session ended,ok,,38.5479,3.4664
+1122,Shanyue,2026-07-07T18:08:31.325+08:00,Voice Assistant: Hello I would like to open gesture control,ok,665.79,27.3014,3.4656
+1123,Shanyue,2026-07-07T18:12:28.318+08:00,Gesture Control: Cursor movement,ok,0.09,29.9540,2.4566
+1124,Shanyue,2026-07-07T18:15:55.027+08:00,Voice Assistant: Hi open gesture control,ok,1793.29,21.3976,2.4642
+1125,Shanyue,2026-07-07T18:16:38.488+08:00,Gesture Control: Session ended,ok,,29.4873,2.1486
+1126,Shanyue,2026-07-07T18:17:41.731+08:00,Voice Assistant: Hi there please open gesture control,ok,728.84,23.6992,2.1473
+1127,Shanyue,2026-07-07T18:17:57.308+08:00,Gesture Control: Session ended,ok,,31.5916,2.1725
+1128,Shanyue,2026-07-07T18:18:48.291+08:00,Voice Assistant: Hello open gesture control,ok,711.70,23.6758,2.1702
+1129,Shanyue,2026-07-07T18:21:48.366+08:00,Gesture Control: Launch Voice Assistant,ok,0.08,28.9553,2.1972
+1130,Shanyue,2026-07-07T18:22:01.197+08:00,Voice Assistant: Hello thank you for your time,ok,1710.79,22.7515,2.3047
+1131,Shanyue,2026-07-07T18:26:35.671+08:00,Voice Assistant: Hi please open gesture control,ok,675.54,23.3155,2.3084
+1132,Shanyue,2026-07-07T18:29:31.362+08:00,Gesture Control: Launch Voice Assistant,ok,0.10,29.5236,2.3315
+1133,Shanyue,2026-07-07T18:29:47.183+08:00,Voice Assistant: Thank you for your time,ok,838.52,22.3592,2.3453
+1134,Shanyue,2026-07-07T18:30:00.182+08:00,Voice Assistant: Hi thank you so much for your time,ok,1309.54,18.9304,2.3482
+1135,Shanyue,2026-07-07T18:30:29.134+08:00,Voice Assistant: Hello thank you so much for your time,ok,1195.68,21.5629,2.3483
+1136,Shanyue,2026-07-13T13:56:51.086+08:00,Voice Assistant: Error,ok,250,12.0708,13.4545
+1137,Shanyue,2026-07-13T13:58:19.151+08:00,Voice Assistant: CLI session,ok,311.22,10.453,9.789
+1138,Shanyue,2026-07-13T14:00:17.357+08:00,Voice Assistant: Hi good morning how are you today,ok,9091.04,7.7530,18.2189
+1139,Shanyue,2026-07-13T14:00:55.784+08:00,Voice Assistant: How are you today,ok,1564.74,9.8644,18.2331
+1140,Shanyue,2026-07-13T14:01:10.113+08:00,Voice Assistant: Type how are you today,ok,1590.68,8.9490,18.3150
+1141,Shanyue,2026-07-13T14:01:20.146+08:00,Voice Assistant: Enter hello,ok,926.13,8.6205,18.3158
+1142,Shanyue,2026-07-13T14:02:32.626+08:00,Voice Assistant: Please open gesture control,ok,496.40,6.2323,18.3161
+1143,Shanyue,2026-07-13T14:03:56.991+08:00,Gesture Control: Launch Voice Assistant,ok,0.10,16.7685,18.8087
+1144,Shanyue,2026-07-13T14:04:12.879+08:00,Voice Assistant: Thank you for your time,ok,840.28,11.4422,18.8116
+1145,Shanyue,2026-07-13T14:04:48.370+08:00,Voice Assistant: Thank you for your time have a nice day,ok,994.31,9.2058,18.8130
+1146,Shanyue,2026-07-13T14:05:05.068+08:00,Voice Assistant: Thank you Friday for your help,ok,888.36,8.8431,13.6033
+1147,Shanyue,2026-07-13T14:05:17.884+08:00,Voice Assistant: Hello thank you for your time,ok,1229.63,7.2302,13.6038
+1148,Shanyue,2026-07-13T14:05:38.330+08:00,Voice Assistant: Please open WhatsApp,ok,2732.15,9.6179,13.6920
+1149,Shanyue,2026-07-13T14:05:47.160+08:00,Voice Assistant: Select second chat,ok,1356.39,10.1400,13.6921
+1150,Shanyue,2026-07-13T14:05:56.131+08:00,Voice Assistant: Search user you,ok,1520.73,8.3704,13.6934
+1151,Shanyue,2026-07-13T14:06:05.012+08:00,Voice Assistant: Select second chat,ok,1358.50,9.2607,13.6934
+1152,Shanyue,2026-07-13T14:06:12.721+08:00,Voice Assistant: Stop automation,ok,421.91,7.4294,13.6934
+1153,Shanyue,2026-07-13T14:06:31.648+08:00,Gesture Control: Cursor movement,ok,0.08,13.8469,13.7209
+1154,Shanyue,2026-07-13T14:06:40.249+08:00,Gesture Control: Cursor movement,ok,0.10,14.7976,13.7495
+1155,Shanyue,2026-07-13T14:06:45.874+08:00,Gesture Control: Pinch gestures,ok,0.09,14.2682,13.7691
+1156,Shanyue,2026-07-13T14:06:49.681+08:00,Gesture Control: Drag and drop,ok,0.10,15.2483,13.7872
+1157,Shanyue,2026-07-13T14:06:58.059+08:00,Gesture Control: Zoom gestures,ok,0.14,13.6543,13.8130
+1158,Shanyue,2026-07-13T14:07:03.715+08:00,Gesture Control: Left-click,ok,0.07,14.9790,13.8326
+1159,Shanyue,2026-07-13T14:07:20.370+08:00,Gesture Control: Drag and drop,ok,0.06,16.3183,13.8437
+1160,Shanyue,2026-07-13T14:07:26.972+08:00,Gesture Control: Right-click,ok,0.08,13.2574,13.8600
+1161,Shanyue,2026-07-13T14:07:35.668+08:00,Gesture Control: Zoom gestures,ok,0.11,13.0769,13.8649
+1162,Shanyue,2026-07-13T14:07:46.077+08:00,Gesture Control: Pinch gestures,ok,0.07,14.9760,13.8798
+1163,Shanyue,2026-07-13T14:08:00.214+08:00,Gesture Control: Cursor movement,ok,0.07,14.2130,13.8889
+1164,Shanyue,2026-07-13T14:08:04.379+08:00,Gesture Control: Launch Voice Assistant,ok,0.07,14.1087,13.9015
+1165,Shanyue,2026-07-13T14:08:20.091+08:00,Gesture Control: Zoom gestures,ok,0.11,12.6256,13.9224
+1166,Shanyue,2026-07-13T14:08:32.083+08:00,Gesture Control: Right-click,ok,0.07,12.2001,13.9363
+1167,Shanyue,2026-07-13T14:08:44.963+08:00,Gesture Control: Zoom gestures,ok,0.12,13.6438,13.9537
+1168,Shanyue,2026-07-13T14:14:25.276+08:00,Gesture Control: Cursor movement,ok,0.07,17.7750,12.1498
+1169,Shanyue,2026-07-13T14:14:38.585+08:00,Gesture Control: Drag and drop,ok,0.07,16.1143,12.2010
+1170,Shanyue,2026-07-13T14:14:49.015+08:00,Gesture Control: Left-click,ok,0.13,14.1480,12.1984
+1171,Shanyue,2026-07-13T14:15:05.925+08:00,Gesture Control: Right-click,ok,0.06,13.7053,12.0067
+1172,Shanyue,2026-07-13T14:15:11.267+08:00,Gesture Control: Cursor movement,ok,0.05,17.4641,12.0233
+1173,Shanyue,2026-07-13T14:15:18.654+08:00,Gesture Control: Drag and drop,ok,0.07,17.1380,12.0347
+1174,Shanyue,2026-07-13T14:15:28.525+08:00,Gesture Control: Right-click,ok,0.06,11.6437,12.0476
+1175,Shanyue,2026-07-13T14:15:34.012+08:00,Gesture Control: Left-click,ok,0.06,14.0250,12.0647
+1176,Shanyue,2026-07-13T14:15:39.305+08:00,Gesture Control: Pinch gestures,ok,0.07,12.1639,12.0750
+1177,Shanyue,2026-07-13T14:43:52.437+08:00,Voice Assistant: Good morning hello,ok,7230.00,11.1725,17.8335
+1178,Shanyue,2026-07-13T15:01:32.165+08:00,Voice Assistant: Hello please set timer for 10 seconds,ok,1711.69,9.9220,17.8452
+1179,Shanyue,2026-07-13T15:18:08.727+08:00,Gesture Control: Cursor movement,ok,0.13,12.8982,4.9655
+1180,Shanyue,2026-07-13T15:18:15.624+08:00,Gesture Control: Right-click,ok,0.06,12.9147,5.0089
+1181,Shanyue,2026-07-13T15:18:20.177+08:00,Gesture Control: Left-click,ok,0.08,11.6956,5.0370
+1182,Shanyue,2026-07-13T15:18:25.001+08:00,Gesture Control: Cursor movement,ok,0.07,13.7091,5.0471
+1183,Shanyue,2026-07-13T15:18:30.454+08:00,Gesture Control: Pinch gestures,ok,0.06,13.6013,5.0628
+1184,Shanyue,2026-07-13T15:18:37.681+08:00,Gesture Control: Drag and drop,ok,0.07,14.3385,5.0829
+1185,Shanyue,2026-07-13T15:18:46.774+08:00,Gesture Control: Cursor movement,ok,0.06,15.5418,5.0900
+1186,Shanyue,2026-07-13T15:18:51.500+08:00,Gesture Control: Zoom gestures,ok,0.17,13.4175,5.1168
+1187,Shanyue,2026-07-13T16:04:43.872+08:00,Gesture Control: Cursor movement,ok,0.07,24.0029,5.0494
+1188,Shanyue,2026-07-13T16:09:31.076+08:00,Gesture Control: Cursor movement,ok,0.08,16.0390,5.0783
+1189,Shanyue,2026-07-13T17:16:46.413+08:00,Voice Assistant: Good morning Friday how are you,ok,1940.62,9.6444,2.3296
+1190,Shanyue,2026-07-13T17:17:01.731+08:00,Voice Assistant: What time is now,ok,651.05,6.2402,2.3319
+1191,Shanyue,2026-07-13T17:17:23.381+08:00,Voice Assistant: Can you tell me who invented microsc,ok,1479.67,7.1452,1.9201
+1192,Shanyue,2026-07-13T17:17:34.141+08:00,Voice Assistant: Fantastic now open Notepad for me,ok,1129.60,10.8224,1.9824
+1193,Shanyue,2026-07-13T17:18:19.121+08:00,Voice Assistant: Hi你好能告诉我今天是什么日期吗,ok,2078.48,5.4841,2.0098
+1194,Shanyue,2026-07-13T17:18:32.042+08:00,Voice Assistant: 好的那一加一等于多少呢,ok,2066.60,6.2314,2.0130
+1195,Shanyue,2026-07-13T17:19:48.573+08:00,Voice Assistant: Hello,ok,973.31,10.4333,2.0147
+1196,Shanyue,2026-07-13T17:21:19.556+08:00,Gesture Control: Pinch gestures,ok,0.07,13.1939,3.2068
+1197,Shanyue,2026-07-13T20:03:25.037+08:00,Gesture Control: Session ended,ok,,16.6154,0.9338
+1198,Shanyue,2026-07-13T20:03:37.488+08:00,Gesture Control: Cursor movement,ok,0.14,12.4793,0.9664
+1199,Shanyue,2026-07-13T20:03:51.225+08:00,Gesture Control: Cursor movement,ok,0.12,13.4722,0.9657
+1200,Shanyue,2026-07-13T20:04:53.107+08:00,Gesture Control: Cursor movement,ok,0.12,12.1247,0.9977
+1201,Shanyue,2026-07-13T20:05:00.729+08:00,Gesture Control: Pinch gestures,ok,0.13,12.4084,0.9925
+1202,Shanyue,2026-07-13T20:05:07.704+08:00,Gesture Control: Drag and drop,ok,0.11,12.7436,1.0057
+1203,Shanyue,2026-07-13T20:14:03.025+08:00,Voice Assistant: Hello what is 3 * 3 = 2,ok,1450.72,18.6366,3.5094
+1204,Shanyue,2026-07-13T20:14:22.116+08:00,Voice Assistant: Hello what is the answer of 3,ok,9947.84,17.5207,18.2406
+1205,Shanyue,2026-07-13T20:14:33.156+08:00,Voice Assistant: Hello what is the answer of 3 * 2,ok,1024.34,16.5494,18.2412
+1206,Shanyue,2026-07-13T20:14:52.044+08:00,Gesture Control: Session ended,ok,,13.2187,18.4134
+1207,Shanyue,2026-07-13T20:15:04.591+08:00,Gesture Control: Session ended,ok,,18.8617,18.4408
+1208,Shanyue,2026-07-13T20:15:18.426+08:00,Gesture Control: Cursor movement,ok,0.08,25.3444,18.4901
+1209,Shanyue,2026-07-13T20:58:24.496+08:00,Voice Assistant: Good morning Friday how are you today,ok,1294.34,9.6731,3.9558
+1210,Shanyue,2026-07-13T20:58:40.543+08:00,Voice Assistant: Tell me what is the time right now,ok,548.59,9.0305,3.9613
+1211,Shanyue,2026-07-13T20:58:54.572+08:00,Voice Assistant: Please open Notepad for me,ok,1434.91,10.0054,4.1311
+1212,Shanyue,2026-07-13T20:59:37.969+08:00,Voice Assistant: Hi你好请问今天的日期是什么,ok,2871.08,8.1811,4.1760
+1213,Shanyue,2026-07-13T20:59:52.994+08:00,Voice Assistant: Excel很好那一加一等于多少,ok,2360.10,8.3315,4.1821
+1214,Shanyue,2026-07-13T21:01:39.978+08:00,Voice Assistant: Hey please open YouTube,ok,5813.45,16.9872,4.2944
+1215,Shanyue,2026-07-13T21:01:50.611+08:00,Voice Assistant: Alright search Justin Bieber,ok,689.16,12.4554,4.3012
+1216,Shanyue,2026-07-13T21:02:01.587+08:00,Voice Assistant: Search Justin Bieber,ok,4021.82,12.7607,4.3020
+1217,Shanyue,2026-07-13T21:02:11.927+08:00,Voice Assistant: Could you play me the first one,ok,2601.88,20.9574,3.9060
+1218,Shanyue,2026-07-13T21:02:27.064+08:00,Voice Assistant: Pause video,ok,651.84,14.1910,6.5886
+1219,Shanyue,2026-07-13T21:02:35.191+08:00,Voice Assistant: Open gesture control,ok,417.60,11.5559,6.5926
+1220,Shanyue,2026-07-13T21:02:55.515+08:00,Gesture Control: Launch Voice Assistant,ok,0.08,18.9907,6.9181
+1221,Shanyue,2026-07-13T21:03:03.765+08:00,Voice Assistant: Stop automation,ok,609.70,13.3909,6.9246
+1222,Shanyue,2026-07-13T21:05:06.258+08:00,Gesture Control: Right-click,ok,0.08,15.2076,7.0634
+1223,Shanyue,2026-07-13T21:38:25.448+08:00,Gesture Control: Right-click,ok,0.11,13.4188,6.0187
+1224,Shanyue,2026-07-13T21:38:31.429+08:00,Gesture Control: Drag and drop,ok,0.06,12.0269,6.0453
+1225,Shanyue,2026-07-13T21:38:35.786+08:00,Gesture Control: Right-click,ok,0.06,15.6543,6.0629
+1226,Shanyue,2026-07-13T21:38:43.725+08:00,Gesture Control: Left-click,ok,0.06,11.7553,6.0678
+1227,Shanyue,2026-07-13T21:38:49.126+08:00,Gesture Control: Pinch gestures,ok,0.06,14.4965,6.1027
+1228,Shanyue,2026-07-13T21:38:53.348+08:00,Gesture Control: Zoom gestures,ok,0.07,13.8722,6.1141
+1229,Shanyue,2026-07-13T21:50:49.421+08:00,Voice Assistant: Hi there good morning how are you today,ok,1984.94,7.0050,6.0796
+1230,Shanyue,2026-07-13T21:50:59.906+08:00,Voice Assistant: Excellent could you tell me what is the time now,ok,550.74,9.0792,6.0817
+1231,Shanyue,2026-07-13T21:51:16.170+08:00,Voice Assistant: Could you tell me who invented school bags,ok,1256.55,11.2085,6.0869
+1232,Shanyue,2026-07-13T21:51:26.893+08:00,Voice Assistant: Open Notepad for me,ok,1170.89,12.1532,6.0893
+1233,Shanyue,2026-07-13T21:52:22.758+08:00,Voice Assistant: 你好今天的日期是什么,ok,3239.80,6.6203,6.0787
+1234,Shanyue,2026-07-13T21:52:42.115+08:00,Voice Assistant: 好的谢谢你那一家三等,ok,3415.48,7.7728,6.0827
+1235,Shanyue,2026-07-13T21:52:55.082+08:00,Voice Assistant: 好的那二加二等于多少,ok,2468.54,7.1295,6.0830
+1236,Shanyue,2026-07-13T21:54:02.654+08:00,Voice Assistant: Hello I would like to open YouTube,ok,5266.89,13.5722,6.0843
+1237,Shanyue,2026-07-13T21:54:20.334+08:00,Voice Assistant: Pieces yellow,ok,1866.92,8.1476,6.0844
+1238,Shanyue,2026-07-13T21:54:30.803+08:00,Voice Assistant: 停止自动化,ok,1882.84,9.4915,6.0843
+1239,Shanyue,2026-07-13T21:54:44.754+08:00,Voice Assistant: Hello please open YouTube,ok,2818.16,13.4801,6.0856
+1240,Shanyue,2026-07-13T21:54:55.103+08:00,Voice Assistant: Thank you please search Yellow,ok,497.96,9.0798,6.0860
+1241,Shanyue,2026-07-13T21:55:05.837+08:00,Voice Assistant: Search Yellow,ok,3973.54,13.3164,6.0870
+1242,Shanyue,2026-07-13T21:55:16.032+08:00,Voice Assistant: Play the first one,ok,2612.31,14.5163,6.0879
+1243,Shanyue,2026-07-13T21:55:29.394+08:00,Voice Assistant: Pause video,ok,1012.93,13.3120,6.0883
+1244,Shanyue,2026-07-13T21:55:36.751+08:00,Voice Assistant: Resume video,ok,424.72,10.8963,6.0881
+1245,Shanyue,2026-07-13T21:55:45.039+08:00,Voice Assistant: Increase volume,ok,1140.74,12.7472,6.0882
+1246,Shanyue,2026-07-13T21:55:55.181+08:00,Voice Assistant: Increase the volume,ok,392.95,13.6141,6.0883
+1247,Shanyue,2026-07-13T21:56:03.476+08:00,Voice Assistant: Decrease volume,ok,923.49,14.9348,6.0883
+1248,Shanyue,2026-07-13T21:56:11.047+08:00,Voice Assistant: Stop pause video,ok,755.66,11.9078,6.0884
+1249,Shanyue,2026-07-13T21:56:18.911+08:00,Voice Assistant: Stop automation,ok,575.58,10.7125,6.0881
+1250,Shanyue,2026-07-13T22:01:42.796+08:00,Voice Assistant: Hello how are you today,ok,1137.02,7.9417,3.6800
+1251,Shanyue,2026-07-13T22:01:52.784+08:00,Voice Assistant: Could you let me know what time is now,ok,653.74,8.6509,3.6800
+1252,Shanyue,2026-07-13T22:02:07.983+08:00,Voice Assistant: Thank you for information could you tell me who invented school bag,ok,1321.68,10.0810,3.6856
+1253,Shanyue,2026-07-13T22:02:17.607+08:00,Voice Assistant: Open Notepad,ok,1337.13,11.7277,3.6861
+1254,Shanyue,2026-07-13T22:03:01.943+08:00,Voice Assistant: 你好可以告诉我今天的日期吗,ok,5432.03,6.7445,2.5676
+1255,Shanyue,2026-07-13T22:03:24.222+08:00,Voice Assistant: 你好可以告诉我今天的时间吗,ok,2962.38,10.4632,2.5687
+1256,Shanyue,2026-07-13T22:03:46.945+08:00,Voice Assistant: Hi nihao Simone Walter Martin,ok,1369.33,8.1184,2.5744
+1257,Shanyue,2026-07-13T22:04:02.794+08:00,Voice Assistant: 你好请问我怎么称呼你,ok,1704.80,6.2451,2.5758
+1258,Shanyue,2026-07-13T22:04:17.570+08:00,Voice Assistant: 好的那告诉我二加二等于多少,ok,3454.34,6.6993,2.5758
+1259,Shanyue,2026-07-13T22:07:18.913+08:00,Voice Assistant: Hello please open YouTube,ok,3183.44,5.4330,2.5763
+1260,Shanyue,2026-07-13T22:07:29.710+08:00,Voice Assistant: Search Yellow,ok,4010.51,10.9047,2.4276
+1261,Shanyue,2026-07-13T22:07:39.617+08:00,Voice Assistant: Ok play the first one,ok,2326.57,14.1579,2.4276
+1262,Shanyue,2026-07-13T22:07:54.978+08:00,Voice Assistant: Could you increase the volume,ok,422.17,12.1338,2.4275
+1263,Shanyue,2026-07-13T22:08:05.019+08:00,Voice Assistant: Increase the volume,ok,339.75,13.9880,2.4277
+1264,Shanyue,2026-07-13T22:08:13.196+08:00,Voice Assistant: Could you increase volume,ok,908.09,7.4223,2.4278
+1265,Shanyue,2026-07-13T22:08:20.619+08:00,Voice Assistant: Pause video,ok,581.71,14.7929,2.4277
+1266,Shanyue,2026-07-13T22:08:28.774+08:00,Voice Assistant: Open gesture control,ok,432.38,12.1357,2.4277
+1267,Shanyue,2026-07-13T22:08:50.482+08:00,Gesture Control: Launch Voice Assistant,ok,0.09,19.2207,2.5520
+1268,Shanyue,2026-07-13T22:08:57.957+08:00,Voice Assistant: Pause video,ok,441.15,13.0022,2.5517
+1269,Shanyue,2026-07-13T22:09:05.929+08:00,Voice Assistant: Thank you stop automation,ok,645.26,13.7087,2.5515
+1270,Shanyue,2026-07-13T22:13:07.857+08:00,Gesture Control: Launch Voice Assistant,ok,0.08,13.4734,2.6195
+1271,Shanyue,2026-07-13T22:13:19.217+08:00,Voice Assistant: Hello please open WhatsApp,ok,2747.78,10.0087,2.6589
+1272,Shanyue,2026-07-13T22:13:29.667+08:00,Voice Assistant: Thank you select first chat,ok,575.32,9.8833,2.6595
+1273,Shanyue,2026-07-13T22:13:38.694+08:00,Voice Assistant: Select first chat,ok,1124.44,15.3050,2.6594
+1274,Shanyue,2026-07-13T22:13:47.353+08:00,Voice Assistant: Search user PG,ok,1284.39,15.2375,2.6592
+1275,Shanyue,2026-07-13T22:14:01.773+08:00,Voice Assistant: Select first chat,ok,1054.88,14.5309,2.6595
+1276,Shanyue,2026-07-13T22:14:11.963+08:00,Voice Assistant: Hi how are you today,ok,591.88,13.2651,2.6595
+1277,Shanyue,2026-07-13T22:14:23.015+08:00,Voice Assistant: Do you want to play badminton today,ok,1695.08,9.4760,2.6597
+1278,Shanyue,2026-07-13T22:14:31.570+08:00,Voice Assistant: Enter do you want to play badminton today,ok,1920.08,10.6337,2.6597
+1279,Shanyue,2026-07-13T22:14:39.484+08:00,Voice Assistant: Clear message,ok,668.31,10.4661,2.6597
+1280,Shanyue,2026-07-13T22:14:47.257+08:00,Voice Assistant: Stop automation,ok,501.27,10.5395,2.6596
+1281,Shanyue,2026-07-13T22:17:14.991+08:00,Gesture Control: Cursor movement,ok,0.08,12.7819,3.8486
+1282,Shanyue,2026-07-13T22:57:18.887+08:00,Voice Assistant: Hi there how are you today,ok,1549.46,10.9380,3.5922
+1283,Shanyue,2026-07-13T22:57:34.147+08:00,Voice Assistant: Please tell me who invented school bag,ok,1302.68,8.1409,3.5793
+1284,Shanyue,2026-07-13T22:57:51.766+08:00,Voice Assistant: Thank you for information now open Notepad,ok,952.11,11.8879,3.5838
+1285,Shanyue,2026-07-13T22:58:28.880+08:00,Voice Assistant: Hi你好请问什么是科学,ok,2557.68,9.1078,3.5952
+1286,Shanyue,2026-07-13T22:58:42.242+08:00,Voice Assistant: 好的那二加二等于多少,ok,2699.29,9.3802,3.5965
+1287,Shanyue,2026-07-13T23:00:15.218+08:00,Voice Assistant: Hi please open YouTube,ok,3071.70,15.3236,3.5988
+1288,Shanyue,2026-07-13T23:00:26.149+08:00,Voice Assistant: Search Yellow,ok,4010.08,12.9052,3.5998
+1289,Shanyue,2026-07-13T23:00:36.162+08:00,Voice Assistant: Ok play the first video,ok,2263.60,14.0993,3.6002
+1290,Shanyue,2026-07-13T23:00:44.081+08:00,Voice Assistant: Thanks increase volume,ok,840.28,16.1334,3.6003
+1291,Shanyue,2026-07-13T23:00:52.277+08:00,Voice Assistant: Open gesture control,ok,575.89,17.6317,3.6008
+1292,Shanyue,2026-07-13T23:01:10.278+08:00,Gesture Control: Launch Voice Assistant,ok,0.08,12.6528,3.6592
+1293,Shanyue,2026-07-13T23:01:17.944+08:00,Voice Assistant: Resume video,ok,449.87,15.0248,3.6583
+1294,Shanyue,2026-07-13T23:01:25.029+08:00,Voice Assistant: Pause video,ok,324.11,14.7364,3.6578
+1295,Shanyue,2026-07-13T23:01:32.866+08:00,Voice Assistant: Thank you stop automation,ok,593.73,7.0644,3.6573
+1296,Shanyue,2026-07-13T23:04:17.943+08:00,Gesture Control: Cursor movement,ok,0.08,13.4719,2.5800
+1297,Shanyue,2026-07-13T23:04:31.379+08:00,Voice Assistant: Hi please open WhatsApp,ok,2958.24,10.4026,2.5815
+1298,Shanyue,2026-07-13T23:04:40.312+08:00,Voice Assistant: Select first chat,ok,1408.94,12.9278,2.5816
+1299,Shanyue,2026-07-13T23:04:49.359+08:00,Voice Assistant: Open gesture control,ok,1438.50,15.1545,2.5817
+1300,Shanyue,2026-07-13T23:05:09.075+08:00,Gesture Control: Launch Voice Assistant,ok,0.07,8.3698,2.6099
+1301,Shanyue,2026-07-13T23:05:17.309+08:00,Voice Assistant: Thank you stop automation,ok,396.43,15.5738,2.6079
+1302,Shanyue,2026-07-13T23:22:38.193+08:00,Gesture Control: Cursor movement,ok,0.09,13.6430,2.4365
+1303,Shanyue,2026-07-13T23:22:40.595+08:00,Gesture Control: Launch Voice Assistant,ok,0.06,15.9035,2.4585
+1304,Shanyue,2026-07-13T23:22:54.249+08:00,Gesture Control: Pinch gestures,ok,0.08,12.1316,2.4762
+1305,Shanyue,2026-07-13T23:22:57.994+08:00,Gesture Control: Zoom gestures,ok,0.12,11.9040,2.4990
+1306,Shanyue,2026-07-13T23:26:15.611+08:00,Voice Assistant: Hi there good morning how are you,ok,1414.15,11.0343,2.4911
+1307,Shanyue,2026-07-13T23:26:32.389+08:00,Voice Assistant: Could you tell me who invented school bag,ok,3599.32,9.5428,2.4920
+1308,Shanyue,2026-07-13T23:26:42.497+08:00,Voice Assistant: Open Notepad for me,ok,1087.55,11.3032,2.4929
+1309,Shanyue,2026-07-13T23:27:29.424+08:00,Voice Assistant: Hi你好能告诉我什么是科学吗,ok,2319.62,8.5440,2.4942
+1310,Shanyue,2026-07-13T23:27:42.917+08:00,Voice Assistant: 好的那请问二加二等于多少,ok,1919.54,11.0822,2.4941
+1311,Shanyue,2026-07-13T23:28:19.124+08:00,Voice Assistant: 请问520乘零等于多少,ok,2679.71,7.6572,2.4946
+1312,Shanyue,2026-07-13T23:30:39.400+08:00,Voice Assistant: Good morning please open YouTube,ok,3432.42,13.5978,2.4965
+1313,Shanyue,2026-07-13T23:30:50.405+08:00,Voice Assistant: Search Yellow,ok,4016.87,11.3231,2.4965
+1314,Shanyue,2026-07-13T23:31:00.486+08:00,Voice Assistant: Ok play the first video,ok,2363.37,17.7842,2.4967
+1315,Shanyue,2026-07-13T23:31:08.867+08:00,Voice Assistant: Thanks increase volume,ok,1183.41,22.5885,2.4967
+1316,Shanyue,2026-07-13T23:31:15.958+08:00,Voice Assistant: Pause video,ok,327.55,16.0754,2.4968
+1317,Shanyue,2026-07-13T23:31:24.059+08:00,Voice Assistant: Open gesture control,ok,404.63,14.6397,2.4974
+1318,Shanyue,2026-07-13T23:31:47.302+08:00,Gesture Control: Launch Voice Assistant,ok,0.09,17.7014,2.5320
+1319,Shanyue,2026-07-13T23:31:54.814+08:00,Voice Assistant: Pause video,ok,398.31,14.1176,2.5311
+1320,Shanyue,2026-07-13T23:32:02.703+08:00,Voice Assistant: Stop automation,ok,672.13,14.4854,2.5312
+1321,Shanyue,2026-07-13T23:34:46.195+08:00,Gesture Control: Launch Voice Assistant,ok,0.07,13.5296,2.5638
+1322,Shanyue,2026-07-13T23:34:57.492+08:00,Voice Assistant: Hi please open WhatsApp,ok,2658.30,8.6486,2.5672
+1323,Shanyue,2026-07-13T23:35:06.468+08:00,Voice Assistant: Select second chat,ok,1405.03,16.4877,2.5679
+1324,Shanyue,2026-07-13T23:35:14.933+08:00,Voice Assistant: Open gesture control,ok,747.27,11.7505,2.5680
+1325,Shanyue,2026-07-13T23:35:27.391+08:00,Gesture Control: Launch Voice Assistant,ok,0.07,18.1152,2.5970
+1326,Shanyue,2026-07-13T23:35:35.683+08:00,Voice Assistant: Enter location,ok,1018.20,13.8406,2.5985
+1327,Shanyue,2026-07-13T23:35:43.636+08:00,Voice Assistant: Clear message,ok,629.22,9.6723,2.5986
+1328,Shanyue,2026-07-13T23:35:51.328+08:00,Voice Assistant: Enter no problem,ok,962.79,11.0592,2.5980
+1329,Shanyue,2026-07-13T23:35:59.161+08:00,Voice Assistant: Stop automation,ok,449.73,11.8979,2.5980
+1330,Shanyue,2026-07-13T23:36:51.748+08:00,Gesture Control: Cursor movement,ok,0.07,15.3539,2.6304
+1331,Shanyue,2026-07-13T23:37:25.717+08:00,Gesture Control: Cursor movement,ok,0.07,12.7359,3.8212
+1332,Shanyue,2026-07-14T00:09:37.977+08:00,Gesture Control: Launch Voice Assistant,ok,0.07,27.0611,1.4576
+1333,Shanyue,2026-07-14T00:09:50.194+08:00,Gesture Control: Right-click,ok,0.07,20.0202,1.5555
+1334,Shanyue,2026-07-14T00:09:55.381+08:00,Gesture Control: Pinch gestures,ok,0.06,12.7352,1.5759
+1335,Shanyue,2026-07-14T00:10:00.267+08:00,Gesture Control: Cursor movement,ok,0.08,15.8294,1.6047
+1336,Shanyue,2026-07-14T00:10:04.017+08:00,Gesture Control: Pinch gestures,ok,0.06,16.6045,1.6328
+1337,Shanyue,2026-07-14T00:10:08.823+08:00,Gesture Control: Zoom gestures,ok,0.16,17.8239,1.6589
+1338,Shanyue,2026-07-14T00:10:22.759+08:00,Gesture Control: Drag and drop,ok,0.05,22.2914,1.6795
+1339,Shanyue,2026-07-14T00:10:29.566+08:00,Gesture Control: Zoom gestures,ok,0.12,15.5470,1.7076
+1340,Shanyue,2026-07-14T00:10:38.632+08:00,Gesture Control: Pinch gestures,ok,0.07,14.1532,1.7164
+1341,Shanyue,2026-07-14T00:10:44.106+08:00,Gesture Control: Pinch gestures,ok,0.07,15.1028,1.7409
+1342,Shanyue,2026-07-14T00:10:48.607+08:00,Gesture Control: Left-click,ok,0.07,18.4512,1.7588
+1343,Shanyue,2026-07-14T00:10:52.850+08:00,Gesture Control: Right-click,ok,0.08,25.3002,1.7760
+1344,Shanyue,2026-07-14T00:10:58.103+08:00,Gesture Control: Drag and drop,ok,0.07,18.2847,1.7934
+1345,Shanyue,2026-07-14T00:11:03.497+08:00,Gesture Control: Zoom gestures,ok,0.11,18.2984,1.8119
+1346,Shanyue,2026-07-14T00:11:09.051+08:00,Gesture Control: Pinch gestures,ok,0.11,22.2068,1.8539
+1347,Shanyue,2026-07-14T00:11:39.806+08:00,Gesture Control: Cursor movement,ok,0.08,24.5922,1.8636
+1348,Shanyue,2026-07-14T00:11:46.057+08:00,Gesture Control: Left-click,ok,0.08,22.1677,1.8762
+1349,Shanyue,2026-07-14T00:11:50.128+08:00,Gesture Control: Cursor movement,ok,0.08,26.4964,1.8812
+1350,Shanyue,2026-07-14T00:11:56.466+08:00,Gesture Control: Right-click,ok,0.07,24.9159,1.8929
+1351,Shanyue,2026-07-14T00:12:01.520+08:00,Gesture Control: Pinch gestures,ok,0.05,20.9215,1.9093
+1352,Shanyue,2026-07-14T00:12:06.152+08:00,Gesture Control: Zoom gestures,ok,0.12,18.6693,1.9262
+1353,Shanyue,2026-07-14T00:12:10.282+08:00,Gesture Control: Pinch gestures,ok,0.06,17.7291,1.9425
+1354,Shanyue,2026-07-14T00:12:15.059+08:00,Gesture Control: Zoom gestures,ok,0.13,17.1020,1.9642
+1355,Shanyue,2026-07-14T00:12:19.887+08:00,Gesture Control: Cursor movement,ok,0.08,25.3809,1.9805
+1356,Shanyue,2026-07-14T08:01:26.536+08:00,Voice Assistant: Hi good morning how are you,ok,8235.20,11.8787,18.2306
+1357,Shanyue,2026-07-14T08:02:00.581+08:00,Gesture Control: Cursor movement,ok,0.09,20.9594,18.8051
+1358,Shanyue,2026-07-14T08:02:18.462+08:00,Gesture Control: Cursor movement,ok,0.07,13.9439,18.8365
+1359,Shanyue,2026-07-14T08:23:40.634+08:00,Voice Assistant: Hi good morning how are you today,ok,1468.37,12.9976,5.6942
+1360,Shanyue,2026-07-14T08:23:53.260+08:00,Voice Assistant: Great could you tell me who invented telephone,ok,1773.81,7.5156,5.7262
+1361,Shanyue,2026-07-14T08:24:02.559+08:00,Voice Assistant: Thank you for your information open Notepad,ok,1005.42,11.5043,5.7836
+1362,Shanyue,2026-07-14T08:24:42.549+08:00,Voice Assistant: Hi你好请问什么是科学呢,ok,3179.03,8.7854,5.8036
+1363,Shanyue,2026-07-14T08:24:54.225+08:00,Voice Assistant: 好的那二加二等于多少,ok,1236.66,7.1987,5.8042
+1364,Shanyue,2026-07-14T08:26:06.951+08:00,Voice Assistant: Hello please open YouTube,ok,4202.90,22.9313,5.8281
+1365,Shanyue,2026-07-14T08:26:17.945+08:00,Voice Assistant: Search Yellow,ok,4063.37,17.0805,5.8352
+1366,Shanyue,2026-07-14T08:26:40.565+08:00,Voice Assistant: Ok play first,ok,14687.20,13.9057,5.8362
+1367,Shanyue,2026-07-14T08:26:47.969+08:00,Voice Assistant: Pause video,ok,508.97,18.2629,5.8369
+1368,Shanyue,2026-07-14T08:26:56.173+08:00,Voice Assistant: Open gesture control,ok,433.93,15.3400,5.8388
+1369,Shanyue,2026-07-14T08:27:26.652+08:00,Gesture Control: Launch Voice Assistant,ok,0.07,20.1564,5.9458
+1370,Shanyue,2026-07-14T08:27:34.030+08:00,Voice Assistant: Pause video,ok,429.83,15.8734,5.9497
+1371,Shanyue,2026-07-14T08:27:42.007+08:00,Voice Assistant: Stop automation,ok,573.21,13.7068,5.9492
+1372,Shanyue,2026-07-14T08:30:05.277+08:00,Gesture Control: Launch Voice Assistant,ok,0.08,13.4316,5.5890
+1373,Shanyue,2026-07-14T08:30:16.932+08:00,Voice Assistant: Hi please open WhatsApp,ok,2826.55,11.1425,5.6225
+1374,Shanyue,2026-07-14T08:30:27.401+08:00,Voice Assistant: Select first check,ok,584.70,12.5371,5.6225
+1375,Shanyue,2026-07-14T08:30:36.085+08:00,Voice Assistant: Select first chat,ok,1047.74,15.2267,5.6225
+1376,Shanyue,2026-07-14T08:30:44.699+08:00,Voice Assistant: Select third chat,ok,1015.42,16.3823,5.6223
+1377,Shanyue,2026-07-14T08:30:53.565+08:00,Voice Assistant: Search user you,ok,1351.39,16.2626,5.6225
+1378,Shanyue,2026-07-14T08:31:02.866+08:00,Voice Assistant: Select first chat,ok,1753.13,13.4901,5.6224
+1379,Shanyue,2026-07-14T08:31:13.159+08:00,Voice Assistant: Hi how are you today,ok,479.56,12.0261,5.6223
+1380,Shanyue,2026-07-14T08:31:21.035+08:00,Voice Assistant: Enter how are you today,ok,1146.09,12.7954,5.6224
+1381,Shanyue,2026-07-14T08:31:29.173+08:00,Voice Assistant: Open gesture control,ok,401.66,11.9986,5.6224
+1382,Shanyue,2026-07-14T08:31:49.809+08:00,Gesture Control: Launch Voice Assistant,ok,0.09,14.0757,5.6354
+1383,Shanyue,2026-07-14T08:31:58.212+08:00,Voice Assistant: Stop automation,ok,477.37,13.2377,5.6336
+1384,Shanyue,2026-07-14T08:33:01.664+08:00,Voice Assistant: Hello could you open YouTube,ok,3162.20,17.5928,5.6418
+1385,Shanyue,2026-07-14T08:33:12.565+08:00,Voice Assistant: Search Yellow,ok,4093.59,14.8622,5.6420
+1386,Shanyue,2026-07-14T08:33:22.507+08:00,Voice Assistant: Ok could you play first,ok,2193.91,17.6027,5.6421
+1387,Shanyue,2026-07-14T08:33:30.538+08:00,Voice Assistant: Stop automation,ok,539.42,19.1734,5.6420
+1388,Shanyue,2026-07-14T08:33:49.974+08:00,Gesture Control: Cursor movement,ok,0.08,12.3251,5.3229
+1389,Shanyue,2026-07-14T08:33:54.414+08:00,Gesture Control: Right-click,ok,0.08,12.7114,5.3470
+1390,Shanyue,2026-07-14T08:33:59.051+08:00,Gesture Control: Left-click,ok,0.07,14.5336,5.3677
+1391,Shanyue,2026-07-14T08:34:24.279+08:00,Gesture Control: Pinch gestures,ok,0.12,14.8313,5.3975
+1392,Shanyue,2026-07-14T10:53:54.679+08:00,Gesture Control: Session ended,ok,,25.7299,14.0659
+1393,Shanyue,2026-07-14T10:58:31.603+08:00,Gesture Control: Cursor movement,ok,0.09,21.0843,11.0606
+1394,Shanyue,2026-07-14T11:20:29.395+08:00,Voice Assistant: Hello how are you today,ok,8377.32,12.4549,9.5029
+1395,Shanyue,2026-07-14T11:20:45.226+08:00,Voice Assistant: Could you tell me who invented school bag,ok,1549.85,13.7027,9.5134
+1396,Shanyue,2026-07-14T11:20:55.396+08:00,Voice Assistant: Thank you for information please open Notepad,ok,1842.08,18.1865,9.6628
+1397,Shanyue,2026-07-14T11:21:29.661+08:00,Voice Assistant: 你好请问什么是科学,ok,2383.65,8.1327,9.6797
+1398,Shanyue,2026-07-14T11:21:41.802+08:00,Voice Assistant: 好的那二加二等于多少,ok,1391.02,11.2714,9.6801
+1399,Shanyue,2026-07-14T11:22:39.142+08:00,Voice Assistant: Hi there please open YouTube,ok,4731.49,24.0858,9.3133
+1400,Shanyue,2026-07-14T11:22:50.363+08:00,Voice Assistant: Search Yellow,ok,4370.93,21.1347,9.3202
+1401,Shanyue,2026-07-14T11:23:00.295+08:00,Voice Assistant: Ok play first,ok,2268.71,28.4737,9.2827
+1402,Shanyue,2026-07-14T11:23:08.558+08:00,Voice Assistant: Could you increase volume,ok,898.36,31.9572,9.2828
+1403,Shanyue,2026-07-14T11:23:16.520+08:00,Voice Assistant: Open gesture control,ok,383.57,26.6683,9.2833
+1404,Shanyue,2026-07-14T11:23:32.345+08:00,Gesture Control: Launch Voice Assistant,ok,0.07,34.5725,9.5187
+1405,Shanyue,2026-07-14T11:23:39.589+08:00,Voice Assistant: Pause video,ok,464.12,22.8194,9.5252
+1406,Shanyue,2026-07-14T11:23:47.304+08:00,Voice Assistant: Stop automation,ok,537.04,20.4827,9.5257
+1407,Shanyue,2026-07-14T11:26:20.757+08:00,Gesture Control: Cursor movement,ok,0.08,18.9546,9.5775
+1408,Shanyue,2026-07-14T11:26:26.952+08:00,Gesture Control: Launch Voice Assistant,ok,0.05,17.6390,9.6085
+1409,Shanyue,2026-07-14T11:26:37.929+08:00,Voice Assistant: Hi please open WhatsApp,ok,2783.35,16.0240,9.6381
+1410,Shanyue,2026-07-14T11:26:46.342+08:00,Voice Assistant: Select second chat,ok,954.45,21.8144,9.6299
+1411,Shanyue,2026-07-14T11:26:54.972+08:00,Voice Assistant: Enter do you want to play badminton this is my,ok,1819.65,21.6125,9.6295
+1412,Shanyue,2026-07-14T11:27:02.317+08:00,Voice Assistant: Send message,ok,642.46,19.5941,9.6295
+1413,Shanyue,2026-07-14T11:27:10.365+08:00,Voice Assistant: Open gesture control,ok,450.38,21.5019,9.6291
+1414,Shanyue,2026-07-14T11:27:25.172+08:00,Gesture Control: Launch Voice Assistant,ok,0.09,22.0265,9.6635
+1415,Shanyue,2026-07-14T11:27:33.247+08:00,Voice Assistant: Thank you stop automation,ok,556.25,20.5030,9.6669
+1416,Shanyue,2026-07-29T17:09:21.168+08:00,Gesture Control: Launch Voice Assistant,ok,0.07,14.4068,0.9414
+1417,Shanyue,2026-07-29T17:09:55.772+08:00,Voice Assistant: Hi good morning open WhatsApp,ok,3014.58,13.1653,3.5102
+1418,Shanyue,2026-07-29T17:10:04.764+08:00,Voice Assistant: Select first chat,ok,1196.23,17.7586,3.5165
+1419,Shanyue,2026-07-29T17:10:12.774+08:00,Voice Assistant: Stop automation,ok,644.85,12.4817,3.5185

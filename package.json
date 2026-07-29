@@ -1,0 +1,16 @@
+{
+  "name": "multimodal-assistant",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Friday — Voice & Gesture desktop assistant",
+  "scripts": {
+    "install:frontend": "npm install --prefix frontend",
+    "install:desktop": "npm install --prefix desktop",
+    "install:backend": "py -3.11 -m pip install -r backend/requirements.txt",
+    "build:frontend": "npm run build --prefix frontend",
+    "dev:frontend": "npm run dev --prefix frontend",
+    "dev:backend": "py -3.11 backend/main.py",
+    "desktop": "npm run build:frontend && npm start --prefix desktop",
+    "desktop:dev": "cross-env ELECTRON_DEV=1 npm start --prefix desktop"
+  }
+}

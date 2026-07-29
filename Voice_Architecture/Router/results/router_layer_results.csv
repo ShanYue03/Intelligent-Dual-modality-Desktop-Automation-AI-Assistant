@@ -1,0 +1,434 @@
+timestamp_utc,input_text,predicted_label,confidence,route_system,needs_llm_reconfirm,latency_s,model
+2026-05-14T07:42:08Z,good morning can you explain the meaning of life,chat,0.999515,False,False,54.6506,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-05-14T07:43:43Z,good afternoon what is 2 * 2,chat,0.998562,False,False,52.0026,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-05-14T07:45:36Z,what is computer science,system,0.947284,True,False,50.4883,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-05-14T07:49:19Z,"Hello, can you tell me what the computer field is?",chat,0.999007,False,False,55.7659,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-05-14T07:53:59Z,hi could you tell me what is the difference between computer science and data science,chat,0.998770,False,False,58.7834,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-05-14T07:59:26Z,hi May I know what is the meaning of text,chat,0.989182,False,False,54.5272,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-05-14T08:08:44Z,can you tell me who is Stephen Curry,chat,0.998496,False,False,52.3202,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-05-14T08:10:28Z,can you tell me what is LeBron James famous for,chat,0.999112,False,False,53.7836,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-05-14T08:16:01Z,can you tell me what is the meaning of data scientist,chat,0.994677,False,False,55.7024,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-05-14T08:20:29Z,open YouTube,system,1.000000,True,False,0.0000,keyword_open_site
+2026-05-14T08:22:15Z,can you explain to me what is the result of 2 + 2,chat,0.997893,False,False,56.1404,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-05-14T08:53:24Z,good morning what is 2 * 2 = 2,chat,0.999112,False,False,3.7884,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-05-14T08:54:05Z,good morning what is the meaning of life,chat,0.999767,False,False,2.5219,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-05-14T08:54:51Z,hi there could you help me to take a screenshot,chat,0.997937,False,False,2.4129,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-05-14T08:55:23Z,take screenshot,system,0.952264,True,False,2.3387,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-05-14T08:56:42Z,"Hello, can you tell me what is the Internet?",chat,0.999197,False,False,2.3960,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-05-14T08:59:09Z,hi there please open WhatsApp,system,1.000000,True,False,0.0000,keyword_open_site
+2026-05-14T09:01:14Z,I am very sad could you cheer me up,chat,0.999413,False,False,2.7355,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-05-14T13:19:30Z,Can you tell me what computer technology is?,chat,0.510741,False,False,5.4962,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-05-14T13:20:10Z,good evening what is the meaning of data science between computer science difference,chat,0.998805,False,False,2.7976,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-05-14T13:21:44Z,Can you please tell me whether data science or computer comparative thinking in this modern society?,chat,0.667473,False,False,2.4471,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-05-14T13:22:42Z,Can you tell me whether data science or computing will be more popular in the next 10 years?,system,0.552540,False,True,2.3520,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-05-14T13:26:15Z,I want to know whether the computer science department will still be popular in the next 20 years,system,0.827550,True,False,2.7939,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-05-14T13:27:02Z,Can you tell me whether computer science departments will still be popular in the next 20 years?,system,0.882225,True,False,2.6500,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-05-14T13:27:33Z,tell me the trend of computer science in the next 20 years,chat,0.991067,False,False,2.5521,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-05-14T13:55:42Z,please open WhatsApp,system,1.000000,True,False,0.0000,keyword_open_site
+2026-05-15T15:24:43Z,tell me briefly what is agentic AI,chat,0.997868,False,False,5.6540,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-05-15T15:25:32Z,tell me in short sentence what is agentic AI,chat,0.988358,False,False,2.9591,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-05-15T15:29:05Z,please open WhatsApp,system,1.000000,True,False,0.0000,keyword_open_site
+2026-05-16T08:27:15Z,good morning please open WhatsApp,system,1.000000,True,False,0.0000,keyword_open_site
+2026-05-16T08:33:38Z,please open Google News,system,1.000000,True,False,0.0000,keyword_open_site
+2026-05-16T08:35:43Z,可以告诉我马来西亚未来发展趋势吗,chat,0.999637,False,False,5.8174,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-05-16T08:37:17Z,解释什么是数字经济,chat,0.997945,False,False,3.1994,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-05-16T08:43:39Z,Tell me which major is most suitable for digital economy?,chat,0.672762,False,False,3.8600,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-05-16T08:47:44Z,please open WhatsApp,system,1.000000,True,False,0.0000,keyword_open_site
+2026-05-17T13:42:19Z,hello please open WhatsApp,system,1.000000,True,False,0.0000,keyword_open_site
+2026-05-18T05:53:06Z,good morning how are you,chat,0.998786,False,False,4.9601,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-05-18T05:57:44Z,good morning please open WhatsApp,system,1.000000,True,False,0.0000,keyword_open_site
+2026-05-18T06:21:34Z,hi there how are you,chat,0.999735,False,False,3.8361,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-05-18T06:32:14Z,please take screenshot,system,0.590543,False,True,3.0275,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-05-18T06:32:45Z,take screenshot,system,0.952264,True,False,0.5892,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-05-18T07:09:50Z,good morning could you please open YouTube,system,1.000000,True,False,0.0000,keyword_open_site
+2026-05-18T07:17:06Z,hi there good morning what is the meaning of computer science,chat,0.998803,False,False,4.5899,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-05-18T07:17:53Z,"Hello, can you tell me what is the Internet?",chat,0.999197,False,False,0.2721,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-05-18T07:24:59Z,hello may I know the meaning of data science,chat,0.998448,False,False,3.7116,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-05-18T13:08:05Z,tell me what is 1 / 4,chat,0.988853,False,False,5.4037,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-05-18T13:46:40Z,hi what is the meaning of computer science,chat,0.998908,False,False,5.2895,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-05-18T14:16:40Z,hey Friday open downloads,chat,0.601125,False,False,2.9661,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-05-18T14:17:44Z,hey Friday open my downloads,chat,0.980876,False,False,0.5547,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-05-18T14:18:17Z,What is one plus one equal to?,system,0.830044,True,False,0.8422,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-05-18T14:18:56Z,ija e tangi Tossa,chat,0.556882,False,False,0.2161,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-05-18T14:19:55Z,What is the answer to one plus one?,system,0.715722,True,False,0.3471,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-05-18T14:20:56Z,Can you tell me what one plus one equals?,chat,0.983214,False,False,0.2920,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-05-18T14:21:14Z,what is the meaning of computer science in software engineering,system,0.826432,True,False,0.2905,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-05-18T14:22:12Z,can you tell me what is computer science in software engineering,chat,0.980186,False,False,0.2913,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-05-18T15:39:48Z,please open YouTube,system,1.000000,True,False,0.0000,keyword_open_site
+2026-05-18T15:45:55Z,please open Google Maps,system,1.000000,True,False,0.0000,keyword_open_site
+2026-05-18T15:46:35Z,open YouTube,system,1.000000,True,False,0.0000,keyword_open_site
+2026-05-18T15:48:09Z,open WhatsApp,system,1.000000,True,False,0.0000,keyword_open_site
+2026-05-18T16:04:30Z,open my downloads,system,0.926170,True,False,6.3801,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-05-18T16:04:51Z,open WhatsApp,system,1.000000,True,False,0.0000,keyword_open_site
+2026-05-18T16:06:40Z,please open YouTube,system,1.000000,True,False,0.0000,keyword_open_site
+2026-05-18T16:07:54Z,play video,system,0.952926,True,False,0.9462,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-05-18T16:22:06Z,hello please open YouTube,system,1.000000,True,False,0.0000,keyword_open_site
+2026-05-18T16:23:23Z,please take screenshot,system,0.590543,False,True,6.3761,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-05-18T16:23:51Z,take screenshot,system,0.952264,True,False,0.5944,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-05-23T03:35:18Z,good morning please open WhatsApp,system,1.000000,True,False,0.0000,keyword_open_site
+2026-05-23T03:36:10Z,good morning marino's what is the meaning of,chat,0.999741,False,False,5.3642,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-05-23T03:36:30Z,may I know what is the meaning of computer science,chat,0.669961,False,False,0.5801,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-05-23T04:17:24Z,what is the time today,system,0.849035,True,False,0.8404,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-05-23T08:37:03Z,take screenshot,system,0.952264,True,False,5.0416,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-05-23T08:37:52Z,what is the meaning of life,chat,0.944382,False,False,0.5610,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-05-23T08:47:52Z,take screenshot,system,0.952264,True,False,2.4738,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-05-23T08:48:35Z,cinta Kai deltin in Yong,system,0.720172,True,False,0.5493,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-05-23T09:01:57Z,please take screenshot,system,0.590543,False,True,1.6143,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-05-23T09:05:51Z,what is the meaning of life,chat,0.944382,False,False,0.5535,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-05-23T09:06:20Z,what is 1 + 1,system,0.782663,True,False,0.7823,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-05-23T09:10:07Z,1 + 1 = what,chat,0.679072,False,False,2.4718,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-05-23T09:11:51Z,3 / 2 =,system,0.932944,True,False,0.5389,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-05-23T09:12:16Z,What is three times nine?,system,0.534370,False,True,0.7407,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-05-23T10:19:31Z,please open WhatsApp,system,1.000000,True,False,0.0000,keyword_open_site
+2026-05-23T15:32:25Z,what is 5 plus 3,chat,1.000000,False,False,0.0000,keyword_math
+2026-05-23T15:32:25Z,10 divided by 2,chat,1.000000,False,False,0.0000,keyword_math
+2026-05-23T15:32:25Z,5 + 3,chat,1.000000,False,False,0.0000,keyword_math
+2026-05-23T15:32:25Z,5加3,chat,1.000000,False,False,0.0000,keyword_math
+2026-05-23T15:33:35Z,5加3,chat,1.000000,False,False,0.0000,keyword_math
+2026-05-23T15:34:55Z,5+3,chat,1.000000,False,False,0.0000,keyword_math
+2026-05-23T15:34:55Z,5加3,chat,1.000000,False,False,0.0000,keyword_math
+2026-05-23T15:34:55Z,10除3,chat,1.000000,False,False,0.0000,keyword_math
+2026-05-23T15:34:55Z,open youtube,system,1.000000,True,False,0.0000,keyword_open_site
+2026-05-23T15:35:00Z,what time is it,system,0.986879,True,False,6.2408,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-05-23T15:45:02Z,good day what is 15 /,chat,1.000000,False,False,0.0000,keyword_math
+2026-05-23T15:45:18Z,good day what is the result of 15 / 9,chat,1.000000,False,False,0.0000,keyword_math
+2026-05-23T15:45:50Z,What is three times five?,system,0.763484,True,False,3.1184,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-05-23T15:48:17Z,What is three times five,system,0.821903,True,False,3.3727,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-05-23T15:48:20Z,three times five equals how much,system,0.791821,True,False,0.4509,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-05-23T15:48:20Z,3 times 5,chat,1.000000,False,False,0.0000,keyword_math
+2026-05-23T15:48:20Z,three multiplied by five,system,0.958886,True,False,0.9495,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-05-23T15:52:44Z,What is three times five,chat,1.000000,False,False,0.0000,keyword_math
+2026-05-23T15:52:44Z,three times five equals how much,chat,1.000000,False,False,0.0000,keyword_math
+2026-05-23T15:52:44Z,3 times 5,chat,1.000000,False,False,0.0000,keyword_math
+2026-05-23T15:52:44Z,open youtube,system,1.000000,True,False,0.0000,keyword_open_site
+2026-05-23T15:52:48Z,what time is it,system,0.986879,True,False,3.2972,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-05-23T15:52:51Z,What is three times five,chat,1.000000,False,False,0.0000,keyword_math
+2026-05-23T15:52:51Z,三乘五等于多少,chat,1.000000,False,False,0.0000,keyword_math
+2026-05-23T16:01:22Z,What is five times 15?,chat,1.000000,False,False,0.0000,keyword_math
+2026-05-23T16:01:39Z,What is 75 divided by 2?,chat,1.000000,False,False,0.0000,keyword_math
+2026-05-23T16:01:54Z,what is the answer for 5 / 3,chat,1.000000,False,False,0.0000,keyword_math
+2026-05-23T16:02:07Z,open WhatsApp,system,1.000000,True,False,0.0000,keyword_open_site
+2026-05-23T16:24:14Z,please open Google Maps,system,1.000000,True,False,0.0000,keyword_open_site
+2026-05-23T16:31:28Z,please open YouTube,system,1.000000,True,False,0.0000,keyword_open_site
+2026-05-23T16:38:49Z,could you please open YouTube,system,1.000000,True,False,0.0000,keyword_open_site
+2026-05-23T16:39:47Z,good morning how are you today,chat,0.998306,False,False,3.1471,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-05-23T16:41:13Z,please open Google News,system,1.000000,True,False,0.0000,keyword_open_site
+2026-05-23T16:42:13Z,what is 1 + 1,chat,1.000000,False,False,0.0000,keyword_math
+2026-05-23T16:42:27Z,please open YouTube,system,1.000000,True,False,0.0000,keyword_open_site
+2026-05-23T16:43:00Z,please open YouTube,system,1.000000,True,False,0.0000,keyword_open_site
+2026-05-23T16:46:54Z,please open WhatsApp,system,1.000000,True,False,0.0000,keyword_open_site
+2026-05-23T16:51:15Z,What is five X equal to?,system,0.637708,True,False,0.6679,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-05-23T16:51:33Z,What is five X equal to?,system,0.637708,True,False,0.2088,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-05-23T16:51:51Z,What is the value of three families and three?,system,0.635222,True,False,1.1352,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-05-23T16:52:13Z,What is one plus one equal to?,chat,1.000000,False,False,0.0000,keyword_math
+2026-05-23T16:52:28Z,What is the value of deleting 5?,system,0.805632,True,False,0.2848,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-05-23T16:54:09Z,What is one plus five?,chat,1.000000,False,False,0.0000,keyword_math
+2026-05-23T16:54:22Z,what is 3 * 3,chat,1.000000,False,False,0.0000,keyword_math
+2026-05-23T16:54:34Z,please open WhatsApp,system,1.000000,True,False,0.0000,keyword_open_site
+2026-05-23T16:57:44Z,open my downloads,system,0.926170,True,False,2.0298,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-05-23T16:58:05Z,what is the meaning of computer science,system,0.890103,True,False,0.5716,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-05-23T16:58:23Z,can you explain what is the meaning of computer science,chat,0.995669,False,False,0.7460,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-05-23T16:58:49Z,please open Google News,system,1.000000,True,False,0.0000,keyword_open_site
+2026-05-24T05:04:46Z,what is 1 + 1,chat,1.000000,False,False,0.0000,keyword_math
+2026-05-24T05:26:56Z,hello please open WhatsApp,system,1.000000,True,False,0.0000,keyword_open_site
+2026-05-24T05:29:45Z,good morning,chat,0.992774,False,False,3.2022,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-05-24T06:15:37Z,good morning how are you today,chat,0.998306,False,False,0.5819,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-05-24T06:22:48Z,please open WhatsApp,system,1.000000,True,False,0.0000,keyword_open_site
+2026-05-24T07:34:50Z,good morning please open WhatsApp,system,1.000000,True,False,0.0000,keyword_open_site
+2026-05-24T07:58:13Z,good morning how are you,chat,0.998786,False,False,3.1320,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-05-24T08:13:54Z,good morning please open WhatsApp,system,1.000000,True,False,0.0000,keyword_open_site
+2026-05-24T15:30:57Z,hi good morning what is 3 * 3,chat,1.000000,False,False,0.0000,keyword_math
+2026-05-24T15:35:49Z,please open WhatsApp,system,1.000000,True,False,0.0000,keyword_open_site
+2026-05-24T15:41:51Z,hi there what is 1 / 5,chat,1.000000,False,False,0.0000,keyword_math
+2026-05-24T15:44:08Z,What is data science?,system,0.955527,True,False,3.0786,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-05-24T15:44:29Z,Data science explained,system,0.963092,True,False,0.5532,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-05-24T15:45:10Z,"Hello, can you chat with me?",chat,0.998693,False,False,0.8007,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-05-24T15:45:37Z,What is one plus one equal to?,chat,1.000000,False,False,0.0000,keyword_math
+2026-05-24T15:46:00Z,What is most needed in this modern society?,system,0.847463,True,False,0.2147,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-05-24T15:47:14Z,Can you explain where the science comes from?,chat,0.992753,False,False,0.2945,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-05-24T15:50:33Z,can you explain quantum physics,chat,1.000000,False,False,0.0000,keyword_explain
+2026-05-24T15:50:33Z,Data science explained,chat,1.000000,False,False,0.0000,keyword_explain
+2026-05-24T15:50:33Z,解释什么是数字经济,chat,1.000000,False,False,0.0000,keyword_explain
+2026-05-24T15:50:57Z,解释什么是数字经济,chat,1.000000,False,False,0.0000,keyword_explain
+2026-05-24T15:51:59Z,explain to me the meaning of life,chat,1.000000,False,False,0.0000,keyword_explain
+2026-05-24T15:52:30Z,Explain what modern society needs,chat,1.000000,False,False,0.0000,keyword_explain
+2026-05-24T16:35:55Z,please open WhatsApp,system,1.000000,True,False,0.0000,keyword_open_site
+2026-05-25T03:54:11Z,good morning please open WhatsApp,system,1.000000,True,False,0.0000,keyword_open_site
+2026-06-01T02:36:18Z,good morning please open WhatsApp,system,1.000000,True,False,0.0000,keyword_open_site
+2026-06-01T02:37:31Z,good morning tell me a story,chat,0.999653,False,False,5.4334,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-06-01T02:40:09Z,what is the meaning of life,chat,0.944382,False,False,0.2978,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-06-01T02:40:32Z,explain to me computer science,chat,1.000000,False,False,0.0000,keyword_explain
+2026-06-01T02:41:09Z,"Hello, can you tell me a story?",chat,0.999575,False,False,0.6126,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-06-01T02:41:44Z,What is a mathematical system,system,0.947672,True,False,0.8780,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-06-01T02:43:36Z,hello could you tell me a story,chat,0.999659,False,False,0.2314,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-06-01T02:43:53Z,good morning what is my name,chat,0.998745,False,False,0.2983,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-06-01T03:24:35Z,open WhatsApp,system,1.000000,True,False,0.0000,keyword_open_site
+2026-06-01T03:34:50Z,open gesture,system,0.889912,True,False,3.3258,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-06-01T03:38:10Z,hello what is my name,chat,0.999814,False,False,0.6237,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-06-01T03:38:27Z,good morning tell me a story,chat,0.999653,False,False,0.8924,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-06-01T03:59:03Z,hello,chat,0.999578,False,False,3.0054,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-06-01T03:59:59Z,hello good morning,chat,0.998821,False,False,0.5734,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-06-01T04:00:13Z,open WhatsApp,system,1.000000,True,False,0.0000,keyword_open_site
+2026-06-01T04:18:51Z,hello please open WhatsApp for me,system,1.000000,True,False,0.0000,keyword_open_site
+2026-06-01T04:20:31Z,please open YouTube,system,1.000000,True,False,0.0000,keyword_open_site
+2026-06-01T04:24:06Z,hi open WhatsApp,system,1.000000,True,False,0.0000,keyword_open_site
+2026-06-01T04:26:35Z,hi open WhatsApp,system,1.000000,True,False,0.0000,keyword_open_site
+2026-06-01T04:27:09Z,hi open WhatsApp,system,1.000000,True,False,0.0000,keyword_open_site
+2026-06-01T04:28:22Z,hi open WhatsApp,system,1.000000,True,False,0.0000,keyword_open_site
+2026-06-01T04:29:23Z,hi open WhatsApp,system,1.000000,True,False,0.0000,keyword_open_site
+2026-06-01T05:45:04Z,please open WhatsApp,system,1.000000,True,False,0.0000,keyword_open_site
+2026-06-01T05:47:48Z,open YouTube,system,1.000000,True,False,0.0000,keyword_open_site
+2026-06-01T05:53:09Z,good morning what is my name,chat,0.998745,False,False,3.2222,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-06-01T05:53:30Z,what is my name,chat,0.998436,False,False,0.5601,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-06-01T05:54:14Z,What is three plus five?,chat,1.000000,False,False,0.0000,keyword_math
+2026-06-01T05:54:28Z,what is 3 / 3,chat,1.000000,False,False,0.0000,keyword_math
+2026-06-01T05:55:36Z,open Chat gpt,system,1.000000,True,False,0.0000,keyword_open_site
+2026-06-01T05:57:15Z,open Google Map,system,0.935817,True,False,0.8209,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-06-01T05:57:29Z,open Google News,system,1.000000,True,False,0.0000,keyword_open_site
+2026-06-01T05:58:10Z,iPhone,system,0.903465,True,False,0.2612,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-06-01T05:58:34Z,open Google Maps,system,1.000000,True,False,0.0000,keyword_open_site
+2026-06-01T05:59:27Z,please open WhatsApp,system,1.000000,True,False,0.0000,keyword_open_site
+2026-06-08T03:45:49Z,good morning please take screenshot,chat,0.991381,False,False,4.8706,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-06-08T03:46:10Z,take screenshot,system,0.952264,True,False,0.5570,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-06-08T03:48:41Z,hello good morning how are you,chat,0.999089,False,False,0.8240,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-06-08T03:50:02Z,what is 3 + 1 =,chat,1.000000,False,False,0.0000,keyword_math
+2026-06-08T04:29:54Z,can you tell me what is,chat,0.999768,False,False,4.9360,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-06-08T04:30:12Z,what is the answer of 3 + 3,chat,1.000000,False,False,0.0000,keyword_math
+2026-06-08T04:30:31Z,take screenshot,system,0.952264,True,False,1.5751,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-06-08T04:31:19Z,can you explain what is the meaning of computer science,chat,1.000000,False,False,0.0000,keyword_explain
+2026-06-08T04:32:02Z,What is three plus one?,chat,1.000000,False,False,0.0000,keyword_math
+2026-06-08T04:34:07Z,just like the orientation methods like you have,system,0.754192,True,False,1.9410,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-06-08T04:37:45Z,please open YouTube,system,1.000000,True,False,0.0000,keyword_open_site
+2026-06-14T05:45:54Z,please tell help me to take a screenshot,chat,0.996564,False,False,5.1144,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-06-14T05:46:23Z,take screenshot,system,0.952264,True,False,0.5812,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-06-14T05:46:54Z,what is 3 - 1,chat,1.000000,False,False,0.0000,keyword_math
+2026-06-14T05:47:05Z,hi Friday I'm very sad today,chat,0.998165,False,False,0.2975,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-06-14T05:47:18Z,I've been wondering can you explain to me what is computer science,chat,1.000000,False,False,0.0000,keyword_explain
+2026-06-14T05:48:24Z,please switch to gesture control,system,0.994214,True,False,0.8404,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-06-14T05:51:25Z,hello please tell me a story,chat,0.999677,False,False,0.2775,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-06-14T05:55:33Z,open WhatsApp,system,1.000000,True,False,0.0000,keyword_open_site
+2026-06-14T06:07:34Z,hi Friday do you know who am I,chat,0.999574,False,False,0.2532,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-06-14T06:07:51Z,do you know what's my name,chat,0.999719,False,False,0.2871,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-06-14T06:08:10Z,great now do 4 / 2 for me,chat,1.000000,False,False,0.0000,keyword_math
+2026-06-14T06:08:31Z,"Hello, can you tell me today's date?",chat,0.997919,False,False,0.3112,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-06-14T06:08:52Z,Can you tell me the current time?,chat,0.987747,False,False,0.2857,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-06-14T06:09:13Z,Can you tell me today's date?,chat,0.994429,False,False,0.2910,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-06-14T06:11:51Z,open YouTube for me,system,1.000000,True,False,0.0000,keyword_open_site
+2026-06-14T06:17:08Z,hi Friday what's my name,chat,0.998945,False,False,0.2510,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-06-14T06:18:34Z,hi Friday what's my name,chat,0.998945,False,False,0.2847,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-06-14T06:18:49Z,can you tell me the date for today,chat,0.994626,False,False,0.2069,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-06-14T06:20:14Z,hi Friday what's my name,chat,0.998945,False,False,0.2479,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-06-14T06:20:26Z,what is 3 + 2,chat,1.000000,False,False,0.0000,keyword_math
+2026-06-14T06:20:46Z,Can you tell me the time today?,chat,0.989480,False,False,0.2027,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-06-14T06:23:07Z,good morning Friday,chat,0.961425,False,False,0.3272,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-06-14T06:23:22Z,can you tell me what's my name,chat,0.999043,False,False,0.3108,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-06-14T06:23:33Z,how much is 3 + 2,chat,1.000000,False,False,0.0000,keyword_math
+2026-06-14T06:23:48Z,please tell me the current time,chat,0.559771,False,False,0.2977,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-06-14T06:24:49Z,hi Friday open YouTube for,system,1.000000,True,False,0.0000,keyword_open_site
+2026-06-14T06:28:32Z,good morning Friday,chat,0.961425,False,False,0.2822,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-06-14T06:28:46Z,can you tell me what's my name,chat,0.999043,False,False,0.2899,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-06-14T06:28:57Z,please tell me how much is 3 + 2,chat,1.000000,False,False,0.0000,keyword_math
+2026-06-14T06:29:12Z,please tell me the current time,chat,0.559771,False,False,0.2443,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-06-14T06:30:06Z,hi Friday open YouTube for me,system,1.000000,True,False,0.0000,keyword_open_site
+2026-06-14T07:44:57Z,hi good morning,chat,0.998866,False,False,6.5633,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-06-26T08:30:23Z,hi good morning how are you today,chat,0.998947,False,False,5.1187,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-06-26T08:30:44Z,do you know what is my name,chat,0.999640,False,False,0.2325,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-06-26T08:31:01Z,What is one plus one equal to?,chat,1.000000,False,False,0.0000,keyword_math
+2026-06-26T08:31:54Z,thank you so much,chat,0.718199,False,False,0.5975,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-06-27T08:36:27Z,hi do you know what is the meaning of Science,chat,0.997737,False,False,5.2095,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-06-27T08:36:57Z,what is 1 / 5,chat,1.000000,False,False,0.0000,keyword_math
+2026-06-27T08:37:09Z,do you know how we get free food in the world,chat,0.996864,False,False,0.4927,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-06-27T08:37:38Z,Can you tell me today's date?,chat,0.994429,False,False,0.8096,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-06-27T08:38:20Z,Can you tell me where it comes from in Malaysia? It’s simple.,chat,0.997221,False,False,0.2430,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-06-27T08:38:34Z,"Sabah, Malaysia",system,0.858955,True,False,0.2947,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-06-27T08:38:53Z,"Can you tell me the origin of Sabah, Malaysia?",chat,0.998293,False,False,0.2946,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-06-27T08:39:10Z,Turn on manual operation,system,0.996258,True,False,0.2866,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-06-27T08:40:16Z,can you tell me how the world is created,chat,0.994989,False,False,0.2873,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-06-27T08:40:39Z,thank you so much,chat,0.718199,False,False,0.2357,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-06-28T05:23:44Z,hello good morning how are you,chat,0.999089,False,False,5.7671,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-06-28T05:24:05Z,what is 1 - 3 = 2,chat,1.000000,False,False,0.0000,keyword_math
+2026-07-06T14:55:52Z,he who invented mathematics,system,0.926636,True,False,6.1516,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-07-06T14:56:15Z,may I ask who invented mathematics,chat,0.986191,False,False,0.6216,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-07-06T14:56:36Z,who invented Python programming language,system,0.756358,True,False,1.0624,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-07-06T14:56:57Z,can you explain to me who invented Python programming language,chat,1.000000,False,False,0.0000,keyword_explain
+2026-07-06T14:57:49Z,please open WhatsApp,system,1.000000,True,False,0.0000,keyword_open_site
+2026-07-07T04:53:49Z,please open YouTube,system,1.000000,True,False,0.0000,keyword_open_site
+2026-07-07T05:23:39Z,good morning how are you,chat,0.998786,False,False,3.3256,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-07-07T05:23:53Z,do you know what is my name,chat,0.999640,False,False,0.5710,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-07-07T05:24:07Z,do you know what is my name,chat,0.999640,False,False,0.2845,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-07-07T05:24:19Z,hi,chat,0.999225,False,False,0.8362,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-07-07T05:24:29Z,do you know who am I,chat,0.999539,False,False,0.3030,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-07-07T05:24:40Z,my name is Sharni,chat,0.998630,False,False,0.2921,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-07-07T05:24:50Z,do you know what is my name,chat,0.999640,False,False,0.2119,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-07-07T05:25:05Z,hi do you know me,chat,0.999684,False,False,0.2833,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-07-07T05:25:38Z,open gesture,system,0.889912,True,False,0.2842,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-07-07T05:26:09Z,hi how are you what is my name,chat,0.999672,False,False,0.2838,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-07-07T05:28:42Z,good afternoon Friday how are you,chat,0.998286,False,False,0.3361,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-07-07T05:29:21Z,could you tell me who invented the computer,chat,0.985286,False,False,0.2862,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-07-07T05:29:42Z,please open Notepad for me,system,0.756358,True,False,0.2541,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-07-07T05:30:18Z,"Okay, what is one plus one equal to?",chat,1.000000,False,False,0.0000,keyword_math
+2026-07-07T05:31:30Z,open YouTube and search Justin Bieber daisies,system,1.000000,True,False,0.0000,keyword_open_site
+2026-07-07T05:35:35Z,hello please open WhatsApp for me,system,1.000000,True,False,0.0000,keyword_open_site
+2026-07-07T06:13:01Z,good morning Friday how are you,chat,0.998158,False,False,0.2889,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-07-07T06:14:12Z,hello good day Friday how are you,chat,0.998943,False,False,0.3171,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-07-07T06:14:38Z,excellent could you tell me who invented computer,chat,0.965738,False,False,0.2947,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-07-07T06:15:01Z,thanks for the information please open Notepad for me,system,0.842604,True,False,0.2805,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-07-07T06:16:33Z,hello good day Friday how are you,chat,0.998943,False,False,0.2057,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-07-07T06:16:57Z,excellent job could you tell me who invented calculator,chat,0.995993,False,False,0.2891,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-07-07T06:17:14Z,thanks for the information now please open Notepad,system,0.877896,True,False,0.2187,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-07-07T06:17:55Z,Thank you very much. What is one plus one?,chat,1.000000,False,False,0.0000,keyword_math
+2026-07-07T06:18:47Z,hi Friday please open YouTube and search Justin Bieber,system,1.000000,True,False,0.0000,keyword_open_site
+2026-07-07T06:19:41Z,what is 1 + 1 =,chat,1.000000,False,False,0.0000,keyword_math
+2026-07-07T06:19:50Z,good morning do you know who am I,chat,0.999447,False,False,0.2116,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-07-07T06:20:04Z,thank you so much,chat,0.718199,False,False,0.2986,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-07-07T06:21:11Z,good morning do you know who am I,chat,0.999447,False,False,0.2917,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-07-07T06:21:36Z,excellent could you tell me who invented calculator,chat,0.996343,False,False,0.2728,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-07-07T06:21:53Z,thanks for information now please open Notepad,system,0.887205,True,False,0.2383,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-07-07T06:22:31Z,"Okay, what is one plus one equal to?",chat,1.000000,False,False,0.0000,keyword_math
+2026-07-07T06:22:43Z,OK thank you very much,system,0.618320,True,False,0.2696,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-07-07T06:24:07Z,good morning do you know who am I,chat,0.999447,False,False,0.2811,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-07-07T06:24:33Z,excellent no explain to me who invented calculator,chat,1.000000,False,False,0.0000,keyword_explain
+2026-07-07T06:24:49Z,thank you for the information please open Notepad for me,system,0.794066,True,False,0.2705,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-07-07T06:25:14Z,"Hello, can you tell me today's date?",chat,0.997919,False,False,0.2911,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-07-07T06:25:28Z,"Okay, what is one plus one equal to?",chat,1.000000,False,False,0.0000,keyword_math
+2026-07-07T06:27:14Z,hello good morning I would like to open YouTube and search Justin Bieber,system,1.000000,True,False,0.0000,keyword_open_site
+2026-07-07T06:28:52Z,hi Friday please open YouTube and search Justin Bieber,system,1.000000,True,False,0.0000,keyword_open_site
+2026-07-07T06:31:00Z,good morning please open YouTube and search Justin Bieber,system,1.000000,True,False,0.0000,keyword_open_site
+2026-07-07T06:34:24Z,hello good morning please open YouTube,system,1.000000,True,False,0.0000,keyword_open_site
+2026-07-07T06:36:12Z,hi there open YouTube,system,1.000000,True,False,0.0000,keyword_open_site
+2026-07-07T06:37:03Z,so,system,0.851953,True,False,0.2018,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-07-07T06:38:33Z,hi there open YouTube,system,1.000000,True,False,0.0000,keyword_open_site
+2026-07-07T06:41:50Z,hi there open Google News,system,1.000000,True,False,0.0000,keyword_open_site
+2026-07-07T06:44:30Z,hi I would like to open WhatsApp,system,1.000000,True,False,0.0000,keyword_open_site
+2026-07-07T06:46:20Z,good morning please open WhatsApp,system,1.000000,True,False,0.0000,keyword_open_site
+2026-07-07T06:47:27Z,open WhatsApp,system,1.000000,True,False,0.0000,keyword_open_site
+2026-07-07T07:09:44Z,hello good morning,chat,0.998821,False,False,5.2918,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-07-07T07:10:00Z,what is 1 + 1,chat,1.000000,False,False,0.0000,keyword_math
+2026-07-07T07:16:15Z,good afternoon do you know who am I,chat,0.999379,False,False,0.6099,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-07-07T07:16:41Z,excellent please tell me who invented calculator,chat,0.870872,False,False,0.8610,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-07-07T07:16:57Z,thank you for information now please open Notepad,system,0.900355,True,False,0.2920,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-07-07T07:17:42Z,"Okay, what is one plus one equal to?",chat,1.000000,False,False,0.0000,keyword_math
+2026-07-07T07:18:51Z,hi there please open YouTube,system,1.000000,True,False,0.0000,keyword_open_site
+2026-07-07T07:22:44Z,good morning open YouTube and search Justin Bieber,system,1.000000,True,False,0.0000,keyword_open_site
+2026-07-07T07:28:34Z,hi there please open WhatsApp,system,1.000000,True,False,0.0000,keyword_open_site
+2026-07-07T07:29:39Z,hi please open WhatsApp,system,1.000000,True,False,0.0000,keyword_open_site
+2026-07-07T07:31:05Z,good morning please open WhatsApp,system,1.000000,True,False,0.0000,keyword_open_site
+2026-07-07T07:32:56Z,hi there please open WhatsApp,system,1.000000,True,False,0.0000,keyword_open_site
+2026-07-07T07:34:05Z,so previously thank you,chat,0.822475,False,False,0.2811,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-07-07T07:34:46Z,hi there please open WhatsApp,system,1.000000,True,False,0.0000,keyword_open_site
+2026-07-07T07:43:01Z,hi there good morning,chat,0.999316,False,False,5.0026,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-07-07T08:12:12Z,good morning Friday do you know who I am,chat,0.999060,False,False,0.6286,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-07-07T08:12:39Z,excellent know let me know who invented calculator,chat,0.995874,False,False,0.8285,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-07-07T08:12:55Z,thank you for the information could you please open Notepad,system,0.633864,True,False,0.2967,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-07-07T08:13:31Z,"Okay, what is one plus one equal to?",chat,1.000000,False,False,0.0000,keyword_math
+2026-07-07T08:19:54Z,good morning Friday do you know who am I,chat,0.999376,False,False,0.2490,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-07-07T08:20:18Z,excellent no explain to me who invented calculator,chat,1.000000,False,False,0.0000,keyword_explain
+2026-07-07T08:20:34Z,thank you for the information please open Notepad,system,0.894973,True,False,0.2224,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-07-07T08:21:13Z,"Okay, what is one plus one equal to?",chat,1.000000,False,False,0.0000,keyword_math
+2026-07-07T08:22:11Z,good morning please open YouTube for me,system,1.000000,True,False,0.0000,keyword_open_site
+2026-07-07T08:24:05Z,good morning Friday do you know who am I,chat,0.999376,False,False,0.2607,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-07-07T08:24:31Z,thanks tell me who invented calculator,chat,0.988896,False,False,0.3074,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-07-07T08:29:28Z,good evening do you know who am I,chat,0.999507,False,False,0.2931,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-07-07T08:29:54Z,excellent could you tell me who invented calculator,chat,0.996343,False,False,0.2881,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-07-07T08:30:17Z,thanks for your information now open Notepad,system,0.779658,True,False,0.2557,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-07-07T08:30:54Z,"Okay, what is one plus one equal to?",chat,1.000000,False,False,0.0000,keyword_math
+2026-07-07T08:32:05Z,hello please open YouTube,system,1.000000,True,False,0.0000,keyword_open_site
+2026-07-07T08:34:08Z,hello open YouTube,system,1.000000,True,False,0.0000,keyword_open_site
+2026-07-07T08:42:33Z,good morning do you know who am I,chat,0.999447,False,False,0.2141,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-07-07T08:42:57Z,excellent could you let me know who invented calculator,chat,0.996434,False,False,0.3046,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-07-07T08:43:22Z,thanks for the information now please open Notepad,system,0.877896,True,False,0.2507,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-07-07T08:44:14Z,"Okay, so what does one plus one equal?",chat,1.000000,False,False,0.0000,keyword_math
+2026-07-07T08:45:22Z,hi there please open YouTube,system,1.000000,True,False,0.0000,keyword_open_site
+2026-07-07T08:48:15Z,good evening do you know who am I,chat,0.999507,False,False,0.2434,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-07-07T08:48:42Z,great job no tell me who invented calculator,chat,0.984215,False,False,0.2954,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-07-07T08:48:57Z,please open Notepad,system,0.922900,True,False,0.2171,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-07-07T08:49:38Z,"Okay, so what does one plus one equal?",chat,1.000000,False,False,0.0000,keyword_math
+2026-07-07T08:50:53Z,hi please open YouTube,system,1.000000,True,False,0.0000,keyword_open_site
+2026-07-07T08:54:26Z,hi please open WhatsApp,system,1.000000,True,False,0.0000,keyword_open_site
+2026-07-07T09:20:51Z,good evening do you know who am I,chat,0.999507,False,False,0.2208,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-07-07T09:21:19Z,excellent could you let me know who invented calculator,chat,0.996434,False,False,0.3198,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-07-07T09:21:35Z,thanks for information now open Notepad,system,0.806853,True,False,0.2827,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-07-07T09:22:17Z,"Okay, what is one plus one equal to?",chat,1.000000,False,False,0.0000,keyword_math
+2026-07-07T09:23:20Z,hi there please open YouTube,system,1.000000,True,False,0.0000,keyword_open_site
+2026-07-07T09:25:41Z,good evening do you know who am I,chat,0.999507,False,False,0.3091,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-07-07T09:26:05Z,excellent know let me know who invented calculator,chat,0.995874,False,False,0.2625,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-07-07T09:26:20Z,thank you for your information open Notepad,system,0.888372,True,False,0.2186,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-07-07T09:27:00Z,"Okay, what is one plus one equal to?",chat,1.000000,False,False,0.0000,keyword_math
+2026-07-07T09:28:32Z,hi please open YouTube,system,1.000000,True,False,0.0000,keyword_open_site
+2026-07-07T09:33:50Z,hello good evening please open WhatsApp,system,1.000000,True,False,0.0000,keyword_open_site
+2026-07-07T10:21:54Z,hello thank you for your time,chat,0.993843,False,False,0.2596,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-07-07T10:29:37Z,thank you for your time,system,0.840521,True,False,0.2401,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-07-07T10:29:53Z,hi thank you so much for your time,chat,0.998342,False,False,0.2858,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-07-07T10:30:22Z,hello thank you so much for your time,chat,0.996623,False,False,0.2990,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-07-13T06:00:05Z,hi good morning how are you today,chat,0.998947,False,False,3.3672,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-07-13T06:00:48Z,how are you today,chat,0.998899,False,False,0.6137,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-07-13T06:01:02Z,type how are you today,chat,0.998916,False,False,0.8472,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-07-13T06:01:16Z,enter hello,chat,0.999175,False,False,0.2463,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-07-13T06:04:03Z,thank you for your time,system,0.840521,True,False,0.2913,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-07-13T06:04:39Z,thank you for your time have a nice day,system,0.817866,True,False,0.3061,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-07-13T06:04:55Z,thank you Friday for your help,system,0.743168,True,False,0.3444,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-07-13T06:05:11Z,hello thank you for your time,chat,0.993843,False,False,0.3256,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-07-13T06:05:33Z,please open WhatsApp,system,1.000000,True,False,0.0000,keyword_open_site
+2026-07-13T06:43:45Z,good morning hello,chat,0.999152,False,False,2.9656,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-07-13T07:01:28Z,hello please set timer for 10 seconds,chat,0.996727,False,False,0.5847,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-07-13T09:16:40Z,good morning Friday how are you,chat,0.998158,False,False,0.9133,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-07-13T09:17:14Z,can you tell me who invented microsc,chat,0.680029,False,False,0.3324,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-07-13T09:17:31Z,fantastic now open Notepad for me,system,0.805326,True,False,0.3003,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-07-13T09:18:27Z,"Okay, so what does one plus one equal?",chat,1.000000,False,False,0.0000,keyword_math
+2026-07-13T09:19:45Z,hello,chat,0.999578,False,False,0.2688,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-07-13T12:13:55Z,hello what is 3 * 3 = 2,chat,1.000000,False,False,0.0000,keyword_math
+2026-07-13T12:14:13Z,hello what is the answer of 3,chat,0.998869,False,False,5.5095,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-07-13T12:14:29Z,hello what is the answer of 3 * 2,chat,1.000000,False,False,0.0000,keyword_math
+2026-07-13T12:58:19Z,good morning Friday how are you today,chat,0.997527,False,False,0.3131,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-07-13T12:58:51Z,please open Notepad for me,system,0.756358,True,False,0.6493,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-07-13T12:59:46Z,Excel is very good. What is one plus one?,chat,1.000000,False,False,0.0000,keyword_math
+2026-07-13T13:01:31Z,hey please open YouTube,system,1.000000,True,False,0.0000,keyword_open_site
+2026-07-13T13:50:41Z,hi there good morning how are you today,chat,0.998974,False,False,0.8109,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-07-13T13:51:07Z,could you tell me who invented school bags,chat,0.998062,False,False,0.2881,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-07-13T13:51:24Z,open Notepad for me,system,0.935582,True,False,0.2914,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-07-13T13:52:32Z,"Okay, thank you for that third class",system,0.923178,True,False,0.2713,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-07-13T13:52:49Z,"Okay, what is two plus two equal to?",chat,1.000000,False,False,0.0000,keyword_math
+2026-07-13T13:53:55Z,Hello I would like to open YouTube,system,1.000000,True,False,0.0000,keyword_open_site
+2026-07-13T13:54:39Z,hello please open YouTube,system,1.000000,True,False,0.0000,keyword_open_site
+2026-07-13T14:01:36Z,hello how are you today,chat,0.999650,False,False,0.3275,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-07-13T14:02:00Z,thank you for information could you tell me who invented school bag,chat,0.997242,False,False,0.3173,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-07-13T14:02:14Z,open Notepad,system,0.873862,True,False,0.2805,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-07-13T14:02:55Z,"Hello, can you tell me today's date?",chat,0.997919,False,False,0.3299,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-07-13T14:03:17Z,"Hello, can you tell me the time today?",chat,0.998004,False,False,0.2166,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-07-13T14:03:43Z,hi nihao Simone Walter Martin,chat,0.999635,False,False,0.2446,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-07-13T14:03:57Z,"Hello, what should I call you?",chat,0.999219,False,False,0.2862,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-07-13T14:04:12Z,"Okay, then tell me what two plus two equals.",chat,1.000000,False,False,0.0000,keyword_math
+2026-07-13T14:07:13Z,hello please open YouTube,system,1.000000,True,False,0.0000,keyword_open_site
+2026-07-13T14:13:14Z,hello please open WhatsApp,system,1.000000,True,False,0.0000,keyword_open_site
+2026-07-13T14:57:12Z,hi there how are you today,chat,0.999673,False,False,0.3006,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-07-13T14:57:25Z,please tell me who invented school bag,chat,0.984200,False,False,0.2420,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-07-13T14:57:48Z,thank you for information now open Notepad,system,0.885037,True,False,0.2891,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-07-13T14:58:17Z,"Hi, may I ask what is science?",chat,0.993493,False,False,0.2352,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-07-13T14:58:37Z,"Okay, what is two plus two equal to?",chat,1.000000,False,False,0.0000,keyword_math
+2026-07-13T15:00:09Z,hi please open YouTube,system,1.000000,True,False,0.0000,keyword_open_site
+2026-07-13T15:04:26Z,hi please open WhatsApp,system,1.000000,True,False,0.0000,keyword_open_site
+2026-07-13T15:26:08Z,hi there good morning how are you,chat,0.999092,False,False,0.2546,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-07-13T15:26:24Z,could you tell me who invented school bag,chat,0.998914,False,False,0.2106,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-07-13T15:26:39Z,open Notepad for me,system,0.935582,True,False,0.2234,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-07-13T15:27:19Z,"Hi, can you tell me what science is?",chat,0.997702,False,False,0.2360,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-07-13T15:27:38Z,"Okay, so what is two plus two equal to?",chat,1.000000,False,False,0.0000,keyword_math
+2026-07-13T15:28:13Z,What is 520 multiplied by zero?,chat,1.000000,False,False,0.0000,keyword_math
+2026-07-13T15:30:33Z,good morning please open YouTube,system,1.000000,True,False,0.0000,keyword_open_site
+2026-07-13T15:34:52Z,hi please open WhatsApp,system,1.000000,True,False,0.0000,keyword_open_site
+2026-07-14T00:01:17Z,hi good morning how are you,chat,0.999069,False,False,3.2263,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-07-14T00:23:34Z,hi good morning how are you today,chat,0.998947,False,False,0.5224,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-07-14T00:23:47Z,great could you tell me who invented telephone,chat,0.990678,False,False,0.8791,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-07-14T00:23:59Z,thank you for your information open Notepad,system,0.888372,True,False,0.2662,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-07-14T00:24:31Z,"Hi, may I ask what is science?",chat,0.993493,False,False,0.3532,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-07-14T00:24:49Z,"Okay, what is two plus two equal to?",chat,1.000000,False,False,0.0000,keyword_math
+2026-07-14T00:26:00Z,hello please open YouTube,system,1.000000,True,False,0.0000,keyword_open_site
+2026-07-14T00:30:11Z,hi please open WhatsApp,system,1.000000,True,False,0.0000,keyword_open_site
+2026-07-14T00:32:55Z,hello could you open YouTube,system,1.000000,True,False,0.0000,keyword_open_site
+2026-07-14T03:20:20Z,hello how are you today,chat,0.999650,False,False,3.3857,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-07-14T03:20:36Z,could you tell me who invented school bag,chat,0.998914,False,False,0.6415,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-07-14T03:20:51Z,thank you for information please open Notepad,system,0.899475,True,False,0.8114,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-07-14T03:21:18Z,"Hello, may I ask what is science?",chat,0.990522,False,False,0.2451,MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33
+2026-07-14T03:21:36Z,"Okay, what is two plus two equal to?",chat,1.000000,False,False,0.0000,keyword_math
+2026-07-14T03:22:31Z,hi there please open YouTube,system,1.000000,True,False,0.0000,keyword_open_site
+2026-07-14T03:26:32Z,hi please open WhatsApp,system,1.000000,True,False,0.0000,keyword_open_site
+2026-07-29T09:09:49Z,hi good morning open WhatsApp,system,1.000000,True,False,0.0000,keyword_open_site

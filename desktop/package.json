@@ -1,0 +1,13 @@
+{
+  "name": "multimodal-assistant-desktop",
+  "version": "1.0.0",
+  "private": true,
+  "main": "main.cjs",
+  "scripts": {
+    "start": "electron .",
+    "build:frontend": "npm run build --prefix ../frontend"
+  },
+  "devDependencies": {
+    "electron": "33.2.1"
+  }
+}

@@ -1,0 +1,1138 @@
+timestamp_utc,voice_language,input_text,intent,detail,reply_preview,latency_s,status,note
+2026-05-14T07:46:27Z,en,what is computer science,none,,"I didn't match a system command. You can say: set a timer, take a screenshot, open YouTube, or search the web.",0.006897,no_match,no_match
+2026-05-14T08:20:29Z,en,open YouTube,session_youtube,youtube,Automation is running on YouTube.,4.026085,ok,
+2026-05-14T08:20:47Z,en,search Justin Bieber daisies,session_search,ok,Done.,3.557205,ok,session_mode
+2026-05-14T08:21:27Z,en,pause video,session_pause,ok,Paused.,0.091267,ok,session_mode
+2026-05-14T08:21:35Z,en,play video,session_resume,ok,Resumed.,0.000989,ok,session_mode
+2026-05-14T08:21:42Z,en,stop automation,session_stop,,Session stopped.,0.173155,ok,session_mode
+2026-05-14T08:55:26Z,en,take screenshot,screenshot,D:\Documents\FYP\Multimodal_Assistant\Voice_Architecture\System\screenshots\capture_20260514_165526.png,Screenshot saved.,0.143495,ok,
+2026-05-14T08:57:32Z,zh,你好请帮我打开油管,session_youtube,youtube,自动化运行中在 YouTube ,3.710649,ok,
+2026-05-14T08:57:49Z,zh,search 周杰伦稻香,session_search,ok,完成。,3.581772,ok,session_mode
+2026-05-14T08:58:03Z,zh,play first,session_play_first,ok,正在播放第一个视频。,1.646013,ok,session_mode
+2026-05-14T08:58:21Z,zh,pause video,session_pause,ok,已暂停。,0.027980,ok,session_mode
+2026-05-14T08:58:40Z,zh,play video,session_resume,ok,已继续播放。,0.001114,ok,session_mode
+2026-05-14T08:58:50Z,zh,stop automation,session_stop,,已结束会话。,0.088775,ok,session_mode
+2026-05-14T08:59:09Z,en,hi there please open WhatsApp,session_whatsapp,whatsapp,Automation is running on WhatsApp.,2.282342,ok,
+2026-05-14T08:59:20Z,en,select third chat,session_select_chat_index,ok_index_3,Selected the chat.,0.562783,ok,session_mode
+2026-05-14T08:59:40Z,en,send message,session_send,ok,Sent.,0.356407,ok,session_mode
+2026-05-14T08:59:48Z,en,select third chat,session_select_chat_index,ok_index_3,Selected the chat.,0.556916,ok,session_mode
+2026-05-14T08:59:57Z,en,type ok thank you,session_type_text,ok,Typed.,0.610224,ok,session_mode
+2026-05-14T09:00:05Z,en,send message,session_send,ok,Sent.,0.352728,ok,session_mode
+2026-05-14T09:00:13Z,en,search user PG,session_search_chat,ok,Search updated.,1.169904,ok,session_mode
+2026-05-14T09:00:22Z,en,select first chat,session_select_chat_index,ok_index_1,Selected the chat.,0.562606,ok,session_mode
+2026-05-14T09:00:31Z,en,clear search,session_clear_search,ok,Cleared the search.,1.292065,ok,session_mode
+2026-05-14T09:00:40Z,en,select third chat,session_select_chat_index,ok_index_3,Selected the chat.,0.558178,ok,session_mode
+2026-05-14T09:00:49Z,en,stop automation,session_stop,,Session stopped.,0.000065,ok,session_mode
+2026-05-14T13:26:18Z,zh,我想知道计算机科系在未来20年还吃香吗,none,,未识别为系统指令。你可以说：计时、截图、打开 YouTube、或网页搜索。,0.005051,no_match,no_match
+2026-05-14T13:27:04Z,zh,你能告诉我计算机科系在未来20年还能吃香吗,none,,未识别为系统指令。你可以说：计时、截图、打开 YouTube、或网页搜索。,0.006527,no_match,no_match
+2026-05-14T13:28:34Z,zh,请打开聊天应用,session_whatsapp,whatsapp,自动化运行中在 WhatsApp ,2.293984,ok,
+2026-05-14T13:36:37Z,zh,请打开聊天应用,session_whatsapp,whatsapp,自动化运行中在 WhatsApp ,2.220651,ok,
+2026-05-14T13:36:53Z,zh,select first chat,session_select_chat_index,ok_index_1,已选择聊天。,0.564126,ok,session_mode
+2026-05-14T13:37:06Z,zh,type 正在来着,session_type_text,ok,已输入。,0.772059,ok,session_mode
+2026-05-14T13:37:25Z,zh,send,session_send,ok,已发送。,0.353605,ok,session_mode
+2026-05-14T13:37:37Z,zh,选,session_unparsed,选,未识别该指令。可尝试搜索、播放第一个、暂停，或说停止自动化。,0.000056,no_match,session_no_match
+2026-05-14T13:37:56Z,zh,select second chat,session_select_chat_index,ok_index_2,已选择聊天。,0.558315,ok,session_mode
+2026-05-14T13:38:09Z,zh,type 好的,session_type_text,ok,已输入。,0.500179,ok,session_mode
+2026-05-14T13:38:39Z,zh,clear message,session_clear_message,ok,已清空消息。,0.457553,ok,session_mode
+2026-05-14T13:38:51Z,zh,stop automation,session_stop,,已结束会话。,0.000065,ok,session_mode
+2026-05-14T13:55:42Z,en,please open WhatsApp,session_whatsapp,whatsapp,Automation is running on WhatsApp.,2.226880,ok,
+2026-05-14T13:55:59Z,en,search chat,session_search,,"I did not understand that command. Try search, play first, pause, or stop automation.",0.001749,ok,session_mode
+2026-05-14T13:56:12Z,en,select third check,session_unparsed,select third check,"I did not understand that command. Try search, play first, pause, or stop automation.",0.000068,no_match,session_no_match
+2026-05-14T13:56:24Z,en,stop automation,session_stop,,Session stopped.,0.000057,ok,session_mode
+2026-05-14T15:17:11Z,zh,请帮我打开油管,session_youtube,youtube,"CDP connect failed (http://127.0.0.1:9222). Start Edge with --remote-debugging-port matching this URL. Underlying error: BrowserType.connect_over_cdp: connect ECONNREFUSED 127.0.0.1:9222
+Call log:
+  - <ws preparing> retrieving websocket url from http://127.0.0.1:9222
+",0.838410,fail,fail
+2026-05-14T15:18:13Z,zh,请帮我打开油管,session_youtube,youtube,自动化运行中在 YouTube ,4.312651,ok,
+2026-05-14T15:18:33Z,zh,search 周杰伦,session_search,ok,完成。,3.546017,ok,session_mode
+2026-05-14T15:18:49Z,zh,play first,session_play_first,ok,正在播放第一个视频。,1.655343,ok,session_mode
+2026-05-14T15:19:09Z,zh,pause video,session_pause,ok,已暂停。,0.072295,ok,session_mode
+2026-05-14T15:19:27Z,zh,stop automation,session_stop,,已结束会话。,0.109905,ok,session_mode
+2026-05-15T15:29:05Z,en,please open WhatsApp,session_whatsapp,whatsapp,Automation is running on WhatsApp.,2.579265,ok,
+2026-05-15T15:29:23Z,en,Select second chat,session_select_chat_index,ok_index_2,Selected the chat.,0.560798,ok,session_mode
+2026-05-15T15:29:38Z,en,pipe ok no problem,session_unparsed,pipe ok no problem,"I did not understand that command. Try search, play first, pause, or stop automation.",0.000070,no_match,session_no_match
+2026-05-15T15:29:51Z,en,pipe ok no problem,session_unparsed,pipe ok no problem,"I did not understand that command. Try search, play first, pause, or stop automation.",0.000047,no_match,session_no_match
+2026-05-15T15:30:04Z,en,could you type no problem,session_type_text,ok,Typed.,0.562445,ok,session_mode
+2026-05-15T15:30:13Z,en,remove message,session_clear_message,ok,Cleared the message.,0.454448,ok,session_mode
+2026-05-15T15:30:21Z,en,search user y r n,session_search_chat,ok,Search updated.,1.263228,ok,session_mode
+2026-05-15T15:30:32Z,en,clear search,session_clear_search,ok,Cleared the search.,1.259712,ok,session_mode
+2026-05-15T15:30:41Z,en,select third chat,session_select_chat_index,ok_index_3,Selected the chat.,0.558042,ok,session_mode
+2026-05-15T15:30:50Z,en,search user y r n,session_search_chat,ok,Search updated.,1.265991,ok,session_mode
+2026-05-15T15:31:00Z,en,search user y r n,session_search_chat,ok,Search updated.,1.267967,ok,session_mode
+2026-05-15T15:31:15Z,en,search user ABC,session_search_chat,ok,Search updated.,1.212675,ok,session_mode
+2026-05-15T15:31:24Z,en,select first chat,session_select_chat_index,ok_index_1,Selected the chat.,0.566201,ok,session_mode
+2026-05-15T15:31:33Z,en,clear search,session_clear_search,ok,Cleared the search.,1.266199,ok,session_mode
+2026-05-15T15:31:43Z,en,stop operation,session_stop,,Session stopped.,0.000070,ok,session_mode
+2026-05-16T08:27:15Z,en,good morning please open WhatsApp,session_whatsapp,whatsapp,Automation is running on WhatsApp.,2.342306,ok,
+2026-05-16T08:27:27Z,en,select first chat,session_select_chat_index,ok_index_1,Selected the chat.,0.579091,ok,session_mode
+2026-05-16T08:27:49Z,en,please type oh my god,session_type_text,ok,Typed.,0.579784,ok,session_mode
+2026-05-16T08:28:15Z,en,search user y a n,session_search_chat,ok,Search updated.,1.338961,ok,session_mode
+2026-05-16T08:28:25Z,en,clear search,session_clear_search,ok,Cleared the search.,1.285813,ok,session_mode
+2026-05-16T08:28:35Z,en,select first chat,session_select_chat_index,ok_index_1,Selected the chat.,0.594831,ok,session_mode
+2026-05-16T08:28:44Z,en,send,session_send,ok,Sent.,0.431891,ok,session_mode
+2026-05-16T08:28:53Z,en,search user PG,session_search_chat,ok,Search updated.,1.313249,ok,session_mode
+2026-05-16T08:29:03Z,en,select first chat,session_select_chat_index,ok_index_1,Selected the chat.,0.554271,ok,session_mode
+2026-05-16T08:29:12Z,en,stop automation,session_stop,,Session stopped.,0.000068,ok,session_mode
+2026-05-16T08:33:38Z,en,please open Google News,session_google_news,google_news,Automation is running on Google News.,3.698132,ok,
+2026-05-16T08:33:53Z,en,search for news in USA and China,session_search,ok,Done.,1.032827,ok,session_mode
+2026-05-16T08:34:07Z,en,search for news in Sabah,session_search,ok,Done.,1.097209,ok,session_mode
+2026-05-16T08:34:17Z,en,search for fighting news in Kuala Lumpur,session_search,ok,Done.,0.787642,ok,session_mode
+2026-05-16T08:34:37Z,en,stop automation,session_stop,,Session stopped.,0.180283,ok,session_mode
+2026-05-16T08:44:24Z,zh,请帮我打开油管,session_youtube,youtube,自动化运行中在 YouTube ,3.869225,ok,
+2026-05-16T08:44:46Z,zh,search 林俊杰我怀念的,session_search,ok,完成。,3.615769,ok,session_mode
+2026-05-16T08:44:59Z,zh,play first,session_play_first,ok,正在播放第一个视频。,1.624783,ok,session_mode
+2026-05-16T08:45:12Z,zh,pause video,session_pause,ok,已暂停。,0.055851,ok,session_mode
+2026-05-16T08:45:24Z,zh,play video,session_resume,ok,已继续播放。,0.002308,ok,session_mode
+2026-05-16T08:45:39Z,zh,stop automation,session_stop,,已结束会话。,0.059104,ok,session_mode
+2026-05-16T08:47:44Z,en,please open WhatsApp,session_whatsapp,whatsapp,Automation is running on WhatsApp.,2.260680,ok,
+2026-05-16T08:47:57Z,en,select first chat,session_select_chat_index,ok_index_1,Selected the chat.,0.559003,ok,session_mode
+2026-05-16T08:48:06Z,en,stop automation,session_stop,,Session stopped.,0.000044,ok,session_mode
+2026-05-17T13:42:19Z,en,hello please open WhatsApp,session_whatsapp,whatsapp,Automation is running on WhatsApp.,2.234169,ok,
+2026-05-17T13:42:31Z,en,select first chat,session_select_chat_index,ok_index_1,Selected the chat.,0.560998,ok,session_mode
+2026-05-17T13:42:40Z,en,please type go asla,session_type_text,ok,Typed.,0.500742,ok,session_mode
+2026-05-17T13:42:48Z,en,send message,session_send,ok,Sent.,0.352286,ok,session_mode
+2026-05-17T13:42:56Z,en,close automation,session_unparsed,close automation,"I did not understand that command. Try search, play first, pause, or stop automation.",0.000077,no_match,session_no_match
+2026-05-17T13:43:08Z,en,stop automation,session_stop,,Session stopped.,0.000050,ok,session_mode
+2026-05-18T05:57:44Z,en,good morning please open WhatsApp,session_whatsapp,whatsapp,Automation is running on WhatsApp.,2.225541,ok,
+2026-05-18T06:32:45Z,en,take screenshot,screenshot,D:\Documents\FYP\Multimodal_Assistant\Voice_Architecture\System\screenshots\capture_20260518_143245.png,Screenshot saved.,0.142086,ok,
+2026-05-18T07:09:50Z,en,good morning could you please open YouTube,session_youtube,youtube,"CDP connect failed (http://127.0.0.1:9222). Start Edge with --remote-debugging-port matching this URL. Underlying error: BrowserType.connect_over_cdp: connect ECONNREFUSED 127.0.0.1:9222
+Call log:
+  - <ws preparing> retrieving websocket url from http://127.0.0.1:9222
+",2.863518,fail,fail
+2026-05-18T07:26:26Z,zh,你好能打开谷歌新闻吗,session_google_news,google_news,自动化运行中在 谷歌新闻 ,2.990451,ok,
+2026-05-18T07:26:55Z,en,open YouTube,session_unparsed,open YouTube,"I did not understand that command. Try search, find, enter, or stop automation.",0.000615,no_match,session_no_match
+2026-05-18T07:27:25Z,en,search news in Sabah,session_search,ok,Done.,1.075208,ok,session_mode
+2026-05-18T07:28:00Z,zh,Find US News,session_search,ok,完成。,1.194324,ok,session_mode
+2026-05-18T13:52:25Z,zh,请打开油管,session_youtube,youtube,自动化运行中在 YouTube ,25.490863,ok,
+2026-05-18T13:53:15Z,zh,stop automation,session_stop,,已结束会话。,0.056247,ok,session_mode
+2026-05-18T14:01:18Z,zh,请帮我截图,screenshot,D:\Documents\FYP\Multimodal_Assistant\Voice_Architecture\System\screenshots\capture_20260518_220118.png,截图已保存。,0.130712,ok,
+2026-05-18T14:06:21Z,zh,请打开WhatsApp,session_whatsapp,whatsapp,自动化运行中在 WhatsApp ,2.247361,ok,
+2026-05-18T14:06:41Z,zh,stop automation,session_stop,,已结束会话。,0.000267,ok,session_mode
+2026-05-18T14:18:18Z,zh,请问一加一等于多少,none,,未识别为系统指令。你可以说：计时、截图、打开 YouTube、或网页搜索。,0.004690,no_match,no_match
+2026-05-18T14:19:56Z,zh,一加一是什么答案,none,,未识别为系统指令。你可以说：计时、截图、打开 YouTube、或网页搜索。,0.000240,no_match,no_match
+2026-05-18T14:21:15Z,en,what is the meaning of computer science in software engineering,none,,"I didn't match a system command. You can say: set a timer, take a screenshot, open YouTube, or search the web.",0.000173,no_match,no_match
+2026-05-18T15:39:48Z,en,please open YouTube,session_youtube,youtube,Automation is running on YouTube.,4.032646,ok,
+2026-05-18T15:40:14Z,en,search Justin Bieber daisies,session_search,ok,Done.,3.655471,ok,session_mode
+2026-05-18T15:40:30Z,en,stop automation,session_stop,,Session stopped.,0.072045,ok,session_mode
+2026-05-18T15:45:55Z,en,please open Google Maps,session_google_maps,google_maps,Automation is running on Google Maps.,3.054842,ok,
+2026-05-18T15:46:09Z,en,search Melaka sentral,session_search,ok,Done.,1.124104,ok,session_mode
+2026-05-18T15:46:19Z,en,stop automation,session_stop,,Session stopped.,0.092534,ok,session_mode
+2026-05-18T15:46:35Z,en,open YouTube,session_youtube,youtube,Automation is running on YouTube.,2.025457,ok,
+2026-05-18T15:46:52Z,en,search Justin Bieber daisies,session_search,ok,Done.,3.506817,ok,session_mode
+2026-05-18T15:47:04Z,en,play first,session_play_first,ok,Playing the first video.,1.650599,ok,session_mode
+2026-05-18T15:47:39Z,en,pause video,session_pause,ok,Paused.,0.081466,ok,session_mode
+2026-05-18T15:47:49Z,en,resume music,session_resume,ok,Resumed.,0.001632,ok,session_mode
+2026-05-18T15:47:57Z,en,stop automation,session_stop,,Session stopped.,0.048292,ok,session_mode
+2026-05-18T15:48:09Z,en,open WhatsApp,session_whatsapp,whatsapp,Automation is running on WhatsApp.,2.290242,ok,
+2026-05-18T15:48:21Z,en,select first chat,session_select_chat_index,ok_index_1,Selected the chat.,0.557164,ok,session_mode
+2026-05-18T15:48:30Z,en,search user PG,session_search_chat,ok,Search updated.,1.174320,ok,session_mode
+2026-05-18T15:48:41Z,en,select first chat,session_select_chat_index,ok_index_1,Selected the chat.,0.557533,ok,session_mode
+2026-05-18T15:48:50Z,en,clear search,session_clear_search,ok,Cleared the search.,1.264136,ok,session_mode
+2026-05-18T15:49:00Z,en,selecta chat,session_unparsed,selecta chat,"I did not understand that command. Try search, play first, pause, or stop automation.",0.000046,no_match,session_no_match
+2026-05-18T15:49:12Z,en,select third chat,session_select_chat_index,ok_index_3,Selected the chat.,0.582370,ok,session_mode
+2026-05-18T15:49:21Z,en,stop automation,session_stop,,Session stopped.,0.000042,ok,session_mode
+2026-05-18T15:49:40Z,zh,打开谷歌新闻,session_google_news,google_news,自动化运行中在 谷歌新闻 ,1.973250,ok,
+2026-05-18T15:49:58Z,zh,search 美国新闻,session_search,"Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x000002BAED597080 (otid=0x000002BAEC0A3A20) current active started main>
+	Expected: <greenlet.greenlet object at 0x000002BAEB01E9C0 (otid=0x000002BAC096A170) suspended active started main>",操作失败，请重试或说停止自动化。,0.060977,ok,session_mode
+2026-05-18T15:51:04Z,zh,search 美国新闻,session_search,"Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x000002BAED597080 (otid=0x000002BAEC0A3A20) current active started main>
+	Expected: <greenlet.greenlet object at 0x000002BAEB01E9C0 (otid=0x000002BAC096A170) suspended active started main>",操作失败，请重试或说停止自动化。,0.008279,ok,session_mode
+2026-05-18T15:51:37Z,zh,type 美国新闻,session_type_text,"Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x000002BAED597080 (otid=0x000002BAEC0A3A20) current active started main>
+	Expected: <greenlet.greenlet object at 0x000002BAEB01E9C0 (otid=0x000002BAC096A170) suspended active started main>",操作失败，请重试或说停止自动化。,0.011678,ok,session_mode
+2026-05-18T15:51:50Z,zh,stop automation,session_stop,,已结束会话。,0.081375,ok,session_mode
+2026-05-18T15:52:34Z,zh,打开谷歌新闻,session_google_news,google_news,自动化运行中在 谷歌新闻 ,1.843279,ok,
+2026-05-18T15:52:48Z,zh,search 美国新闻,session_search,"Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x000002BAEB01E9C0 (otid=0x000002BAC096A170) current active started main>
+	Expected: <greenlet.greenlet object at 0x000002BAED597080 (otid=0x000002BAEC0A3A20) suspended active started main>",操作失败，请重试或说停止自动化。,0.013122,ok,session_mode
+2026-05-18T15:53:00Z,zh,stop automation,session_stop,,已结束会话。,0.121773,ok,session_mode
+2026-05-18T15:53:14Z,zh,打开油管,session_youtube,youtube,自动化运行中在 YouTube ,3.461973,ok,
+2026-05-18T15:53:30Z,zh,search 林俊杰我怀念的,session_search,"Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x000002BAED597080 (otid=0x000002BAEC0A3A20) current active started main>
+	Expected: <greenlet.greenlet object at 0x000002BAEB01E9C0 (otid=0x000002BAC096A170) suspended active started main>",操作失败，请重试或说停止自动化。,0.011637,ok,session_mode
+2026-05-18T15:53:43Z,zh,stop automation,session_stop,,已结束会话。,0.050719,ok,session_mode
+2026-05-18T15:53:57Z,zh,打开聊天应用,session_whatsapp,whatsapp,自动化运行中在 WhatsApp ,2.196307,ok,
+2026-05-18T15:54:13Z,zh,select first chat,session_select_chat_index,ok_index_1,已选择聊天。,0.561315,ok,session_mode
+2026-05-18T15:54:24Z,zh,search chat 你好,session_search_chat,ok,已更新搜索。,1.775054,ok,session_mode
+2026-05-18T15:54:37Z,zh,select first chat,session_select_chat_index,ok_index_1,已选择聊天。,0.585079,ok,session_mode
+2026-05-18T15:54:52Z,zh,clear search,session_clear_search,ok,已清空搜索。,1.266580,ok,session_mode
+2026-05-18T15:55:04Z,zh,select first chat,session_select_chat_index,ok_index_1,已选择聊天。,0.675830,ok,session_mode
+2026-05-18T15:55:17Z,zh,type 你好,session_type_text,ok,已输入。,0.492199,ok,session_mode
+2026-05-18T15:55:30Z,zh,clear conversation,session_unparsed,clear conversation,未识别该指令。可尝试搜索、播放第一个、暂停，或说停止自动化。,0.000067,no_match,session_no_match
+2026-05-18T15:55:47Z,zh,clear input,session_unparsed,clear input,未识别该指令。可尝试搜索、播放第一个、暂停，或说停止自动化。,0.000052,no_match,session_no_match
+2026-05-18T15:56:11Z,zh,clear message,session_clear_message,ok,已清空消息。,0.455141,ok,session_mode
+2026-05-18T15:56:22Z,zh,stop automation,session_stop,,已结束会话。,0.000058,ok,session_mode
+2026-05-18T16:04:36Z,en,open my downloads,open_folder,C:\Users\Acer\Downloads,Opening your downloads folder.,0.162973,ok,
+2026-05-18T16:04:51Z,en,open WhatsApp,session_whatsapp,whatsapp,Automation is running on WhatsApp.,2.349720,ok,
+2026-05-18T16:05:03Z,en,selecta chat,session_unparsed,selecta chat,"I did not understand that command. Try search, play first, pause, or stop automation.",0.002286,no_match,session_no_match
+2026-05-18T16:05:16Z,en,select third chat,session_select_chat_index,ok_index_3,Selected the chat.,0.611984,ok,session_mode
+2026-05-18T16:05:25Z,en,search user PG,session_search_chat,ok,Search updated.,1.175670,ok,session_mode
+2026-05-18T16:05:36Z,en,select first chat,session_select_chat_index,ok_index_1,Selected the chat.,0.556675,ok,session_mode
+2026-05-18T16:05:45Z,en,clear search,session_clear_search,ok,Cleared the search.,1.263641,ok,session_mode
+2026-05-18T16:05:55Z,en,Select second chat,session_select_chat_index,ok_index_2,Selected the chat.,0.559286,ok,session_mode
+2026-05-18T16:06:04Z,en,type message hello,session_type_text,ok,Typed.,0.628093,ok,session_mode
+2026-05-18T16:06:13Z,en,clear message,session_clear_message,ok,Cleared the message.,0.455106,ok,session_mode
+2026-05-18T16:06:22Z,en,stop automation,session_stop,,Session stopped.,0.000062,ok,session_mode
+2026-05-18T16:06:40Z,en,please open YouTube,session_youtube,youtube,Automation is running on YouTube.,3.448589,ok,
+2026-05-18T16:06:53Z,en,search Justin Bieber basis,session_search,ok,Done.,3.636083,ok,session_mode
+2026-05-18T16:07:05Z,en,select first,session_unparsed,select first,"I did not understand that command. Try search, play first, pause, or stop automation.",0.001654,no_match,session_no_match
+2026-05-18T16:07:19Z,en,play first,session_play_first,ok,Playing the first video.,1.678181,ok,session_mode
+2026-05-18T16:07:29Z,en,pause video,session_pause,ok,Paused.,0.035732,ok,session_mode
+2026-05-18T16:07:37Z,en,stop automation,session_stop,,Session stopped.,0.069003,ok,session_mode
+2026-05-18T16:07:55Z,en,play video,media_play_pause,,Sending play or pause to the active player.,0.002911,ok,
+2026-05-18T16:08:15Z,zh,请打开油管,session_youtube,youtube,自动化运行中在 YouTube ,2.613876,ok,
+2026-05-18T16:08:30Z,zh,search 林俊杰我怀念的,session_search,ok,完成。,3.558580,ok,session_mode
+2026-05-18T16:08:46Z,zh,play first,session_play_first,ok,正在播放第一个视频。,1.640469,ok,session_mode
+2026-05-18T16:08:59Z,zh,play video,session_resume,ok,已继续播放。,0.002303,ok,session_mode
+2026-05-18T16:16:58Z,zh,请打开油管,session_youtube,youtube,自动化运行中在 YouTube ,27.399498,ok,
+2026-05-18T16:17:37Z,zh,search 林俊杰我怀念的,session_search,ok,完成。,3.597132,ok,session_mode
+2026-05-18T16:17:51Z,zh,play first,session_play_first,ok,正在播放第一个视频。,1.704848,ok,session_mode
+2026-05-18T16:18:12Z,zh,Turn up the volume,session_volume_up,ok,已调高音量。,0.503894,ok,session_mode
+2026-05-18T16:18:24Z,zh,lower volume,session_volume_down,ok,已调低音量。,0.372474,ok,session_mode
+2026-05-18T16:18:35Z,zh,pause video,session_pause,ok,已停止播放。,0.062688,ok,session_mode
+2026-05-18T16:18:45Z,zh,play video,session_resume,ok,已继续播放。,0.007622,ok,session_mode
+2026-05-18T16:18:56Z,zh,stop automation,session_stop,,已结束会话。,0.063481,ok,session_mode
+2026-05-18T16:19:09Z,zh,打开聊天应用,session_whatsapp,whatsapp,自动化运行中在 WhatsApp ,2.266806,ok,
+2026-05-18T16:19:23Z,zh,search 你好,session_search,,未识别该指令。可尝试搜索、播放第一个、暂停，或说停止自动化。,0.000499,ok,session_mode
+2026-05-18T16:19:42Z,zh,search chat 好的,session_search_chat,ok,已更新搜索。,1.497729,ok,session_mode
+2026-05-18T16:19:54Z,zh,select first chat,session_select_chat_index,ok_index_1,已选择聊天。,0.554517,ok,session_mode
+2026-05-18T16:20:05Z,zh,type 好的没问题,session_type_text,ok,已输入。,0.500715,ok,session_mode
+2026-05-18T16:20:16Z,zh,Clear chat,session_unparsed,Clear chat,未识别该指令。可尝试搜索、播放第一个、暂停，或说停止自动化。,0.000125,no_match,session_no_match
+2026-05-18T16:20:39Z,zh,clear message,session_clear_message,ok,已清空消息。,0.561061,ok,session_mode
+2026-05-18T16:20:53Z,zh,clear search,session_clear_search,ok,已清空搜索。,1.286907,ok,session_mode
+2026-05-18T16:21:05Z,zh,select first chat,session_select_chat_index,ok_index_1,已选择聊天。,0.558181,ok,session_mode
+2026-05-18T16:21:16Z,zh,stop automation,session_stop,,已结束会话。,0.000061,ok,session_mode
+2026-05-18T16:21:27Z,zh,打开谷歌新闻,session_google_news,google_news,自动化运行中在 谷歌新闻 ,1.742373,ok,
+2026-05-18T16:21:41Z,zh,search 美国新闻,session_search,ok,完成。,1.106000,ok,session_mode
+2026-05-18T16:21:53Z,zh,stop automation,session_stop,,已结束会话。,0.220937,ok,session_mode
+2026-05-18T16:22:06Z,en,hello please open YouTube,session_youtube,youtube,Automation is running on YouTube.,3.356362,ok,
+2026-05-18T16:22:18Z,en,search Justin Bieber Beauty and a Beat,session_search,ok,Done.,3.579426,ok,session_mode
+2026-05-18T16:22:29Z,en,play first,session_play_first,ok,Playing the first video.,1.727786,ok,session_mode
+2026-05-18T16:22:40Z,en,increase volume,session_volume_up,ok,Volume up.,0.519234,ok,session_mode
+2026-05-18T16:22:48Z,en,decrease volume,session_volume_down,ok,Volume down.,0.640251,ok,session_mode
+2026-05-18T16:22:57Z,en,pause video,session_pause,ok,Paused.,0.007131,ok,session_mode
+2026-05-18T16:23:05Z,en,stop automation,session_stop,,Session stopped.,0.198684,ok,session_mode
+2026-05-18T16:23:51Z,en,take screenshot,screenshot,D:\Documents\FYP\Multimodal_Assistant\Voice_Architecture\System\screenshots\capture_20260519_002351.png,Screenshot saved.,0.130365,ok,
+2026-05-18T16:24:27Z,zh,请截屏,screenshot,D:\Documents\FYP\Multimodal_Assistant\Voice_Architecture\System\screenshots\capture_20260519_002427.png,截图已保存。,0.165474,ok,
+2026-05-23T03:35:18Z,en,good morning please open WhatsApp,session_whatsapp,whatsapp,Automation is running on WhatsApp.,2.242936,ok,
+2026-05-23T03:35:29Z,en,select first chat,session_select_chat_index,ok_index_1,Selected the chat.,0.457345,ok,session_mode
+2026-05-23T03:35:40Z,en,send message,session_send,ok,Sent.,0.252484,ok,session_mode
+2026-05-23T03:35:48Z,en,stop automation,session_stop,,Session stopped.,0.000080,ok,session_mode
+2026-05-23T03:39:47Z,zh,截图,screenshot,D:\Documents\FYP\Multimodal_Assistant\Voice_Architecture\System\screenshots\capture_20260523_113947.png,截图已保存。,0.189491,ok,
+2026-05-23T04:17:25Z,en,what is the time today,none,,"I didn't match a system command. You can say: set a timer, take a screenshot, open YouTube, or search the web.",0.002241,no_match,no_match
+2026-05-23T04:32:13Z,en,what is the time today,time,12:32:13,The time is 12:32:13.,0.000448,ok,
+2026-05-23T04:35:46Z,en,what time is it,time,12:35:46,The time is 12:35:46.,0.000380,ok,
+2026-05-23T04:36:09Z,en,what's the date,date,2026-05-23,Today is 2026-05-23.,0.000060,ok,
+2026-05-23T04:36:46Z,zh,今天是什么日期,date,2026-05-23,今天是 2026-05-23。,0.000126,ok,
+2026-05-23T04:37:00Z,zh,今天是什么时间,time,12:37:00,现在时间是 12:37:00。,0.000121,ok,
+2026-05-23T04:37:43Z,en,what's the date,date,2026-05-23,Today is 2026-05-23.,0.000061,ok,
+2026-05-23T04:37:57Z,en,what time is it,time,12:37:57,The time is 12:37:57.,0.000066,ok,
+2026-05-23T08:37:08Z,en,take screenshot,screenshot,D:\Documents\FYP\Multimodal_Assistant\Voice_Architecture\System\screenshots\capture_20260523_163708.png,Screenshot saved.,0.141282,ok,
+2026-05-23T08:47:54Z,en,take screenshot,screenshot,D:\Documents\FYP\Multimodal_Assistant\Voice_Architecture\System\screenshots\capture_20260523_164754.png,Screenshot saved.,0.132936,ok,
+2026-05-23T08:48:36Z,en,cinta Kai deltin in Yong,none,,"I didn't match a system command. You can say: set a timer, take a screenshot, open YouTube, or search the web.",0.002077,no_match,no_match
+2026-05-23T09:00:33Z,zh,请打开聊天应用,session_whatsapp,whatsapp,自动化运行中在 WhatsApp ,2.258055,ok,
+2026-05-23T09:00:49Z,zh,select second chat,session_select_chat_index,ok_index_2,已选择聊天。,0.563086,ok,session_mode
+2026-05-23T09:01:01Z,zh,search chat pg,session_search_chat,ok,已更新搜索。,1.171925,ok,session_mode
+2026-05-23T09:01:23Z,zh,select first chat,session_select_chat_index,ok_index_1,已选择聊天。,0.556653,ok,session_mode
+2026-05-23T09:01:36Z,zh,stop automation,session_stop,,已结束会话。,0.000041,ok,session_mode
+2026-05-23T09:02:25Z,zh,截图,screenshot,D:\Documents\FYP\Multimodal_Assistant\Voice_Architecture\System\screenshots\capture_20260523_170225.png,截图已保存。,0.184187,ok,
+2026-05-23T09:06:21Z,en,what is 1 + 1,none,,"I didn't match a system command. You can say: set a timer, take a screenshot, open YouTube, or search the web.",0.001897,no_match,no_match
+2026-05-23T09:11:52Z,en,3 / 2 =,none,,"I didn't match a system command. You can say: set a timer, take a screenshot, open YouTube, or search the web.",0.004099,no_match,no_match
+2026-05-23T10:19:31Z,en,please open WhatsApp,session_whatsapp,whatsapp,Automation is running on WhatsApp.,2.228298,ok,
+2026-05-23T10:19:43Z,en,search user PG,session_search_chat,ok,Search updated.,1.176519,ok,session_mode
+2026-05-23T10:19:53Z,en,stop automation,session_stop,,Session stopped.,0.000052,ok,session_mode
+2026-05-23T15:45:53Z,zh,三乘五等于多少,none,,未识别为系统指令。你可以说：计时、截图、打开 YouTube、或网页搜索。,0.009903,no_match,no_match
+2026-05-23T16:02:07Z,en,open WhatsApp,session_whatsapp,whatsapp,Automation is running on WhatsApp.,2.254379,ok,
+2026-05-23T16:02:19Z,en,Select second chat,session_select_chat_index,ok_index_2,Selected the chat.,0.482961,ok,session_mode
+2026-05-23T16:02:28Z,en,stop operation,session_stop,,Session stopped.,0.000061,ok,session_mode
+2026-05-23T16:02:46Z,zh,请打开聊天应用,session_whatsapp,whatsapp,自动化运行中在 WhatsApp ,2.489643,ok,
+2026-05-23T16:03:00Z,zh,Choose the 2nd chat,session_unparsed,Choose the 2nd chat,未识别该指令。可尝试搜索、播放第一个、暂停，或说停止自动化。,0.000248,no_match,session_no_match
+2026-05-23T16:03:17Z,zh,Choose the 2nd chat,session_unparsed,Choose the 2nd chat,未识别该指令。可尝试搜索、播放第一个、暂停，或说停止自动化。,0.000104,no_match,session_no_match
+2026-05-23T16:03:33Z,zh,search chat pg,session_search_chat,ok,已更新搜索。,0.769827,ok,session_mode
+2026-05-23T16:03:46Z,zh,select first chat,session_select_chat_index,ok_index_1,已选择聊天。,0.469351,ok,session_mode
+2026-05-23T16:03:57Z,zh,Choose the 2nd chat,session_unparsed,Choose the 2nd chat,未识别该指令。可尝试搜索、播放第一个、暂停，或说停止自动化。,0.000063,no_match,session_no_match
+2026-05-23T16:04:13Z,zh,stop automation,session_stop,,已结束会话。,0.000065,ok,session_mode
+2026-05-23T16:24:14Z,en,please open Google Maps,session_google_maps,google_maps,Automation is running on Google Maps.,4.429684,ok,
+2026-05-23T16:24:38Z,en,search for Melaka,session_search,ok,Done.,1.184277,ok,session_mode
+2026-05-23T16:24:47Z,en,stop automation,session_stop,,Session stopped.,0.054428,ok,session_mode
+2026-05-23T16:31:28Z,en,please open YouTube,session_youtube,youtube,Automation is running on YouTube.,3.406335,ok,
+2026-05-23T16:31:41Z,en,search for Justin,session_search,ok,Done.,3.730873,ok,session_mode
+2026-05-23T16:31:53Z,en,what is 3 + 3,session_unparsed,what is 3 + 3,"I did not understand that command. Try search, play first, pause, or stop automation.",0.001224,no_match,session_no_match
+2026-05-23T16:32:05Z,en,stop automation,session_stop,,Session stopped.,0.153184,ok,session_mode
+2026-05-23T16:38:49Z,en,could you please open YouTube,session_youtube,youtube,Automation is running on YouTube.,3.127380,ok,
+2026-05-23T16:39:09Z,en,search Justin Bieber daisies,session_search,ok,Done.,3.547125,ok,session_mode
+2026-05-23T16:39:21Z,en,stop automation,session_stop,,Session stopped.,0.092217,ok,session_mode
+2026-05-23T16:40:13Z,zh,请打开聊天机器,session_chatgpt,chatgpt,自动化运行中在 ChatGPT ,1.675759,ok,
+2026-05-23T16:40:40Z,zh,search 什么是ai,session_search,ok,已发送。,2.499729,ok,session_mode
+2026-05-23T16:40:52Z,zh,stop automation,session_stop,,已结束会话。,0.044265,ok,session_mode
+2026-05-23T16:41:13Z,en,please open Google News,session_google_news,google_news,Automation is running on Google News.,1.457739,ok,
+2026-05-23T16:41:24Z,en,what is,session_unparsed,what is,"I did not understand that command. Try search, find, enter, or stop automation.",0.000070,no_match,session_no_match
+2026-05-23T16:41:37Z,en,what is 1 + 1,session_unparsed,what is 1 + 1,"I did not understand that command. Try search, find, enter, or stop automation.",0.000094,no_match,session_no_match
+2026-05-23T16:41:50Z,en,search for news in Malaysia,session_search,ok,Done.,1.139808,ok,session_mode
+2026-05-23T16:41:58Z,en,stop automation,session_stop,,Session stopped.,0.047070,ok,session_mode
+2026-05-23T16:42:27Z,en,please open YouTube,session_youtube,youtube,Automation is running on YouTube.,3.039020,ok,
+2026-05-23T16:42:40Z,en,stop automation,session_stop,,Session stopped.,0.037846,ok,session_mode
+2026-05-23T16:43:00Z,en,please open YouTube,session_youtube,youtube,Automation is running on YouTube.,3.233230,ok,
+2026-05-23T16:43:12Z,en,search for Justin Bieber,session_search,ok,Done.,3.537975,ok,session_mode
+2026-05-23T16:43:23Z,en,play first,session_play_first,ok,Playing the first video.,1.741381,ok,session_mode
+2026-05-23T16:43:34Z,en,stop automation,session_stop,,Session stopped.,0.058032,ok,session_mode
+2026-05-23T16:43:55Z,zh,请打开油管,session_youtube,youtube,自动化运行中在 YouTube ,2.967740,ok,
+2026-05-23T16:44:10Z,zh,search 周杰伦,session_search,ok,完成。,3.534081,ok,session_mode
+2026-05-23T16:44:24Z,zh,play first,session_play_first,ok,正在播放第一个视频。,1.653601,ok,session_mode
+2026-05-23T16:44:38Z,zh,pause video,session_pause,ok,已暂停。,0.081895,ok,session_mode
+2026-05-23T16:44:47Z,zh,stop automation,session_stop,,已结束会话。,0.269847,ok,session_mode
+2026-05-23T16:45:06Z,zh,请打开聊天应用,session_whatsapp,whatsapp,自动化运行中在 WhatsApp ,2.566063,ok,
+2026-05-23T16:45:26Z,zh,clear search,session_clear_search,ok,已清空搜索。,1.266196,ok,session_mode
+2026-05-23T16:45:39Z,zh,select first chat,session_select_chat_index,ok_index_1,已选择聊天。,0.556708,ok,session_mode
+2026-05-23T16:45:50Z,zh,select second chat,session_select_chat_index,ok_index_2,已选择聊天。,0.575723,ok,session_mode
+2026-05-23T16:46:03Z,zh,type 你,session_type_text,ok,已输入。,0.847370,ok,session_mode
+2026-05-23T16:46:15Z,zh,clear message,session_clear_message,ok,已清空消息。,0.454262,ok,session_mode
+2026-05-23T16:46:27Z,zh,type 好的没问题,session_type_text,ok,已输入。,0.550934,ok,session_mode
+2026-05-23T16:46:43Z,zh,stop automation,session_stop,,已结束会话。,0.000055,ok,session_mode
+2026-05-23T16:46:54Z,en,please open WhatsApp,session_whatsapp,whatsapp,Automation is running on WhatsApp.,2.139694,ok,
+2026-05-23T16:47:05Z,en,Select second chat,session_select_chat_index,ok_index_2,Selected the chat.,0.677959,ok,session_mode
+2026-05-23T16:47:14Z,en,how are you today,session_unparsed,how are you today,"I did not understand that command. Try search, play first, pause, or stop automation.",0.000076,no_match,session_no_match
+2026-05-23T16:47:27Z,en,please type how are you today,session_type_text,ok,Typed.,0.718704,ok,session_mode
+2026-05-23T16:47:41Z,en,clear message,session_clear_message,ok,Cleared the message.,0.454795,ok,session_mode
+2026-05-23T16:47:49Z,en,please type I'm fine thank you,session_type_text,ok,Typed.,0.768757,ok,session_mode
+2026-05-23T16:47:58Z,en,clear message,session_clear_message,ok,Cleared the message.,0.469401,ok,session_mode
+2026-05-23T16:48:07Z,en,search user PG,session_search_chat,ok,Search updated.,1.201080,ok,session_mode
+2026-05-23T16:48:17Z,en,stop automation,session_stop,,Session stopped.,0.000038,ok,session_mode
+2026-05-23T16:48:28Z,zh,请打开聊天应用,session_whatsapp,whatsapp,自动化运行中在 WhatsApp ,2.283413,ok,
+2026-05-23T16:48:43Z,zh,search chat 好的没问题,session_search_chat,ok,已更新搜索。,1.359460,ok,session_mode
+2026-05-23T16:48:54Z,zh,clear search,session_clear_search,ok,已清空搜索。,1.377519,ok,session_mode
+2026-05-23T16:49:07Z,zh,select third chat,session_select_chat_index,ok_index_3,已选择聊天。,0.596053,ok,session_mode
+2026-05-23T16:49:18Z,zh,type 不错哦,session_type_text,ok,已输入。,0.488905,ok,session_mode
+2026-05-23T16:49:29Z,zh,clear message,session_clear_message,ok,已清空消息。,0.456498,ok,session_mode
+2026-05-23T16:49:40Z,zh,type 我现在在用一个机器和你聊天,session_type_text,ok,已输入。,0.480088,ok,session_mode
+2026-05-23T16:49:50Z,zh,clear message,session_clear_message,ok,已清空消息。,0.455045,ok,session_mode
+2026-05-23T16:50:02Z,zh,What is three families and how much is three?,session_unparsed,What is three families and how much is three?,未识别该指令。可尝试搜索、播放第一个、暂停，或说停止自动化。,0.000072,no_match,session_no_match
+2026-05-23T16:50:17Z,zh,stop automation,session_stop,,已结束会话。,0.000047,ok,session_mode
+2026-05-23T16:51:16Z,zh,五X等于多少,none,,未识别为系统指令。你可以说：计时、截图、打开 YouTube、或网页搜索。,0.005109,no_match,no_match
+2026-05-23T16:51:34Z,zh,五X等于多少,none,,未识别为系统指令。你可以说：计时、截图、打开 YouTube、或网页搜索。,0.000242,no_match,no_match
+2026-05-23T16:51:52Z,zh,三家三等于多少,none,,未识别为系统指令。你可以说：计时、截图、打开 YouTube、或网页搜索。,0.000280,no_match,no_match
+2026-05-23T16:52:28Z,zh,删除5等于多少,none,,未识别为系统指令。你可以说：计时、截图、打开 YouTube、或网页搜索。,0.000224,no_match,no_match
+2026-05-23T16:54:34Z,en,please open WhatsApp,session_whatsapp,whatsapp,Automation is running on WhatsApp.,2.293945,ok,
+2026-05-23T16:54:45Z,en,Select second chat,session_select_chat_index,ok_index_2,Selected the chat.,0.581148,ok,session_mode
+2026-05-23T16:54:56Z,en,select first chat,session_select_chat_index,ok_index_1,Selected the chat.,0.583443,ok,session_mode
+2026-05-23T16:55:05Z,en,stop automation,session_stop,,Session stopped.,0.000047,ok,session_mode
+2026-05-23T16:55:19Z,en,what's the date,date,2026-05-24,Today is 2026-05-24.,0.000078,ok,
+2026-05-23T16:55:34Z,zh,现在是什么时间,time,00:55:34,现在时间是 00:55:34。,0.000200,ok,
+2026-05-23T16:55:48Z,zh,今天是什么日期,date,2026-05-24,今天是 2026-05-24。,0.000240,ok,
+2026-05-23T16:56:01Z,zh,打开谷歌地图,session_google_maps,google_maps,自动化运行中在 谷歌地图 ,1.749439,ok,
+2026-05-23T16:56:17Z,zh,search 马来西亚新闻,session_search,ok,完成。,0.947143,ok,session_mode
+2026-05-23T16:56:27Z,zh,stop automation,session_stop,,已结束会话。,0.239062,ok,session_mode
+2026-05-23T16:57:01Z,en,what time is it,time,00:57:01,The time is 00:57:01.,0.000062,ok,
+2026-05-23T16:57:14Z,en,what's the date,date,2026-05-24,Today is 2026-05-24.,0.000133,ok,
+2026-05-23T16:57:46Z,en,open my downloads,open_folder,C:\Users\Acer\Downloads,Opening your downloads folder.,0.284622,ok,
+2026-05-23T16:58:06Z,en,what is the meaning of computer science,none,,"I didn't match a system command. You can say: set a timer, take a screenshot, open YouTube, or search the web.",0.002296,no_match,no_match
+2026-05-23T16:58:49Z,en,please open Google News,session_google_news,google_news,Automation is running on Google News.,1.543358,ok,
+2026-05-23T16:59:00Z,en,search for news in Malaysia,session_search,ok,Done.,1.029378,ok,session_mode
+2026-05-23T16:59:09Z,en,stop automation,session_stop,,Session stopped.,0.067941,ok,session_mode
+2026-05-24T05:26:56Z,en,hello please open WhatsApp,session_whatsapp,whatsapp,Automation is running on WhatsApp.,2.238419,ok,
+2026-05-24T05:27:07Z,en,select first chat,session_select_chat_index,ok_index_1,Selected the chat.,0.463070,ok,session_mode
+2026-05-24T05:27:16Z,en,stop automation,session_stop,,Session stopped.,0.000050,ok,session_mode
+2026-05-24T06:22:48Z,en,please open WhatsApp,session_whatsapp,whatsapp,Automation is running on WhatsApp.,2.193502,ok,
+2026-05-24T07:34:50Z,en,good morning please open WhatsApp,session_whatsapp,whatsapp,Automation is running on WhatsApp.,2.369610,ok,
+2026-05-24T07:35:02Z,en,stop automation,session_stop,,Session stopped.,0.000151,ok,session_mode
+2026-05-24T08:13:54Z,en,good morning please open WhatsApp,session_whatsapp,whatsapp,Automation is running on WhatsApp.,2.276297,ok,
+2026-05-24T08:14:06Z,en,Select second chat,session_select_chat_index,ok_index_2,Selected the chat.,0.465911,ok,session_mode
+2026-05-24T08:14:15Z,en,stop operation,session_stop,,Session stopped.,0.000050,ok,session_mode
+2026-05-24T15:35:49Z,en,please open WhatsApp,session_whatsapp,whatsapp,Automation is running on WhatsApp.,2.252314,ok,
+2026-05-24T15:36:01Z,en,Select second chat,session_select_chat_index,ok_index_2,Selected the chat.,0.464237,ok,session_mode
+2026-05-24T15:36:09Z,en,select first chat,session_select_chat_index,ok_index_1,Selected the chat.,0.459793,ok,session_mode
+2026-05-24T15:36:18Z,en,send message,session_send,ok,Sent.,0.254846,ok,session_mode
+2026-05-24T15:36:26Z,en,stop automation,session_stop,,Session stopped.,0.000042,ok,session_mode
+2026-05-24T15:44:11Z,zh,请问什么是数据科学,none,,未识别为系统指令。你可以说：计时、截图、打开 YouTube、或网页搜索。,0.004256,no_match,no_match
+2026-05-24T15:44:30Z,zh,解释数据科学,none,,未识别为系统指令。你可以说：计时、截图、打开 YouTube、或网页搜索。,0.000293,no_match,no_match
+2026-05-24T15:46:00Z,zh,在这个现代社会什么东西最需要,none,,未识别为系统指令。你可以说：计时、截图、打开 YouTube、或网页搜索。,0.000285,no_match,no_match
+2026-05-24T16:35:55Z,en,please open WhatsApp,session_whatsapp,whatsapp,Automation is running on WhatsApp.,2.253685,ok,
+2026-05-24T16:36:06Z,en,Select second,session_unparsed,Select second,"I did not understand that command. Try search, play first, pause, or stop automation.",0.001959,no_match,session_no_match
+2026-05-24T16:36:19Z,en,Select second chat,session_select_chat_index,ok_index_2,Selected the chat.,0.459894,ok,session_mode
+2026-05-24T16:36:27Z,en,stop automation,session_stop,,Session stopped.,0.000038,ok,session_mode
+2026-05-25T03:54:11Z,en,good morning please open WhatsApp,session_whatsapp,whatsapp,Automation is running on WhatsApp.,2.242943,ok,
+2026-05-25T03:54:22Z,en,select first chat,session_select_chat_index,ok_index_1,Selected the chat.,0.458937,ok,session_mode
+2026-05-25T03:54:31Z,en,stop automation,session_stop,,Session stopped.,0.000039,ok,session_mode
+2026-05-25T03:54:55Z,en,what's the date,date,2026-05-25,Today is 2026-05-25.,0.000073,ok,
+2026-06-01T02:36:18Z,en,good morning please open WhatsApp,session_whatsapp,whatsapp,Automation is running on WhatsApp.,2.223400,ok,
+2026-06-01T02:36:30Z,en,stop all the music,session_unparsed,stop all the music,"I did not understand that command. Try search, play first, pause, or stop automation.",0.002082,no_match,session_no_match
+2026-06-01T02:36:43Z,en,stop automation,session_stop,,Session stopped.,0.000053,ok,session_mode
+2026-06-01T02:41:45Z,zh,什么是数学体系,none,,未识别为系统指令。你可以说：计时、截图、打开 YouTube、或网页搜索。,0.004011,no_match,no_match
+2026-06-01T02:42:04Z,zh,今天是什么时间,time,10:42:04,现在时间是 10:42:04。,0.000111,ok,
+2026-06-01T03:24:35Z,en,open WhatsApp,session_whatsapp,whatsapp,Automation is running on WhatsApp.,2.300045,ok,
+2026-06-01T03:25:03Z,en,selected chart,session_unparsed,selected chart,"I did not understand that command. Try search, play first, pause, or stop automation.",0.001933,no_match,session_no_match
+2026-06-01T03:25:15Z,en,select third chat,session_select_chat_index,ok_index_3,Selected the chat.,0.565174,ok,session_mode
+2026-06-01T03:25:24Z,en,type good morning Mum,session_type_text,ok,Typed.,0.694224,ok,session_mode
+2026-06-01T03:25:32Z,en,send,session_send,ok,Sent.,0.355054,ok,session_mode
+2026-06-01T03:25:40Z,en,delete the message,session_clear_message,ok,Cleared the message.,0.457744,ok,session_mode
+2026-06-01T03:25:48Z,en,stop automation,session_stop,,Session stopped.,0.000039,ok,session_mode
+2026-06-01T03:27:50Z,zh,打开油管,session_youtube,youtube,自动化运行中在 YouTube ,4.761348,ok,
+2026-06-01T03:28:08Z,zh,search 周兴哲,session_search,ok,完成。,3.625428,ok,session_mode
+2026-06-01T03:28:34Z,zh,play first,session_play_first,ok,正在播放第一个视频。,1.647368,ok,session_mode
+2026-06-01T03:28:46Z,zh,born,session_unparsed,born,未识别该指令。可尝试搜索、播放第一个、暂停，或说停止自动化。,0.001804,no_match,session_no_match
+2026-06-01T03:29:02Z,zh,pause video,session_pause,ok,已暂停。,0.073266,ok,session_mode
+2026-06-01T03:29:12Z,zh,play video,session_volume_up,ok,已调高音量。,0.494833,ok,session_mode
+2026-06-01T03:29:23Z,zh,play video,session_resume,ok,已继续播放。,0.010619,ok,session_mode
+2026-06-01T03:29:35Z,zh,stop exit,session_unparsed,stop exit,未识别该指令。可尝试搜索、播放第一个、暂停，或说停止自动化。,0.000076,no_match,session_no_match
+2026-06-01T03:29:58Z,zh,stop automation,session_stop,,已结束会话。,0.106642,ok,session_mode
+2026-06-01T03:34:53Z,en,open gesture,none,,"I didn't match a system command. You can say: set a timer, take a screenshot, open YouTube, or search the web.",0.002982,no_match,no_match
+2026-06-01T04:00:13Z,en,open WhatsApp,session_whatsapp,whatsapp,Automation is running on WhatsApp.,2.302361,ok,
+2026-06-01T04:00:24Z,en,open the Third,session_unparsed,open the Third,"I did not understand that command. Try search, play first, pause, or stop automation.",0.001855,no_match,session_no_match
+2026-06-01T04:00:36Z,en,open the third chat,session_select_chat_index,ok_index_3,Selected the chat.,0.562370,ok,session_mode
+2026-06-01T04:00:45Z,en,type hello,session_type_text,ok,Typed.,0.459436,ok,session_mode
+2026-06-01T04:00:53Z,en,clear message,session_clear_message,ok,Cleared the message.,0.455042,ok,session_mode
+2026-06-01T04:01:01Z,en,type good morning and send,session_type_text,ok,Typed.,0.799547,ok,session_mode
+2026-06-01T04:01:09Z,en,remove & Send,session_unparsed,remove & Send,"I did not understand that command. Try search, play first, pause, or stop automation.",0.000041,no_match,session_no_match
+2026-06-01T04:01:39Z,en,send a message,session_unparsed,send a message,"I did not understand that command. Try search, play first, pause, or stop automation.",0.000084,no_match,session_no_match
+2026-06-01T04:01:52Z,en,send a message please,session_unparsed,send a message please,"I did not understand that command. Try search, play first, pause, or stop automation.",0.000044,no_match,session_no_match
+2026-06-01T04:02:04Z,en,stop automation,session_stop,,Session stopped.,0.000043,ok,session_mode
+2026-06-01T04:18:51Z,en,hello please open WhatsApp for me,session_whatsapp,whatsapp,Automation is running on WhatsApp.,2.245436,ok,
+2026-06-01T04:19:12Z,en,search user PG,session_search_chat,ok,Search updated.,1.176016,ok,session_mode
+2026-06-01T04:19:22Z,en,select first chat,session_select_chat_index,ok_index_1,Selected the chat.,0.562278,ok,session_mode
+2026-06-01T04:19:31Z,en,type hello,session_type_text,ok,Typed.,0.459038,ok,session_mode
+2026-06-01T04:19:40Z,en,clear message,session_clear_message,ok,Cleared the message.,0.456708,ok,session_mode
+2026-06-01T04:19:48Z,en,clear search,session_clear_search,ok,Cleared the search.,1.263147,ok,session_mode
+2026-06-01T04:19:58Z,en,stop automation,session_stop,,Session stopped.,0.000051,ok,session_mode
+2026-06-01T04:20:31Z,en,please open YouTube,session_youtube,youtube,Automation is running on YouTube.,3.055764,ok,
+2026-06-01T04:21:16Z,en,stop automation,session_stop,,Session stopped.,0.077918,ok,session_mode
+2026-06-01T04:24:06Z,en,hi open WhatsApp,session_whatsapp,whatsapp,Automation is running on WhatsApp.,2.151507,ok,
+2026-06-01T04:24:17Z,en,search user PG,session_search_chat,ok,Search updated.,0.774356,ok,session_mode
+2026-06-01T04:24:26Z,en,select the first chat,session_select_chat_index,ok_index_1,Selected the chat.,0.458903,ok,session_mode
+2026-06-01T04:24:34Z,en,hi good morning,session_unparsed,hi good morning,"I did not understand that command. Try search, play first, pause, or stop automation.",0.000046,no_match,session_no_match
+2026-06-01T04:24:47Z,en,good morning,session_unparsed,good morning,"I did not understand that command. Try search, play first, pause, or stop automation.",0.000044,no_match,session_no_match
+2026-06-01T04:24:59Z,en,good morning,session_unparsed,good morning,"I did not understand that command. Try search, play first, pause, or stop automation.",0.000074,no_match,session_no_match
+2026-06-01T04:25:11Z,en,enter good morning,session_type_text,ok,Typed.,0.509788,ok,session_mode
+2026-06-01T04:25:19Z,en,stop all the music stop automation,session_stop,,Session stopped.,0.000042,ok,session_mode
+2026-06-01T04:26:35Z,en,hi open WhatsApp,session_whatsapp,whatsapp,Automation is running on WhatsApp.,2.134256,ok,
+2026-06-01T04:26:46Z,en,select first chat,session_select_chat_index,ok_index_1,Selected the chat.,0.459828,ok,session_mode
+2026-06-01T04:26:54Z,en,stop automation,session_stop,,Session stopped.,0.000048,ok,session_mode
+2026-06-01T04:27:09Z,en,hi open WhatsApp,session_whatsapp,whatsapp,Automation is running on WhatsApp.,2.145290,ok,
+2026-06-01T04:27:31Z,en,ok,session_unparsed,ok,"I did not understand that command. Try search, play first, pause, or stop automation.",0.000030,no_match,session_no_match
+2026-06-01T04:27:54Z,en,open WhatsApp,session_unparsed,open WhatsApp,"I did not understand that command. Try search, play first, pause, or stop automation.",0.000059,no_match,session_no_match
+2026-06-01T04:28:06Z,en,stop automation,session_stop,,Session stopped.,0.000040,ok,session_mode
+2026-06-01T04:28:22Z,en,hi open WhatsApp,session_whatsapp,whatsapp,Automation is running on WhatsApp.,2.148977,ok,
+2026-06-01T04:28:33Z,en,select first user,session_unparsed,select first user,"I did not understand that command. Try search, play first, pause, or stop automation.",0.000048,no_match,session_no_match
+2026-06-01T04:28:46Z,en,first chat,session_unparsed,first chat,"I did not understand that command. Try search, play first, pause, or stop automation.",0.000049,no_match,session_no_match
+2026-06-01T04:28:59Z,en,stop automation,session_stop,,Session stopped.,0.000039,ok,session_mode
+2026-06-01T04:29:23Z,en,hi open WhatsApp,session_whatsapp,whatsapp,Automation is running on WhatsApp.,2.126561,ok,
+2026-06-01T04:29:34Z,en,select first chat,session_select_chat_index,ok_index_1,Selected the chat.,0.457027,ok,session_mode
+2026-06-01T04:29:43Z,en,the hello,session_unparsed,the hello,"I did not understand that command. Try search, play first, pause, or stop automation.",0.000040,no_match,session_no_match
+2026-06-01T04:29:55Z,en,tear hello,session_unparsed,tear hello,"I did not understand that command. Try search, play first, pause, or stop automation.",0.000035,no_match,session_no_match
+2026-06-01T04:30:07Z,en,enter High,session_type_text,ok,Typed.,0.338645,ok,session_mode
+2026-06-01T04:30:15Z,en,clear message,session_clear_message,ok,Cleared the message.,0.256131,ok,session_mode
+2026-06-01T04:30:23Z,en,run gesture control,session_unparsed,run gesture control,"I did not understand that command. Try search, play first, pause, or stop automation.",0.000044,no_match,session_no_match
+2026-06-01T04:31:22Z,en,stop automation,session_stop,,Session stopped.,0.000045,ok,session_mode
+2026-06-01T05:45:04Z,en,please open WhatsApp,session_whatsapp,whatsapp,Automation is running on WhatsApp.,2.289359,ok,
+2026-06-01T05:45:15Z,en,blah blah blah blah blah,session_unparsed,blah blah blah blah blah,"I did not understand, please try the following commands:
+- Search user James
+- Select first/second/third chat
+- Enter Good Morning
+- Clear Message
+- Stop Automation",0.002897,no_match,session_no_match
+2026-06-01T05:45:35Z,en,select first chat,session_select_chat_index,ok_index_1,Selected the chat.,0.563679,ok,session_mode
+2026-06-01T05:45:44Z,en,Select second chat,session_select_chat_index,ok_index_2,Selected the chat.,0.565642,ok,session_mode
+2026-06-01T05:45:53Z,en,blah blah,session_unparsed,blah blah,"I did not understand, please try the following commands:
+- Search user James
+- Select first/second/third chat
+- Enter Good Morning
+- Clear Message
+- Stop Automation",0.000034,no_match,session_no_match
+2026-06-01T05:46:03Z,en,stop automation,session_stop,,Session stopped.,0.000793,ok,session_mode
+2026-06-01T05:47:49Z,en,open YouTube,session_youtube,youtube,Automation is running on YouTube.,3.050906,ok,
+2026-06-01T05:48:00Z,en,blah blah,session_unparsed,blah blah,"I did not understand, please try the following commands:
+- Search Justin Bieber
+- Play First
+- Pause / Resume Video
+- Increase / Decrease volume
+- Stop Automation",0.002662,no_match,session_no_match
+2026-06-01T05:48:11Z,en,search Justin,session_search,ok,Done.,3.553492,ok,session_mode
+2026-06-01T05:48:30Z,en,ok,session_unparsed,ok,"I did not understand, please try the following commands:
+- Search Justin Bieber
+- Play First
+- Pause / Resume Video
+- Increase / Decrease volume
+- Stop Automation",0.000058,no_match,session_no_match
+2026-06-01T05:48:41Z,en,stop automation,session_stop,,Session stopped.,0.062052,ok,session_mode
+2026-06-01T05:49:20Z,zh,请打开油管,session_youtube,youtube,自动化运行中在 YouTube ,2.419100,ok,
+2026-06-01T05:49:35Z,zh,search 周杰伦,session_search,ok,完成。,3.509650,ok,session_mode
+2026-06-01T05:49:50Z,zh,OK OK,session_unparsed,OK OK,"我不明白，请尝试以下命令：
+- 搜索周杰伦
+- 播放第一个
+- 暂停音乐 / 继续播放
+- 调高/调低音量
+- 停止自动化",0.000067,no_match,session_no_match
+2026-06-01T05:50:25Z,en,things that you don't want,session_unparsed,things that you don't want,"I did not understand, please try the following commands:
+- Search Justin Bieber
+- Play First
+- Pause / Resume Video
+- Increase / Decrease volume
+- Stop Automation",0.000134,no_match,session_no_match
+2026-06-01T05:50:36Z,en,stop automation,session_stop,,Session stopped.,0.105223,ok,session_mode
+2026-06-01T05:53:59Z,zh,今天的日期是什么,date,2026-06-01,今天是 2026-06-01。,0.000118,ok,
+2026-06-01T05:55:36Z,en,open Chat gpt,session_chatgpt,chatgpt,Automation is running on ChatGPT.,1.251480,ok,
+2026-06-01T05:55:47Z,en,I don't know what to,session_unparsed,I don't know what to,"I did not understand, please try the following commands:
+- Enter What is Computer
+- Send Message
+- Search 3 + 3
+- Stop Automation",0.000573,no_match,session_no_match
+2026-06-01T05:56:20Z,en,launch gastric control,session_unparsed,launch gastric control,"I did not understand, please try the following commands:
+- Enter What is Computer
+- Send Message
+- Search 3 + 3
+- Stop Automation",0.000056,no_match,session_no_match
+2026-06-01T05:56:46Z,en,stop automation,session_stop,,Session stopped.,0.170480,ok,session_mode
+2026-06-01T05:57:16Z,en,open Google Map,web_search,map,Searching the web for that now.,0.241610,ok,
+2026-06-01T05:57:29Z,en,open Google News,session_google_news,google_news,"CDP connect failed (http://127.0.0.1:9222). Start Edge with --remote-debugging-port matching this URL. Underlying error: BrowserType.connect_over_cdp: connect ECONNREFUSED 127.0.0.1:9222
+Call log:
+  - <ws preparing> retrieving websocket url from http://127.0.0.1:9222
+",0.624016,fail,fail
+2026-06-01T05:58:10Z,en,iPhone,none,,"I didn't match a system command. You can say: set a timer, take a screenshot, open YouTube, or search the web.",0.002416,no_match,no_match
+2026-06-01T05:58:34Z,en,open Google Maps,session_google_maps,google_maps,Automation is running on Google Maps.,1.475188,ok,
+2026-06-01T05:58:45Z,en,hello hello,session_unparsed,hello hello,"I did not understand, please try the following commands:
+- Search United States
+- Search News in Malaysia
+- Stop Automation",0.000067,no_match,session_no_match
+2026-06-01T05:58:56Z,en,search United States,session_search,ok,Done.,0.654533,ok,session_mode
+2026-06-01T05:59:05Z,en,stop automation,session_stop,,Session stopped.,0.074537,ok,session_mode
+2026-06-01T05:59:27Z,en,please open WhatsApp,session_whatsapp,whatsapp,Automation is running on WhatsApp.,2.241704,ok,
+2026-06-01T05:59:38Z,en,stop stop automation,session_stop,,Session stopped.,0.000054,ok,session_mode
+2026-06-08T03:46:10Z,en,take screenshot,screenshot,D:\Documents\FYP\Multimodal_Assistant\Voice_Architecture\System\screenshots\capture_20260608_114610.png,Screenshot saved.,0.125635,ok,
+2026-06-08T03:46:58Z,zh,请打开聊天应用,session_whatsapp,whatsapp,自动化运行中在 WhatsApp ,2.272594,ok,
+2026-06-08T03:47:13Z,zh,select third chat,session_select_chat_index,ok_index_3,已选择聊天。,0.560900,ok,session_mode
+2026-06-08T03:47:53Z,en,things that you are,session_unparsed,things that you are,"I did not understand, please try the following commands:
+- Search user James
+- Select first/second/third chat
+- Enter Good Morning
+- Clear Message
+- Stop Automation",0.000053,no_match,session_no_match
+2026-06-08T03:48:03Z,en,stop automation,session_stop,,Session stopped.,0.000057,ok,session_mode
+2026-06-08T03:48:56Z,en,what time is it,time,11:48:56,The time is 11:48:56.,0.000066,ok,
+2026-06-08T03:49:16Z,en,what's the date,date,2026-06-08,Today is 2026-06-08.,0.000300,ok,
+2026-06-08T03:49:30Z,en,what's the date,date,2026-06-08,Today is 2026-06-08.,0.000059,ok,
+2026-06-08T03:49:46Z,en,what time is it,time,11:49:46,The time is 11:49:46.,0.000073,ok,
+2026-06-08T04:30:33Z,en,take screenshot,screenshot,D:\Documents\FYP\Multimodal_Assistant\Voice_Architecture\System\screenshots\capture_20260608_123033.png,Screenshot saved.,0.179414,ok,
+2026-06-08T04:34:09Z,en,just like the orientation methods like you have,none,,"I didn't match a system command. You can say: set a timer, take a screenshot, open YouTube, or search the web.",0.003618,no_match,no_match
+2026-06-08T04:37:45Z,en,please open YouTube,session_youtube,youtube,Automation is running on YouTube.,7.285514,ok,
+2026-06-08T04:38:08Z,en,search for Coldplay Yellow,session_search,ok,Done.,3.882157,ok,session_mode
+2026-06-08T04:38:21Z,en,play first,session_play_first,ok,Playing the first video.,1.870409,ok,session_mode
+2026-06-08T04:38:45Z,en,increase volume,session_volume_up,ok,Volume up.,0.672779,ok,session_mode
+2026-06-08T04:38:54Z,en,pause video,session_pause,ok,Paused.,0.143097,ok,session_mode
+2026-06-08T04:39:21Z,en,it's not a direct Voice with the system it will not,session_unparsed,it's not a direct Voice with the system it will not,"I did not understand, please try the following commands:
+- Search Justin Bieber
+- Play First
+- Pause / Resume Video
+- Increase / Decrease volume
+- Stop Automation",0.000751,no_match,session_no_match
+2026-06-08T04:39:32Z,en,resume video,session_resume,ok,Resumed.,0.017907,ok,session_mode
+2026-06-08T04:39:41Z,en,pause video,session_pause,ok,Paused.,0.016644,ok,session_mode
+2026-06-08T04:41:47Z,en,stop auto mission,session_unparsed,stop auto mission,"I did not understand, please try the following commands:
+- Search Justin Bieber
+- Play First
+- Pause / Resume Video
+- Increase / Decrease volume
+- Stop Automation",0.000145,no_match,session_no_match
+2026-06-08T04:41:58Z,en,stop automation currently can,session_stop,,Session stopped.,0.135324,ok,session_mode
+2026-06-14T05:45:17Z,en,what's the date,date,2026-06-14,Today is 2026-06-14.,0.000524,ok,
+2026-06-14T05:45:30Z,en,what time is it,time,13:45:30,The time is 13:45:30.,0.000057,ok,
+2026-06-14T05:46:24Z,en,take screenshot,screenshot,D:\Documents\FYP\Multimodal_Assistant\Voice_Architecture\System\screenshots\capture_20260614_134624.png,Screenshot saved.,0.193566,ok,
+2026-06-14T05:48:25Z,en,please switch to gesture control,none,,"I didn't match a system command. You can say: set a timer, take a screenshot, open YouTube, or search the web.",0.002273,no_match,no_match
+2026-06-14T05:53:02Z,zh,你好请打开油管,session_youtube,youtube,自动化运行中在 YouTube ,5.898591,ok,
+2026-06-14T05:53:21Z,zh,search,session_unparsed,search,"我不明白，请尝试以下命令：
+- 搜索周杰伦
+- 播放第一个
+- 暂停音乐 / 继续播放
+- 调高/调低音量
+- 停止自动化",0.004766,no_match,session_no_match
+2026-06-14T05:53:33Z,zh,search 一半一半,session_search,ok,完成。,3.604293,ok,session_mode
+2026-06-14T05:53:47Z,zh,play first,session_play_first,ok,正在播放第一个视频。,1.641172,ok,session_mode
+2026-06-14T05:54:15Z,zh,Turn up the volume,session_volume_up,ok,已调高音量。,0.470915,ok,session_mode
+2026-06-14T05:54:32Z,zh,Turn down the volume,session_volume_down,ok,已调低音量。,0.401009,ok,session_mode
+2026-06-14T05:54:43Z,zh,pause video,session_pause,ok,已停止播放。,0.112828,ok,session_mode
+2026-06-14T05:54:53Z,zh,play video,session_resume,ok,已继续播放。,0.011024,ok,session_mode
+2026-06-14T05:55:04Z,zh,stop automation,session_stop,,已结束会话。,0.060143,ok,session_mode
+2026-06-14T05:55:33Z,en,open WhatsApp,session_whatsapp,whatsapp,Automation is running on WhatsApp.,2.253760,ok,
+2026-06-14T05:55:44Z,en,Select second chat,session_select_chat_index,ok_index_2,Selected the chat.,0.458860,ok,session_mode
+2026-06-14T05:55:53Z,en,search user y r n,session_search_chat,ok,Search updated.,0.864992,ok,session_mode
+2026-06-14T05:56:07Z,en,select first chat,session_select_chat_index,ok_index_1,Selected the chat.,0.459491,ok,session_mode
+2026-06-14T05:56:59Z,en,search user PG,session_search_chat,ok,Search updated.,0.798643,ok,session_mode
+2026-06-14T05:57:08Z,en,clear search,session_clear_search,ok,Cleared the search.,0.764183,ok,session_mode
+2026-06-14T05:57:16Z,en,select third chat,session_select_chat_index,ok_index_3,Selected the chat.,0.464591,ok,session_mode
+2026-06-14T05:57:25Z,en,enter hello from Lee automation,session_type_text,ok,Typed.,0.873245,ok,session_mode
+2026-06-14T05:57:33Z,en,clear message,session_clear_message,ok,Cleared the message.,0.255377,ok,session_mode
+2026-06-14T05:57:42Z,en,enter message hello automation,session_type_text,ok,Typed.,0.962925,ok,session_mode
+2026-06-14T05:57:50Z,en,send message,session_send,ok,Sent.,0.253047,ok,session_mode
+2026-06-14T05:57:58Z,en,stop automation,session_stop,,Session stopped.,0.000053,ok,session_mode
+2026-06-14T06:11:51Z,en,open YouTube for me,session_youtube,me,Done.,6.950796,ok,
+2026-06-14T06:12:05Z,en,please search dais,session_search,ok,Done.,3.499757,ok,session_mode
+2026-06-14T06:12:16Z,en,play the first song,session_play_first,ok,Playing the first video.,1.628299,ok,session_mode
+2026-06-14T06:12:31Z,en,increase the volume for me,session_unparsed,increase the volume for me,"I did not understand, please try the following commands:
+- Search Justin Bieber
+- Play First
+- Pause / Resume Video
+- Increase / Decrease volume
+- Stop Automation",0.000068,no_match,session_no_match
+2026-06-14T06:12:41Z,en,increase volume,session_volume_up,ok,Volume up.,0.387595,ok,session_mode
+2026-06-14T06:12:49Z,en,decrease volume,session_volume_down,ok,Volume down.,0.452163,ok,session_mode
+2026-06-14T06:13:54Z,en,pause the video for me,session_pause,ok,Paused.,0.011679,ok,session_mode
+2026-06-14T06:14:01Z,en,stop automation,session_stop,,Session stopped.,0.229848,ok,session_mode
+2026-06-14T06:19:11Z,en,what's the date,date,2026-06-14,Today is 2026-06-14.,0.000087,ok,
+2026-06-14T06:24:49Z,en,hi Friday open YouTube for,session_youtube,youtube,Automation is running on YouTube.,3.959437,ok,
+2026-06-14T06:25:02Z,en,please search yummy,session_search,ok,Done.,3.662125,ok,session_mode
+2026-06-14T06:25:14Z,en,please,session_unparsed,please,"I did not understand, please try the following commands:
+- Search Justin Bieber
+- Play First
+- Pause / Resume Video
+- Increase / Decrease volume
+- Stop Automation",0.000048,no_match,session_no_match
+2026-06-14T06:25:25Z,en,play the first video for me,session_play_first,ok,Playing the first video.,1.671872,ok,session_mode
+2026-06-14T06:25:41Z,en,increase the volume,session_unparsed,increase the volume,"I did not understand, please try the following commands:
+- Search Justin Bieber
+- Play First
+- Pause / Resume Video
+- Increase / Decrease volume
+- Stop Automation",0.000069,no_match,session_no_match
+2026-06-14T06:25:52Z,en,increase volume,session_volume_up,ok,Volume up.,0.554199,ok,session_mode
+2026-06-14T06:26:01Z,en,pause the video,session_pause,ok,Paused.,0.038397,ok,session_mode
+2026-06-14T06:26:36Z,en,pause the video,session_pause,ok,Paused.,0.025022,ok,session_mode
+2026-06-14T06:26:44Z,en,stop automation,session_stop,,Session stopped.,0.101453,ok,session_mode
+2026-06-14T06:30:06Z,en,hi Friday open YouTube for me,session_youtube,me,Done.,7.982952,ok,
+2026-06-14T06:30:22Z,en,thank you,session_unparsed,thank you,"I did not understand, please try the following commands:
+- Search Justin Bieber
+- Play First
+- Pause / Resume Video
+- Increase / Decrease volume
+- Stop Automation",0.000067,no_match,session_no_match
+2026-06-14T06:30:32Z,en,please search baby by,session_search,ok,Done.,3.673118,ok,session_mode
+2026-06-14T06:30:44Z,en,play the first video,session_play_first,ok,Playing the first video.,1.711730,ok,session_mode
+2026-06-14T06:31:00Z,en,increase volume,session_volume_up,ok,Volume up.,0.535637,ok,session_mode
+2026-06-14T06:31:09Z,en,pause the video,session_pause,ok,Paused.,0.008604,ok,session_mode
+2026-06-27T08:37:55Z,zh,现在是什么时间,time,16:37:55,现在时间是 16:37:55。,0.000410,ok,
+2026-06-27T08:38:34Z,zh,马来西亚沙巴,none,,未识别为系统指令。你可以说：计时、截图、打开 YouTube、或网页搜索。,0.004267,no_match,no_match
+2026-06-27T08:39:11Z,zh,打开手动操作,none,,未识别为系统指令。你可以说：计时、截图、打开 YouTube、或网页搜索。,0.000242,no_match,no_match
+2026-06-27T08:39:45Z,en,what time is it,time,16:39:45,The time is 16:39:45.,0.000088,ok,
+2026-06-27T08:39:55Z,en,what's the date,date,2026-06-27,Today is 2026-06-27.,0.000060,ok,
+2026-07-06T14:55:59Z,en,he who invented mathematics,none,,"I didn't match a system command. You can say: set a timer, take a screenshot, open YouTube, or search the web.",0.005300,no_match,no_match
+2026-07-06T14:56:37Z,en,who invented Python programming language,none,,"I didn't match a system command. You can say: set a timer, take a screenshot, open YouTube, or search the web.",0.000191,no_match,no_match
+2026-07-06T14:57:27Z,zh,现在是什么时间,time,22:57:27,现在时间是 22:57:27。,0.000286,ok,
+2026-07-06T14:57:49Z,en,please open WhatsApp,session_whatsapp,whatsapp,Automation is running on WhatsApp.,2.308165,ok,
+2026-07-06T14:58:01Z,en,select first chat,session_select_chat_index,ok_index_1,Selected the chat.,0.465510,ok,session_mode
+2026-07-06T14:58:09Z,en,type message how are you,session_type_text,ok,Typed.,0.663955,ok,session_mode
+2026-07-06T14:58:18Z,en,clear message,session_clear_message,ok,Cleared the message.,0.258438,ok,session_mode
+2026-07-06T14:58:29Z,en,type ok,session_type_text,ok,Typed.,0.296334,ok,session_mode
+2026-07-06T14:58:37Z,en,send message,session_send,ok,Sent.,0.254768,ok,session_mode
+2026-07-06T14:58:45Z,en,stop automation,session_stop,,Session stopped.,0.000072,ok,session_mode
+2026-07-07T04:53:49Z,en,please open YouTube,session_youtube,youtube,Automation is running on YouTube.,4.993024,ok,
+2026-07-07T04:54:03Z,en,please open Google,session_unparsed,please open Google,"I did not understand, please try the following commands:
+- Search Justin Bieber
+- Play First
+- Pause / Resume Video
+- Increase / Decrease volume
+- Stop Automation",0.002690,no_match,session_no_match
+2026-07-07T04:54:13Z,en,please open Google Maps,session_unparsed,please open Google Maps,"I did not understand, please try the following commands:
+- Search Justin Bieber
+- Play First
+- Pause / Resume Video
+- Increase / Decrease volume
+- Stop Automation",0.000064,no_match,session_no_match
+2026-07-07T04:54:23Z,en,stop automation,session_stop,,Session stopped.,0.082679,ok,session_mode
+2026-07-07T05:25:38Z,en,open gesture,none,,"I didn't match a system command. You can say: set a timer, take a screenshot, open YouTube, or search the web.",0.003032,no_match,no_match
+2026-07-07T05:28:56Z,en,what's the date,date,2026-07-07,Today is 2026-07-07.,0.000080,ok,
+2026-07-07T05:29:09Z,en,what time is it,time,13:29:09,The time is 13:29:09.,0.000059,ok,
+2026-07-07T05:29:42Z,en,please open Notepad for me,open_app,notepad,Opening Notepad now.,0.818474,ok,
+2026-07-07T05:30:05Z,zh,你好现在是什么日期,date,2026-07-07,今天是 2026-07-07。,0.000112,ok,
+2026-07-07T05:31:30Z,en,open YouTube and search Justin Bieber daisies,session_youtube,justin bieber daisies,Done.,7.588746,ok,
+2026-07-07T05:31:45Z,en,thank you play first,session_play_first,ok,Playing the first video.,1.666168,ok,session_mode
+2026-07-07T05:31:55Z,en,the volume is quite loud decrease the,session_unparsed,the volume is quite loud decrease the,"I did not understand, please try the following commands:
+- Search Justin Bieber
+- Play First
+- Pause / Resume Video
+- Increase / Decrease volume
+- Stop Automation",0.000087,no_match,session_no_match
+2026-07-07T05:32:05Z,en,the volume is quite loud decrease the volume,session_unparsed,the volume is quite loud decrease the volume,"I did not understand, please try the following commands:
+- Search Justin Bieber
+- Play First
+- Pause / Resume Video
+- Increase / Decrease volume
+- Stop Automation",0.000112,no_match,session_no_match
+2026-07-07T05:32:15Z,en,the volume is quite loud decrease volume,session_volume_down,ok,Volume down.,0.510050,ok,session_mode
+2026-07-07T05:32:23Z,en,decrease volume again,session_volume_down,ok,Volume down.,0.461846,ok,session_mode
+2026-07-07T05:32:32Z,en,pause the video about,session_pause,ok,Paused.,0.067285,ok,session_mode
+2026-07-07T05:32:39Z,en,great now resume the video again,session_resume,ok,Resumed.,0.011180,ok,session_mode
+2026-07-07T05:33:54Z,en,stop automation,session_stop,,Session stopped.,0.072346,ok,session_mode
+2026-07-07T05:34:30Z,zh,请打开谷歌新闻,session_google_news,google_news,自动化运行中在 谷歌新闻 ,1.384531,ok,
+2026-07-07T05:34:44Z,zh,search 世界杯新闻,session_search,ok,完成。,0.848466,ok,session_mode
+2026-07-07T05:34:54Z,zh,help me cook,session_unparsed,help me cook,"我不明白，请尝试以下命令：
+- 搜索美国
+- 搜索马来西亚新闻
+- 停止自动化",0.000052,no_match,session_no_match
+2026-07-07T05:35:06Z,zh,stop automation,session_stop,,已结束会话。,0.062116,ok,session_mode
+2026-07-07T05:35:35Z,en,hello please open WhatsApp for me,session_whatsapp,whatsapp,Automation is running on WhatsApp.,2.240552,ok,
+2026-07-07T05:35:47Z,en,stop automation,session_stop,,Session stopped.,0.000060,ok,session_mode
+2026-07-07T06:14:26Z,en,what time is it,time,14:14:26,The time is 14:14:26.,0.000328,ok,
+2026-07-07T06:15:01Z,en,thanks for the information please open Notepad for me,open_app,notepad,Opening Notepad now.,0.109494,ok,
+2026-07-07T06:16:45Z,en,what time is it,time,14:16:45,The time is 14:16:45.,0.000054,ok,
+2026-07-07T06:17:15Z,en,thanks for the information now please open Notepad,open_app,notepad,Opening Notepad now.,0.067998,ok,
+2026-07-07T06:17:41Z,zh,你好可以告诉我今天的日期是什么吗,date,2026-07-07,今天是 2026-07-07。,0.000179,ok,
+2026-07-07T06:18:47Z,en,hi Friday please open YouTube and search Justin Bieber,session_youtube,justin bieber,Done.,7.642220,ok,
+2026-07-07T06:19:02Z,en,search Justin Bieber basis,session_search,ok,Done.,3.625531,ok,session_mode
+2026-07-07T06:19:14Z,en,automation,session_unparsed,automation,"I did not understand, please try the following commands:
+- Search Justin Bieber
+- Play First
+- Pause / Resume Video
+- Increase / Decrease volume
+- Stop Automation",0.000219,no_match,session_no_match
+2026-07-07T06:19:25Z,en,stop automation stop automation stop,session_stop,,Session stopped.,0.057927,ok,session_mode
+2026-07-07T06:21:26Z,en,what time is it,time,14:21:26,The time is 14:21:26.,0.000057,ok,
+2026-07-07T06:21:53Z,en,thanks for information now please open Notepad,open_app,notepad,Opening Notepad now.,0.081966,ok,
+2026-07-07T06:22:17Z,zh,你好可以告诉我今天的日期是什么,date,2026-07-07,今天是 2026-07-07。,0.000482,ok,
+2026-07-07T06:22:44Z,zh,好的非常感谢,none,,未识别为系统指令。你可以说：计时、截图、打开 YouTube、或网页搜索。,0.000370,no_match,no_match
+2026-07-07T06:24:22Z,en,what time is it,time,14:24:22,The time is 14:24:22.,0.000070,ok,
+2026-07-07T06:24:49Z,en,thank you for the information please open Notepad for me,open_app,notepad,Opening Notepad now.,0.072593,ok,
+2026-07-07T06:27:14Z,en,hello good morning I would like to open YouTube and search Justin Bieber,session_youtube,justin bieber,Done.,7.420826,ok,
+2026-07-07T06:27:29Z,en,search Justin Bieber d,session_search,ok,Done.,3.642880,ok,session_mode
+2026-07-07T06:27:40Z,en,stop automation,session_stop,,Session stopped.,0.135567,ok,session_mode
+2026-07-07T06:28:52Z,en,hi Friday please open YouTube and search Justin Bieber,session_youtube,justin bieber,Done.,7.154285,ok,
+2026-07-07T06:29:07Z,en,search Justin Bieber thesis,session_search,ok,Done.,3.615741,ok,session_mode
+2026-07-07T06:29:18Z,en,search Justin Bieber daisies,session_search,ok,Done.,3.680918,ok,session_mode
+2026-07-07T06:29:29Z,en,stop automation,session_stop,,Session stopped.,0.046730,ok,session_mode
+2026-07-07T06:31:00Z,en,good morning please open YouTube and search Justin Bieber,session_youtube,justin bieber,Done.,7.032576,ok,
+2026-07-07T06:31:15Z,en,search Justin Bieber daisies,session_search,ok,Done.,3.545441,ok,session_mode
+2026-07-07T06:31:26Z,en,could you play first,session_play_first,ok,Playing the first video.,1.649803,ok,session_mode
+2026-07-07T06:31:36Z,en,decrease volume,session_volume_down,ok,Volume down.,0.542268,ok,session_mode
+2026-07-07T06:31:50Z,en,increase the volume,session_unparsed,increase the volume,"I did not understand, please try the following commands:
+- Search Justin Bieber
+- Play First
+- Pause / Resume Video
+- Increase / Decrease volume
+- Stop Automation",0.000084,no_match,session_no_match
+2026-07-07T06:32:00Z,en,stop automation,session_stop,,Session stopped.,0.060878,ok,session_mode
+2026-07-07T06:34:24Z,en,hello good morning please open YouTube,session_youtube,youtube,Automation is running on YouTube.,2.919703,ok,
+2026-07-07T06:34:36Z,en,search Justin Bieber thesis,session_search,ok,Done.,3.636178,ok,session_mode
+2026-07-07T06:34:47Z,en,stop automation,session_stop,,Session stopped.,0.054956,ok,session_mode
+2026-07-07T06:36:12Z,en,hi there open YouTube,session_youtube,youtube,Automation is running on YouTube.,2.479367,ok,
+2026-07-07T06:36:23Z,en,great search Justin Bieber,session_unparsed,great search Justin Bieber,"I did not understand, please try the following commands:
+- Search Justin Bieber
+- Play First
+- Pause / Resume Video
+- Increase / Decrease volume
+- Stop Automation",0.000073,no_match,session_no_match
+2026-07-07T06:36:34Z,en,stop automation please,session_stop,,Session stopped.,0.068921,ok,session_mode
+2026-07-07T06:37:03Z,en,so,none,,"I didn't match a system command. You can say: set a timer, take a screenshot, open YouTube, or search the web.",0.000206,no_match,no_match
+2026-07-07T06:38:33Z,en,hi there open YouTube,session_youtube,youtube,Automation is running on YouTube.,2.839860,ok,
+2026-07-07T06:38:44Z,en,search Justin Bieber,session_search,ok,Done.,3.598473,ok,session_mode
+2026-07-07T06:38:55Z,en,could you play first,session_play_first,ok,Playing the first video.,1.701819,ok,session_mode
+2026-07-07T06:39:11Z,en,it's too loud decrease volume,session_volume_down,ok,Volume down.,0.419579,ok,session_mode
+2026-07-07T06:39:25Z,en,pause video for me,session_pause,ok,Paused.,0.014598,ok,session_mode
+2026-07-07T06:39:33Z,en,resume video back,session_resume,ok,Resumed.,0.008048,ok,session_mode
+2026-07-07T06:40:24Z,en,pause video,session_pause,ok,Paused.,0.009589,ok,session_mode
+2026-07-07T06:40:31Z,en,excellent stop automation,session_stop,,Session stopped.,0.138634,ok,session_mode
+2026-07-07T06:41:50Z,en,hi there open Google News,session_google_news,google_news,Automation is running on Google News.,1.550053,ok,
+2026-07-07T06:42:06Z,en,search FIFA World Cup,session_search,ok,Done.,1.027077,ok,session_mode
+2026-07-07T06:42:15Z,en,I'm hungry please cook for me,session_unparsed,I'm hungry please cook for me,"I did not understand, please try the following commands:
+- Search United States
+- Search News in Malaysia
+- Stop Automation",0.000116,no_match,session_no_match
+2026-07-07T06:42:25Z,en,ok sure stop automation,session_stop,,Session stopped.,0.056653,ok,session_mode
+2026-07-07T06:42:59Z,zh,请打开谷歌地图,session_google_maps,google_maps,自动化运行中在 谷歌地图 ,1.419797,ok,
+2026-07-07T06:43:15Z,zh,search 马来西亚,session_search,ok,完成。,0.765505,ok,session_mode
+2026-07-07T06:43:25Z,zh,search 中国,session_search,ok,完成。,0.636776,ok,session_mode
+2026-07-07T06:43:37Z,zh,search 喜马拉雅,session_search,ok,完成。,0.341063,ok,session_mode
+2026-07-07T06:43:47Z,zh,stop automation,session_stop,,已结束会话。,0.059865,ok,session_mode
+2026-07-07T06:44:30Z,en,hi I would like to open WhatsApp,session_whatsapp,whatsapp,Automation is running on WhatsApp.,2.162557,ok,
+2026-07-07T06:44:41Z,en,select first chat,session_select_chat_index,ok_index_1,Selected the chat.,0.458549,ok,session_mode
+2026-07-07T06:44:50Z,en,search user PG,session_search_chat,ok,Search updated.,0.773202,ok,session_mode
+2026-07-07T06:44:59Z,en,select first chat,session_select_chat_index,ok_index_1,Selected the chat.,0.462493,ok,session_mode
+2026-07-07T06:45:07Z,en,stop automation,session_stop,,Session stopped.,0.000044,ok,session_mode
+2026-07-07T06:46:20Z,en,good morning please open WhatsApp,session_whatsapp,whatsapp,Automation is running on WhatsApp.,2.143828,ok,
+2026-07-07T06:46:31Z,en,search user PG,session_search_chat,ok,Search updated.,0.769001,ok,session_mode
+2026-07-07T06:46:39Z,en,clear search,session_clear_search,ok,Cleared the search.,0.762281,ok,session_mode
+2026-07-07T06:46:48Z,en,search user you,session_search_chat,ok,Search updated.,0.850775,ok,session_mode
+2026-07-07T06:46:57Z,en,select first chat,session_select_chat_index,ok_index_1,Selected the chat.,0.462602,ok,session_mode
+2026-07-07T06:47:09Z,en,stop automation,session_stop,,Session stopped.,0.000046,ok,session_mode
+2026-07-07T06:47:27Z,en,open WhatsApp,session_whatsapp,whatsapp,Automation is running on WhatsApp.,2.142228,ok,
+2026-07-07T06:47:38Z,en,select first chat,session_select_chat_index,ok_index_1,Selected the chat.,0.456300,ok,session_mode
+2026-07-07T06:47:47Z,en,search user PG,session_search_chat,ok,Search updated.,0.828429,ok,session_mode
+2026-07-07T06:47:56Z,en,first check,session_unparsed,first check,"I did not understand, please try the following commands:
+- Search user James
+- Select first/second/third chat
+- Enter Good Morning
+- Clear Message
+- Stop Automation",0.000038,no_match,session_no_match
+2026-07-07T06:48:06Z,en,select first chat,session_select_chat_index,ok_index_1,Selected the chat.,0.460323,ok,session_mode
+2026-07-07T06:48:20Z,en,clear search,session_clear_search,ok,Cleared the search.,0.782021,ok,session_mode
+2026-07-07T06:48:29Z,en,select third chat,session_select_chat_index,ok_index_3,Selected the chat.,0.457749,ok,session_mode
+2026-07-07T06:48:37Z,en,search user you,session_search_chat,ok,Search updated.,0.847632,ok,session_mode
+2026-07-07T06:48:46Z,en,select first chat,session_select_chat_index,ok_index_1,Selected the chat.,0.460754,ok,session_mode
+2026-07-07T06:48:55Z,en,stop automation,session_stop,,Session stopped.,0.000049,ok,session_mode
+2026-07-07T07:16:30Z,en,what time is it,time,15:16:30,The time is 15:16:30.,0.000314,ok,
+2026-07-07T07:16:57Z,en,thank you for information now please open Notepad,open_app,notepad,Opening Notepad now.,0.186224,ok,
+2026-07-07T07:17:30Z,zh,可以告诉我今天的日期是什么,date,2026-07-07,今天是 2026-07-07。,0.000172,ok,
+2026-07-07T07:18:51Z,en,hi there please open YouTube,session_youtube,youtube,Automation is running on YouTube.,3.967035,ok,
+2026-07-07T07:19:04Z,en,search Justin Bieber dais,session_search,ok,Done.,3.694287,ok,session_mode
+2026-07-07T07:19:15Z,en,ok play first,session_play_first,ok,Playing the first video.,1.665307,ok,session_mode
+2026-07-07T07:19:25Z,en,it's too loud decrease volume,session_volume_down,ok,Volume down.,0.429993,ok,session_mode
+2026-07-07T07:19:47Z,en,thank you please pause video,session_pause,ok,Paused.,0.091741,ok,session_mode
+2026-07-07T07:19:55Z,en,resume video back,session_resume,ok,Resumed.,0.015443,ok,session_mode
+2026-07-07T07:20:43Z,en,pause video,session_pause,ok,Paused.,0.008860,ok,session_mode
+2026-07-07T07:20:51Z,en,no stop automation,session_stop,,Session stopped.,0.163466,ok,session_mode
+2026-07-07T07:22:44Z,en,good morning open YouTube and search Justin Bieber,session_youtube,justin bieber,Done.,7.054476,ok,
+2026-07-07T07:23:21Z,en,search daisies,session_search,ok,Done.,3.645773,ok,session_mode
+2026-07-07T07:23:32Z,en,ok play first,session_play_first,ok,Playing the first video.,1.694540,ok,session_mode
+2026-07-07T07:23:44Z,en,the volume is too loud decrease volume,session_volume_down,ok,Volume down.,0.601416,ok,session_mode
+2026-07-07T07:23:53Z,en,pause video,session_pause,ok,Paused.,0.011569,ok,session_mode
+2026-07-07T07:24:00Z,en,resume video back,session_resume,ok,Resumed.,0.017357,ok,session_mode
+2026-07-07T07:24:08Z,en,please increase volume,session_volume_up,ok,Volume up.,0.441571,ok,session_mode
+2026-07-07T07:24:40Z,en,pause video,session_pause,ok,Paused.,0.019624,ok,session_mode
+2026-07-07T07:24:47Z,en,stop automation,session_stop,,Session stopped.,0.083792,ok,session_mode
+2026-07-07T07:25:32Z,zh,请打开谷歌地图,session_google_maps,google_maps,自动化运行中在 谷歌地图 ,1.708064,ok,
+2026-07-07T07:25:47Z,zh,search 马六甲,session_search,ok,完成。,0.865716,ok,session_mode
+2026-07-07T07:25:58Z,zh,help me cook,session_unparsed,help me cook,"我不明白，请尝试以下命令：
+- 搜索美国
+- 搜索马来西亚新闻
+- 停止自动化",0.000103,no_match,session_no_match
+2026-07-07T07:26:11Z,zh,stop automation,session_stop,,已结束会话。,0.095244,ok,session_mode
+2026-07-07T07:27:04Z,zh,你好请打开谷歌新闻,session_google_news,google_news,自动化运行中在 谷歌新闻 ,1.556249,ok,
+2026-07-07T07:27:18Z,zh,search 世界杯,session_search,ok,完成。,1.192125,ok,session_mode
+2026-07-07T07:27:29Z,zh,I'm a little hungry. Can you help me cook?,session_unparsed,I'm a little hungry. Can you help me cook?,"我不明白，请尝试以下命令：
+- 搜索美国
+- 搜索马来西亚新闻
+- 停止自动化",0.000088,no_match,session_no_match
+2026-07-07T07:27:41Z,zh,stop automation,session_stop,,已结束会话。,0.086401,ok,session_mode
+2026-07-07T07:28:34Z,en,hi there please open WhatsApp,session_whatsapp,whatsapp,Automation is running on WhatsApp.,2.258664,ok,
+2026-07-07T07:28:46Z,en,select dirt chat,session_unparsed,select dirt chat,"I did not understand, please try the following commands:
+- Search user James
+- Select first/second/third chat
+- Enter Good Morning
+- Clear Message
+- Stop Automation",0.000037,no_match,session_no_match
+2026-07-07T07:28:56Z,en,stop automation,session_stop,,Session stopped.,0.000045,ok,session_mode
+2026-07-07T07:29:39Z,en,hi please open WhatsApp,session_whatsapp,whatsapp,Automation is running on WhatsApp.,2.142173,ok,
+2026-07-07T07:29:50Z,en,Select second chat,session_select_chat_index,ok_index_2,Selected the chat.,0.459565,ok,session_mode
+2026-07-07T07:29:59Z,en,search user you,session_search_chat,ok,Search updated.,0.815447,ok,session_mode
+2026-07-07T07:30:07Z,en,thank you select first chat,session_unparsed,thank you select first chat,"I did not understand, please try the following commands:
+- Search user James
+- Select first/second/third chat
+- Enter Good Morning
+- Clear Message
+- Stop Automation",0.000045,no_match,session_no_match
+2026-07-07T07:30:18Z,en,select first chat,session_select_chat_index,ok_index_1,Selected the chat.,0.461630,ok,session_mode
+2026-07-07T07:30:27Z,en,stop automation,session_stop,,Session stopped.,0.000051,ok,session_mode
+2026-07-07T07:31:05Z,en,good morning please open WhatsApp,session_whatsapp,whatsapp,Automation is running on WhatsApp.,2.136245,ok,
+2026-07-07T07:31:17Z,en,please select second chat,session_select_chat_index,ok_index_2,Selected the chat.,0.462126,ok,session_mode
+2026-07-07T07:31:25Z,en,search user you,session_search_chat,ok,Search updated.,0.808571,ok,session_mode
+2026-07-07T07:31:34Z,en,select first chat,session_select_chat_index,ok_index_1,Selected the chat.,0.459967,ok,session_mode
+2026-07-07T07:32:07Z,en,are you please enter how are you,session_unparsed,are you please enter how are you,"I did not understand, please try the following commands:
+- Search user James
+- Select first/second/third chat
+- Enter Good Morning
+- Clear Message
+- Stop Automation",0.000043,no_match,session_no_match
+2026-07-07T07:32:17Z,en,stop automation,session_stop,,Session stopped.,0.000069,ok,session_mode
+2026-07-07T07:32:56Z,en,hi there please open WhatsApp,session_whatsapp,whatsapp,Automation is running on WhatsApp.,2.143961,ok,
+2026-07-07T07:33:07Z,en,Select second chat,session_select_chat_index,ok_index_2,Selected the chat.,0.462359,ok,session_mode
+2026-07-07T07:33:16Z,en,search user you,session_search_chat,ok,Search updated.,0.802769,ok,session_mode
+2026-07-07T07:33:24Z,en,select first chat,session_select_chat_index,ok_index_1,Selected the chat.,0.486671,ok,session_mode
+2026-07-07T07:33:33Z,en,how are you today from automation,session_unparsed,how are you today from automation,"I did not understand, please try the following commands:
+- Search user James
+- Select first/second/third chat
+- Enter Good Morning
+- Clear Message
+- Stop Automation",0.000036,no_match,session_no_match
+2026-07-07T07:33:43Z,en,stop auto music,session_unparsed,stop auto music,"I did not understand, please try the following commands:
+- Search user James
+- Select first/second/third chat
+- Enter Good Morning
+- Clear Message
+- Stop Automation",0.000030,no_match,session_no_match
+2026-07-07T07:33:53Z,en,stop automation,session_stop,,Session stopped.,0.000039,ok,session_mode
+2026-07-07T07:34:46Z,en,hi there please open WhatsApp,session_whatsapp,whatsapp,Automation is running on WhatsApp.,2.151811,ok,
+2026-07-07T07:34:58Z,en,Select second chat,session_select_chat_index,ok_index_2,Selected the chat.,0.459575,ok,session_mode
+2026-07-07T07:35:07Z,en,search user you,session_search_chat,ok,Search updated.,0.802764,ok,session_mode
+2026-07-07T07:35:16Z,en,select first chat,session_select_chat_index,ok_index_1,Selected the chat.,0.462119,ok,session_mode
+2026-07-07T07:35:25Z,en,enter high from automation,session_type_text,ok,Typed.,0.682247,ok,session_mode
+2026-07-07T07:35:33Z,en,clear message,session_clear_message,ok,Cleared the message.,0.255652,ok,session_mode
+2026-07-07T07:35:42Z,en,enter good morning automation,session_type_text,ok,Typed.,0.745365,ok,session_mode
+2026-07-07T07:35:50Z,en,send message,session_send,ok,Sent.,0.253602,ok,session_mode
+2026-07-07T07:35:57Z,en,thank you stop automation,session_stop,,Session stopped.,0.000062,ok,session_mode
+2026-07-07T08:12:28Z,en,what time is it,time,16:12:28,The time is 16:12:28.,0.000812,ok,
+2026-07-07T08:12:55Z,en,thank you for the information could you please open Notepad,open_app,notepad,Opening Notepad now.,0.180189,ok,
+2026-07-07T08:13:18Z,zh,你好今天是什么日期,date,2026-07-07,今天是 2026-07-07。,0.000264,ok,
+2026-07-07T08:20:08Z,en,what time is it,time,16:20:08,The time is 16:20:08.,0.000083,ok,
+2026-07-07T08:20:34Z,en,thank you for the information please open Notepad,open_app,notepad,Opening Notepad now.,0.092400,ok,
+2026-07-07T08:21:00Z,zh,你好今天的日期是什么,date,2026-07-07,今天是 2026-07-07。,0.000114,ok,
+2026-07-07T08:22:11Z,en,good morning please open YouTube for me,session_youtube,me,Done.,9.025152,ok,
+2026-07-07T08:22:28Z,en,search Justin Bieber basis,session_search,ok,Done.,3.589277,ok,session_mode
+2026-07-07T08:22:40Z,en,stop automation,session_stop,,Session stopped.,0.125332,ok,session_mode
+2026-07-07T08:24:19Z,en,what time is it,time,16:24:19,The time is 16:24:19.,0.000069,ok,
+2026-07-07T08:29:43Z,en,what time is it,time,16:29:43,The time is 16:29:43.,0.000056,ok,
+2026-07-07T08:30:17Z,en,thanks for your information now open Notepad,open_app,notepad,Opening Notepad now.,0.086574,ok,
+2026-07-07T08:30:41Z,zh,Hello你好今天是什么日期,date,2026-07-07,今天是 2026-07-07。,0.000146,ok,
+2026-07-07T08:32:05Z,en,hello please open YouTube,session_youtube,youtube,Automation is running on YouTube.,3.034193,ok,
+2026-07-07T08:32:17Z,en,search Justin Bieber,session_search,ok,Done.,3.638756,ok,session_mode
+2026-07-07T08:32:29Z,en,select first,session_unparsed,select first,"I did not understand, please try the following commands:
+- Search Justin Bieber
+- Play First
+- Pause / Resume Video
+- Increase / Decrease volume
+- Stop Automation",0.001108,no_match,session_no_match
+2026-07-07T08:32:52Z,en,functions either in conversation or system action,session_unparsed,functions either in conversation or system action,"I did not understand, please try the following commands:
+- Search Justin Bieber
+- Play First
+- Pause / Resume Video
+- Increase / Decrease volume
+- Stop Automation",0.000084,no_match,session_no_match
+2026-07-07T08:33:02Z,en,stop automation,session_stop,,Session stopped.,0.055428,ok,session_mode
+2026-07-07T08:34:08Z,en,hello open YouTube,session_youtube,youtube,Automation is running on YouTube.,3.043810,ok,
+2026-07-07T08:34:20Z,en,search Justin Bieber,session_search,ok,Done.,3.642913,ok,session_mode
+2026-07-07T08:34:31Z,en,alright play first,session_play_first,ok,Playing the first video.,1.708150,ok,session_mode
+2026-07-07T08:34:48Z,en,it's too loud decrease volume,session_volume_down,ok,Volume down.,0.502921,ok,session_mode
+2026-07-07T08:35:03Z,en,pause video,session_pause,ok,Paused.,0.090218,ok,session_mode
+2026-07-07T08:35:47Z,en,stop automation,session_stop,,Session stopped.,0.200005,ok,session_mode
+2026-07-07T08:42:46Z,en,what time is it,time,16:42:46,The time is 16:42:46.,0.000067,ok,
+2026-07-07T08:43:23Z,en,thanks for the information now please open Notepad,open_app,notepad,Opening Notepad now.,0.075383,ok,
+2026-07-07T08:44:01Z,zh,你好能告诉我现在是什么日期吗,date,2026-07-07,今天是 2026-07-07。,0.000128,ok,
+2026-07-07T08:45:22Z,en,hi there please open YouTube,session_youtube,youtube,Automation is running on YouTube.,3.079108,ok,
+2026-07-07T08:45:34Z,en,search for Justin Bieber,session_search,ok,Done.,3.618518,ok,session_mode
+2026-07-07T08:45:46Z,en,play first,session_play_first,ok,Playing the first video.,1.700163,ok,session_mode
+2026-07-07T08:46:02Z,en,the volume is too loud decrease volume,session_volume_down,ok,Volume down.,0.560364,ok,session_mode
+2026-07-07T08:46:11Z,en,increase volume,session_volume_up,ok,Volume up.,0.502981,ok,session_mode
+2026-07-07T08:46:19Z,en,help me to pause video,session_pause,ok,Paused.,0.022335,ok,session_mode
+2026-07-07T08:47:12Z,en,stop automation,session_stop,,Session stopped.,0.063135,ok,session_mode
+2026-07-07T08:48:31Z,en,what time is it,time,16:48:31,The time is 16:48:31.,0.000083,ok,
+2026-07-07T08:48:57Z,en,please open Notepad,open_app,notepad,Opening Notepad now.,0.075863,ok,
+2026-07-07T08:49:25Z,zh,Hello你好请问今天是什么日期,date,2026-07-07,今天是 2026-07-07。,0.000110,ok,
+2026-07-07T08:50:53Z,en,hi please open YouTube,session_youtube,youtube,Automation is running on YouTube.,2.905336,ok,
+2026-07-07T08:51:05Z,en,search Justin Bieber,session_search,ok,Done.,3.671349,ok,session_mode
+2026-07-07T08:51:16Z,en,thank you play first,session_play_first,ok,Playing the first video.,1.745685,ok,session_mode
+2026-07-07T08:51:33Z,en,the volume is too loud decrease volume,session_volume_down,ok,Volume down.,0.502462,ok,session_mode
+2026-07-07T08:51:42Z,en,thank you pause video,session_pause,ok,Paused.,0.010888,ok,session_mode
+2026-07-07T08:52:56Z,en,resume video,session_resume,ok,Resumed.,0.010700,ok,session_mode
+2026-07-07T08:53:04Z,en,stop video,session_unparsed,stop video,"I did not understand, please try the following commands:
+- Search Justin Bieber
+- Play First
+- Pause / Resume Video
+- Increase / Decrease volume
+- Stop Automation",0.000100,no_match,session_no_match
+2026-07-07T08:53:15Z,en,pause video,session_pause,ok,Paused.,0.010032,ok,session_mode
+2026-07-07T08:53:22Z,en,stop automation,session_stop,,Session stopped.,0.149085,ok,session_mode
+2026-07-07T08:54:26Z,en,hi please open WhatsApp,session_whatsapp,whatsapp,Automation is running on WhatsApp.,2.247347,ok,
+2026-07-07T08:54:37Z,en,select first chat,session_select_chat_index,ok_index_1,Selected the chat.,0.457148,ok,session_mode
+2026-07-07T08:54:46Z,en,search user you,session_search_chat,ok,Search updated.,0.803660,ok,session_mode
+2026-07-07T08:54:55Z,en,select first chat,session_select_chat_index,ok_index_1,Selected the chat.,0.459537,ok,session_mode
+2026-07-07T08:55:04Z,en,enter hello from automation,session_type_text,ok,Typed.,0.725888,ok,session_mode
+2026-07-07T08:55:13Z,en,clear message,session_clear_message,ok,Cleared the message.,0.254647,ok,session_mode
+2026-07-07T08:55:22Z,en,enter I am myself,session_type_text,ok,Typed.,0.519069,ok,session_mode
+2026-07-07T08:55:30Z,en,send message,session_send,ok,Sent.,0.253942,ok,session_mode
+2026-07-07T08:55:43Z,en,stop automation,session_stop,,Session stopped.,0.000039,ok,session_mode
+2026-07-07T09:21:07Z,en,what time is it,time,17:21:07,The time is 17:21:07.,0.000074,ok,
+2026-07-07T09:21:35Z,en,thanks for information now open Notepad,open_app,notepad,Opening Notepad now.,0.092154,ok,
+2026-07-07T09:22:04Z,zh,Hello你好请问今天是什么日期,date,2026-07-07,今天是 2026-07-07。,0.000119,ok,
+2026-07-07T09:23:20Z,en,hi there please open YouTube,session_youtube,youtube,Automation is running on YouTube.,3.488686,ok,
+2026-07-07T09:23:33Z,en,search Justin Bieber,session_search,ok,Done.,3.624752,ok,session_mode
+2026-07-07T09:23:45Z,en,ok play first,session_play_first,ok,Playing the first video.,1.799641,ok,session_mode
+2026-07-07T09:24:01Z,en,the volume is too loud increase volume,session_volume_up,ok,Volume up.,0.504274,ok,session_mode
+2026-07-07T09:24:15Z,en,decrease volume,session_volume_down,ok,Volume down.,0.535488,ok,session_mode
+2026-07-07T09:24:24Z,en,pause video,session_pause,ok,Paused.,0.017824,ok,session_mode
+2026-07-07T09:24:32Z,en,stop automation,session_stop,,Session stopped.,0.065484,ok,session_mode
+2026-07-07T09:25:54Z,en,what time is it,time,17:25:54,The time is 17:25:54.,0.000081,ok,
+2026-07-07T09:26:20Z,en,thank you for your information open Notepad,open_app,notepad,Opening Notepad now.,0.073501,ok,
+2026-07-07T09:26:47Z,zh,你好请问今天是什么日期,date,2026-07-07,今天是 2026-07-07。,0.000145,ok,
+2026-07-07T09:28:32Z,en,hi please open YouTube,session_youtube,youtube,Automation is running on YouTube.,2.822214,ok,
+2026-07-07T09:28:44Z,en,search Justin Bieber,session_search,ok,Done.,3.667528,ok,session_mode
+2026-07-07T09:28:56Z,en,search Justin Bieber daisies,session_search,ok,Done.,3.564525,ok,session_mode
+2026-07-07T09:29:08Z,en,ok play first,session_play_first,ok,Playing the first video.,1.724569,ok,session_mode
+2026-07-07T09:29:18Z,en,the volume is too loud decrease volume,session_volume_down,ok,Volume down.,0.632308,ok,session_mode
+2026-07-07T09:29:27Z,en,increase volume,session_volume_up,ok,Volume up.,0.521699,ok,session_mode
+2026-07-07T09:29:36Z,en,pause video,session_pause,ok,Paused.,0.011540,ok,session_mode
+2026-07-07T09:31:32Z,en,resume video,session_resume,ok,Resumed.,0.011101,ok,session_mode
+2026-07-07T09:31:40Z,en,pause video,session_pause,ok,Paused.,0.015865,ok,session_mode
+2026-07-07T09:31:47Z,en,alright stop automation,session_stop,,Session stopped.,0.079997,ok,session_mode
+2026-07-07T09:32:37Z,zh,请打开谷歌地图,session_google_maps,google_maps,自动化运行中在 谷歌地图 ,3.372098,ok,
+2026-07-07T09:32:53Z,zh,search 马六甲,session_search,ok,完成。,0.849186,ok,session_mode
+2026-07-07T09:33:05Z,zh,search 喜马拉雅,session_search,ok,完成。,0.368482,ok,session_mode
+2026-07-07T09:33:15Z,zh,stop automation,session_stop,,已结束会话。,0.077654,ok,session_mode
+2026-07-07T09:33:50Z,en,hello good evening please open WhatsApp,session_whatsapp,whatsapp,Automation is running on WhatsApp.,2.165936,ok,
+2026-07-07T09:34:02Z,en,select first chat,session_select_chat_index,ok_index_1,Selected the chat.,0.463384,ok,session_mode
+2026-07-07T09:34:12Z,en,search user you,session_search_chat,ok,Search updated.,0.803343,ok,session_mode
+2026-07-07T09:34:21Z,en,select first chat,session_select_chat_index,ok_index_1,Selected the chat.,0.457129,ok,session_mode
+2026-07-07T09:34:30Z,en,enter How are you from automation,session_type_text,ok,Typed.,0.829037,ok,session_mode
+2026-07-07T09:34:39Z,en,clear message,session_clear_message,ok,Cleared the message.,0.255052,ok,session_mode
+2026-07-07T09:34:47Z,en,enter this is automation again,session_type_text,ok,Typed.,0.765125,ok,session_mode
+2026-07-07T09:34:55Z,en,send message,session_send,ok,Sent.,0.254578,ok,session_mode
+2026-07-07T09:35:05Z,en,stop automation,session_stop,,Session stopped.,0.000037,ok,session_mode
+2026-07-07T10:29:37Z,en,thank you for your time,none,,"I didn't match a system command. You can say: set a timer, take a screenshot, open YouTube, or search the web.",0.002389,no_match,no_match
+2026-07-13T06:04:03Z,en,thank you for your time,none,,"I didn't match a system command. You can say: set a timer, take a screenshot, open YouTube, or search the web.",0.005168,no_match,no_match
+2026-07-13T06:04:39Z,en,thank you for your time have a nice day,none,,"I didn't match a system command. You can say: set a timer, take a screenshot, open YouTube, or search the web.",0.000174,no_match,no_match
+2026-07-13T06:04:55Z,en,thank you Friday for your help,none,,"I didn't match a system command. You can say: set a timer, take a screenshot, open YouTube, or search the web.",0.000139,no_match,no_match
+2026-07-13T06:05:33Z,en,please open WhatsApp,session_whatsapp,whatsapp,Automation is running on WhatsApp.,2.314897,ok,
+2026-07-13T06:05:44Z,en,Select second chat,session_select_chat_index,ok_index_2,Selected the chat.,0.462092,ok,session_mode
+2026-07-13T06:05:53Z,en,search user you,session_search_chat,ok,Search updated.,0.806500,ok,session_mode
+2026-07-13T06:06:02Z,en,Select second chat,session_select_chat_index,ok_index_2,Selected the chat.,0.456008,ok,session_mode
+2026-07-13T06:06:10Z,en,stop automation,session_stop,,Session stopped.,0.000061,ok,session_mode
+2026-07-13T09:16:58Z,en,what time is it,time,17:16:58,The time is 17:16:58.,0.000824,ok,
+2026-07-13T09:17:31Z,en,fantastic now open Notepad for me,open_app,notepad,Opening Notepad now.,0.198949,ok,
+2026-07-13T09:18:13Z,zh,Hi你好能告诉我今天是什么日期吗,date,2026-07-13,今天是 2026-07-13。,0.000232,ok,
+2026-07-13T12:58:36Z,en,what time is it,time,20:58:36,The time is 20:58:36.,0.001057,ok,
+2026-07-13T12:58:51Z,en,please open Notepad for me,open_app,notepad,Opening Notepad now.,0.189728,ok,
+2026-07-13T12:59:32Z,zh,Hi你好请问今天的日期是什么,date,2026-07-13,今天是 2026-07-13。,0.000269,ok,
+2026-07-13T13:01:31Z,en,hey please open YouTube,session_youtube,youtube,Automation is running on YouTube.,5.292185,ok,
+2026-07-13T13:01:45Z,en,alright search Justin Bieber,session_unparsed,alright search Justin Bieber,"I did not understand, please try the following commands:
+- Search Justin Bieber
+- Play First
+- Pause / Resume Video
+- Increase / Decrease volume
+- Stop Automation",0.003185,no_match,session_no_match
+2026-07-13T13:01:56Z,en,search Justin Bieber,session_search,ok,Done.,3.626537,ok,session_mode
+2026-07-13T13:02:07Z,en,could you play me the first one,session_play_first,ok,Playing the first video.,1.745062,ok,session_mode
+2026-07-13T13:02:25Z,en,pause video,session_pause,ok,Paused.,0.118704,ok,session_mode
+2026-07-13T13:03:01Z,en,stop automation,session_stop,,Session stopped.,0.102101,ok,session_mode
+2026-07-13T13:50:56Z,en,what time is it,time,21:50:56,The time is 21:50:56.,0.000074,ok,
+2026-07-13T13:51:24Z,en,open Notepad for me,open_app,notepad,Opening Notepad now.,0.106943,ok,
+2026-07-13T13:52:17Z,zh,你好今天的日期是什么,date,2026-07-13,今天是 2026-07-13。,0.000239,ok,
+2026-07-13T13:52:32Z,zh,好的谢谢你那一家三等,none,,未识别为系统指令。你可以说：计时、截图、打开 YouTube、或网页搜索。,0.000835,no_match,no_match
+2026-07-13T13:53:55Z,zh,Hello I would like to open YouTube,session_youtube,youtube,自动化运行中在 YouTube ,3.072371,ok,
+2026-07-13T13:54:15Z,zh,pieces yellow,session_unparsed,pieces yellow,"我不明白，请尝试以下命令：
+- 搜索周杰伦
+- 播放第一个
+- 暂停音乐 / 继续播放
+- 调高/调低音量
+- 停止自动化",0.000142,no_match,session_no_match
+2026-07-13T13:54:27Z,zh,stop automation,session_stop,,已结束会话。,0.089340,ok,session_mode
+2026-07-13T13:54:39Z,en,hello please open YouTube,session_youtube,youtube,Automation is running on YouTube.,2.345580,ok,
+2026-07-13T13:54:50Z,en,thank you please search Yellow,session_unparsed,thank you please search Yellow,"I did not understand, please try the following commands:
+- Search Justin Bieber
+- Play First
+- Pause / Resume Video
+- Increase / Decrease volume
+- Stop Automation",0.000071,no_match,session_no_match
+2026-07-13T13:55:00Z,en,search Yellow,session_search,ok,Done.,3.549223,ok,session_mode
+2026-07-13T13:55:11Z,en,play the first one,session_play_first,ok,Playing the first video.,1.689694,ok,session_mode
+2026-07-13T13:55:27Z,en,pause video,session_pause,ok,Paused.,0.011606,ok,session_mode
+2026-07-13T13:55:34Z,en,resume video,session_resume,ok,Resumed.,0.008919,ok,session_mode
+2026-07-13T13:55:42Z,en,increase volume,session_volume_up,ok,Volume up.,0.426986,ok,session_mode
+2026-07-13T13:55:50Z,en,increase the volume,session_unparsed,increase the volume,"I did not understand, please try the following commands:
+- Search Justin Bieber
+- Play First
+- Pause / Resume Video
+- Increase / Decrease volume
+- Stop Automation",0.000058,no_match,session_no_match
+2026-07-13T13:56:00Z,en,decrease volume,session_volume_down,ok,Volume down.,0.400275,ok,session_mode
+2026-07-13T13:56:09Z,en,stop pause video,session_pause,ok,Paused.,0.010771,ok,session_mode
+2026-07-13T13:56:16Z,en,stop automation,session_stop,,Session stopped.,0.085050,ok,session_mode
+2026-07-13T14:01:49Z,en,what time is it,time,22:01:49,The time is 22:01:49.,0.000068,ok,
+2026-07-13T14:02:14Z,en,open Notepad,open_app,notepad,Opening Notepad now.,0.100258,ok,
+2026-07-13T14:07:13Z,en,hello please open YouTube,session_youtube,youtube,Automation is running on YouTube.,2.722149,ok,
+2026-07-13T14:07:24Z,en,search Yellow,session_search,ok,Done.,3.610730,ok,session_mode
+2026-07-13T14:07:35Z,en,ok play the first one,session_play_first,ok,Playing the first video.,1.667856,ok,session_mode
+2026-07-13T14:07:50Z,en,could you increase the volume,session_unparsed,could you increase the volume,"I did not understand, please try the following commands:
+- Search Justin Bieber
+- Play First
+- Pause / Resume Video
+- Increase / Decrease volume
+- Stop Automation",0.000079,no_match,session_no_match
+2026-07-13T14:08:00Z,en,increase the volume,session_unparsed,increase the volume,"I did not understand, please try the following commands:
+- Search Justin Bieber
+- Play First
+- Pause / Resume Video
+- Increase / Decrease volume
+- Stop Automation",0.000064,no_match,session_no_match
+2026-07-13T14:08:10Z,en,could you increase volume,session_volume_up,ok,Volume up.,0.457140,ok,session_mode
+2026-07-13T14:08:18Z,en,pause video,session_pause,ok,Paused.,0.010964,ok,session_mode
+2026-07-13T14:08:56Z,en,pause video,session_pause,ok,Paused.,0.008296,ok,session_mode
+2026-07-13T14:09:03Z,en,thank you stop automation,session_stop,,Session stopped.,0.073107,ok,session_mode
+2026-07-13T14:13:14Z,en,hello please open WhatsApp,session_whatsapp,whatsapp,Automation is running on WhatsApp.,2.224373,ok,
+2026-07-13T14:13:25Z,en,thank you select first chat,session_unparsed,thank you select first chat,"I did not understand, please try the following commands:
+- Search user James
+- Select first/second/third chat
+- Enter Good Morning
+- Clear Message
+- Stop Automation",0.000039,no_match,session_no_match
+2026-07-13T14:13:35Z,en,select first chat,session_select_chat_index,ok_index_1,Selected the chat.,0.468354,ok,session_mode
+2026-07-13T14:13:44Z,en,search user PG,session_search_chat,ok,Search updated.,0.770526,ok,session_mode
+2026-07-13T14:13:58Z,en,select first chat,session_select_chat_index,ok_index_1,Selected the chat.,0.457399,ok,session_mode
+2026-07-13T14:14:07Z,en,hi how are you today,session_unparsed,hi how are you today,"I did not understand, please try the following commands:
+- Search user James
+- Select first/second/third chat
+- Enter Good Morning
+- Clear Message
+- Stop Automation",0.000044,no_match,session_no_match
+2026-07-13T14:14:18Z,en,do you want to play badminton today,session_unparsed,do you want to play badminton today,"I did not understand, please try the following commands:
+- Search user James
+- Select first/second/third chat
+- Enter Good Morning
+- Clear Message
+- Stop Automation",0.000050,no_match,session_no_match
+2026-07-13T14:14:29Z,en,enter do you want to play badminton today,session_type_text,ok,Typed.,1.037985,ok,session_mode
+2026-07-13T14:14:37Z,en,clear message,session_clear_message,ok,Cleared the message.,0.257793,ok,session_mode
+2026-07-13T14:14:45Z,en,stop automation,session_stop,,Session stopped.,0.000054,ok,session_mode
+2026-07-13T14:57:49Z,en,thank you for information now open Notepad,open_app,notepad,Opening Notepad now.,0.103535,ok,
+2026-07-13T15:00:09Z,en,hi please open YouTube,session_youtube,youtube,Automation is running on YouTube.,2.582248,ok,
+2026-07-13T15:00:20Z,en,search Yellow,session_search,ok,Done.,3.594237,ok,session_mode
+2026-07-13T15:00:31Z,en,ok play the first video,session_play_first,ok,Playing the first video.,1.693368,ok,session_mode
+2026-07-13T15:00:41Z,en,thanks increase volume,session_volume_up,ok,Volume up.,0.403816,ok,session_mode
+2026-07-13T15:01:16Z,en,resume video,session_resume,ok,Resumed.,0.007799,ok,session_mode
+2026-07-13T15:01:23Z,en,pause video,session_pause,ok,Paused.,0.007303,ok,session_mode
+2026-07-13T15:01:30Z,en,thank you stop automation,session_stop,,Session stopped.,0.048354,ok,session_mode
+2026-07-13T15:04:26Z,en,hi please open WhatsApp,session_whatsapp,whatsapp,Automation is running on WhatsApp.,2.161601,ok,
+2026-07-13T15:04:37Z,en,select first chat,session_select_chat_index,ok_index_1,Selected the chat.,0.456317,ok,session_mode
+2026-07-13T15:05:15Z,en,thank you stop automation,session_stop,,Session stopped.,0.000048,ok,session_mode
+2026-07-13T15:26:39Z,en,open Notepad for me,open_app,notepad,Opening Notepad now.,0.110232,ok,
+2026-07-13T15:30:33Z,en,good morning please open YouTube,session_youtube,youtube,Automation is running on YouTube.,2.927943,ok,
+2026-07-13T15:30:45Z,en,search Yellow,session_search,ok,Done.,3.627561,ok,session_mode
+2026-07-13T15:30:56Z,en,ok play the first video,session_play_first,ok,Playing the first video.,1.670826,ok,session_mode
+2026-07-13T15:31:06Z,en,thanks increase volume,session_volume_up,ok,Volume up.,0.536132,ok,session_mode
+2026-07-13T15:31:14Z,en,pause video,session_pause,ok,Paused.,0.009960,ok,session_mode
+2026-07-13T15:31:53Z,en,pause video,session_pause,ok,Paused.,0.010370,ok,session_mode
+2026-07-13T15:32:00Z,en,stop automation,session_stop,,Session stopped.,0.113277,ok,session_mode
+2026-07-13T15:34:52Z,en,hi please open WhatsApp,session_whatsapp,whatsapp,Automation is running on WhatsApp.,2.151165,ok,
+2026-07-13T15:35:03Z,en,Select second chat,session_select_chat_index,ok_index_2,Selected the chat.,0.458749,ok,session_mode
+2026-07-13T15:35:33Z,en,enter location,session_type_text,ok,Typed.,0.435858,ok,session_mode
+2026-07-13T15:35:41Z,en,clear message,session_clear_message,ok,Cleared the message.,0.256541,ok,session_mode
+2026-07-13T15:35:49Z,en,enter no problem,session_type_text,ok,Typed.,0.465621,ok,session_mode
+2026-07-13T15:35:56Z,en,stop automation,session_stop,,Session stopped.,0.000046,ok,session_mode
+2026-07-14T00:23:59Z,en,thank you for your information open Notepad,open_app,notepad,Opening Notepad now.,0.188516,ok,
+2026-07-14T00:26:00Z,en,hello please open YouTube,session_youtube,youtube,Automation is running on YouTube.,3.721974,ok,
+2026-07-14T00:26:12Z,en,search Yellow,session_search,ok,Done.,3.639180,ok,session_mode
+2026-07-14T00:26:23Z,en,ok play first,session_play_first,ok,Playing the first video.,14.123960,ok,session_mode
+2026-07-14T00:26:46Z,en,pause video,session_pause,ok,Paused.,0.084845,ok,session_mode
+2026-07-14T00:27:32Z,en,pause video,session_pause,ok,Paused.,0.008803,ok,session_mode
+2026-07-14T00:27:39Z,en,stop automation,session_stop,,Session stopped.,0.126840,ok,session_mode
+2026-07-14T00:30:11Z,en,hi please open WhatsApp,session_whatsapp,whatsapp,Automation is running on WhatsApp.,2.229081,ok,
+2026-07-14T00:30:22Z,en,select first check,session_unparsed,select first check,"I did not understand, please try the following commands:
+- Search user James
+- Select first/second/third chat
+- Enter Good Morning
+- Clear Message
+- Stop Automation",0.000044,no_match,session_no_match
+2026-07-14T00:30:33Z,en,select first chat,session_select_chat_index,ok_index_1,Selected the chat.,0.458148,ok,session_mode
+2026-07-14T00:30:41Z,en,select third chat,session_select_chat_index,ok_index_3,Selected the chat.,0.455835,ok,session_mode
+2026-07-14T00:30:50Z,en,search user you,session_search_chat,ok,Search updated.,0.801339,ok,session_mode
+2026-07-14T00:31:00Z,en,select first chat,session_select_chat_index,ok_index_1,Selected the chat.,0.461587,ok,session_mode
+2026-07-14T00:31:08Z,en,hi how are you today,session_unparsed,hi how are you today,"I did not understand, please try the following commands:
+- Search user James
+- Select first/second/third chat
+- Enter Good Morning
+- Clear Message
+- Stop Automation",0.000062,no_match,session_no_match
+2026-07-14T00:31:18Z,en,enter how are you today,session_type_text,ok,Typed.,0.612600,ok,session_mode
+2026-07-14T00:31:55Z,en,stop automation,session_stop,,Session stopped.,0.000055,ok,session_mode
+2026-07-14T00:32:56Z,en,hello could you open YouTube,session_youtube,youtube,Automation is running on YouTube.,2.503827,ok,
+2026-07-14T00:33:07Z,en,search Yellow,session_search,ok,Done.,3.627200,ok,session_mode
+2026-07-14T00:33:18Z,en,ok could you play first,session_play_first,ok,Playing the first video.,1.672704,ok,session_mode
+2026-07-14T00:33:28Z,en,stop automation,session_stop,,Session stopped.,0.043687,ok,session_mode
+2026-07-14T03:20:52Z,en,thank you for information please open Notepad,open_app,notepad,Opening Notepad now.,0.333562,ok,
+2026-07-14T03:22:31Z,en,hi there please open YouTube,session_youtube,youtube,Automation is running on YouTube.,4.192290,ok,
+2026-07-14T03:22:45Z,en,search Yellow,session_search,ok,Done.,3.633130,ok,session_mode
+2026-07-14T03:22:56Z,en,ok play first,session_play_first,ok,Playing the first video.,1.669309,ok,session_mode
+2026-07-14T03:23:05Z,en,could you increase volume,session_volume_up,ok,Volume up.,0.490665,ok,session_mode
+2026-07-14T03:23:38Z,en,pause video,session_pause,ok,Paused.,0.084621,ok,session_mode
+2026-07-14T03:23:45Z,en,stop automation,session_stop,,Session stopped.,0.078783,ok,session_mode
+2026-07-14T03:26:32Z,en,hi please open WhatsApp,session_whatsapp,whatsapp,Automation is running on WhatsApp.,2.227715,ok,
+2026-07-14T03:26:43Z,en,Select second chat,session_select_chat_index,ok_index_2,Selected the chat.,0.459585,ok,session_mode
+2026-07-14T03:26:52Z,en,enter do you want to play badminton this is my,session_type_text,ok,Typed.,1.133110,ok,session_mode
+2026-07-14T03:27:00Z,en,send message,session_send,ok,Sent.,0.254198,ok,session_mode
+2026-07-14T03:27:31Z,en,thank you stop automation,session_stop,,Session stopped.,0.000067,ok,session_mode
+2026-07-29T09:09:49Z,en,hi good morning open WhatsApp,session_whatsapp,whatsapp,Automation is running on WhatsApp.,2.260931,ok,
+2026-07-29T09:10:01Z,en,select first chat,session_select_chat_index,ok_index_1,Selected the chat.,0.461283,ok,session_mode
+2026-07-29T09:10:10Z,en,stop automation,session_stop,,Session stopped.,0.000043,ok,session_mode

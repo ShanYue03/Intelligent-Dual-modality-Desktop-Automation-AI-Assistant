@@ -1,0 +1,652 @@
+timestamp_utc,model_id,user_prompt,response,latency_s,status,router_uncertain
+2026-05-14T07:43:03Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+User said (transcribed in English): good morning can you explain the meaning of life","Good morning. The meaning of life is a complex and subjective concept that varies across cultures and individuals, but it often involves finding purpose, happiness, and fulfillment through personal growth, relationships, and contributions to society.",0.5982,ok,False
+2026-05-14T07:44:35Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+User said (transcribed in English): good afternoon what is 2 * 2",Good afternoon. The result of 2 multiplied by 2 is 4.,1.2781,ok,False
+2026-05-14T07:50:14Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in Simplified Chinese, concise (about 1–3 short sentences).
+User said (transcribed in English): Hello, can you tell me what the computer field is?",你好，我可以告诉你，计算机领域是指研究和开发计算机硬件、软件、网络等技术的领域。,0.5898,ok,False
+2026-05-14T07:54:58Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+User said (transcribed in English): hi could you tell me what is the difference between computer science and data science","Computer science focuses on the design, development, and testing of computer systems and algorithms, while data science combines computer science with domain expertise to extract insights from data. Data science involves data analysis, machine learning, and visualization to inform business decisions.",0.4095,ok,False
+2026-05-14T08:00:21Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+User said (transcribed in English): hi May I know what is the meaning of text",You didn't specify the text. Please provide the text you'd like me to explain.,0.8117,ok,False
+2026-05-14T08:09:37Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+User said (transcribed in English): can you tell me who is Stephen Curry",Stephen Curry is an American professional basketball player who plays as a point guard for the Golden State Warriors in the NBA. He is a two-time NBA champion and two-time NBA MVP.,0.2541,ok,False
+2026-05-14T08:11:22Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+User said (transcribed in English): can you tell me what is LeBron James famous for","LeBron James is a professional basketball player, widely regarded as one of the greatest of all time. He's a four-time NBA champion and four-time NBA Most Valuable Player.",0.3003,ok,False
+2026-05-14T08:16:57Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+User said (transcribed in English): can you tell me what is the meaning of data scientist","A data scientist is a professional who collects, analyzes, and interprets complex data to gain insights and make informed decisions. They use statistical techniques, machine learning algorithms, and data visualization tools to extract valuable information from large datasets.",1.3408,ok,False
+2026-05-14T08:23:11Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+User said (transcribed in English): can you explain to me what is the result of 2 + 2",The result of 2 + 2 is 4.,0.3465,ok,False
+2026-05-14T08:53:28Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+User said (transcribed in English): good morning what is 2 * 2 = 2","Good morning. The calculation 2 * 2 equals 4, not 2.",0.6912,ok,False
+2026-05-14T08:54:07Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+User said (transcribed in English): good morning what is the meaning of life","Good morning. The meaning of life is a complex and subjective question, often debated by philosophers, scientists, and spiritual leaders, with no definitive answer. It's a personal and ongoing exploration for many.",0.3152,ok,False
+2026-05-14T08:54:54Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+User said (transcribed in English): hi there could you help me to take a screenshot","To take a screenshot, press the Windows key + Print Screen on Windows or Command + Shift + 4 on Mac.",0.2898,ok,False
+2026-05-14T08:56:44Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in Simplified Chinese, concise (about 1–3 short sentences).
+User said (transcribed in English): Hello, can you tell me what is the Internet?",您好！互联网是全球连接计算机和设备的网络，允许用户通过网络浏览器或应用程序访问信息和服务。,0.3611,ok,False
+2026-05-14T09:01:16Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+User said (transcribed in English): I am very sad could you cheer me up",I'm here to help. Let's listen to some uplifting music or watch a funny cat video together. How does that sound?,1.3448,ok,False
+2026-05-14T13:19:36Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in Simplified Chinese, concise (about 1–3 short sentences).
+User said (transcribed in English): Can you tell me what computer technology is?",计算机技术是指使用计算机硬件和软件来处理信息和解决问题的技术。,1.8060,ok,False
+2026-05-14T13:20:13Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+User said (transcribed in English): good evening what is the meaning of data science between computer science difference","Good evening. Data science is a field that combines computer science, statistics, and domain expertise to extract insights and knowledge from data. It's a subset of computer science that focuses on data analysis, interpretation, and visualization.",0.4336,ok,False
+2026-05-14T13:21:47Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in Simplified Chinese, concise (about 1–3 short sentences).
+User said (transcribed in English): Can you please tell me whether data science or computer comparative thinking in this modern society?",在现代社会中，数据科学和计算机比较思考（Computational Thinking）都是非常重要的技能。数据科学更侧重于数据分析和可视化，而计算机比较思考则是解决问题的通用方法。,1.6458,ok,False
+2026-05-14T13:22:44Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in Simplified Chinese, concise (about 1–3 short sentences).
+The intent classifier was uncertain whether this is a system command. Interpret what the user wants, answer helpfully, and briefly confirm your understanding.
+User said (transcribed in English): Can you tell me whether data science or computing will be more popular in the next 10 years?",根据您的问题，我理解您想知道未来10年中数据科学和计算机领域的发展趋势。根据当前趋势，数据科学的需求会持续增长，因为数据在商业和技术中的应用日益广泛。,0.4140,ok,True
+2026-05-14T13:27:35Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+User said (transcribed in English): tell me the trend of computer science in the next 20 years","Based on current advancements, computer science is expected to trend towards:
+
+- Increased adoption of Artificial Intelligence (AI) and Machine Learning (ML) in various industries.
+- Growing importance of Quantum Computing and its applications in fields like cryptography and optimization.
+- Rising focus on Cybersecurity to protect against emerging threats and vulnerabilities.",10.6184,ok,False
+2026-05-15T15:24:49Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+User said (transcribed in English): tell me briefly what is agentic AI","Agentic AI refers to artificial intelligence that exhibits autonomous decision-making and goal-directed behavior, similar to human agency. It can take initiative, make choices, and adapt to situations without explicit human instructions.",0.9259,ok,False
+2026-05-15T15:25:35Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+User said (transcribed in English): tell me in short sentence what is agentic AI","Agentic AI refers to artificial intelligence that exhibits autonomous decision-making and goal-directed behavior, often mimicking human agency.",0.3493,ok,False
+2026-05-16T08:35:48Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in Simplified Chinese, concise (about 1–3 short sentences).
+User said (transcribed in English): 可以告诉我马来西亚未来发展趋势吗",马来西亚未来发展趋势将重点在数字经济、绿色能源和创新技术上。政府也将推动制造业和旅游业的发展。,0.4398,ok,False
+2026-05-16T08:37:21Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in Simplified Chinese, concise (about 1–3 short sentences).
+User said (transcribed in English): 解释什么是数字经济",数字经济是指在数字化环境下进行的经济活动，包括电子商务、在线支付、数字货币等。,0.3098,ok,False
+2026-05-16T08:43:43Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in Simplified Chinese, concise (about 1–3 short sentences).
+User said (transcribed in English): Tell me which major is most suitable for digital economy?",数字经济最合适的专业是数据科学、人工智能、网络安全和电子商务等。,0.3654,ok,False
+2026-05-18T05:53:11Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+User said (transcribed in English): good morning how are you","Good morning, I'm functioning properly. How can I assist you today?",0.7112,ok,False
+2026-05-18T06:21:38Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+User said (transcribed in English): hi there how are you","I'm functioning properly, thank you for asking. How can I assist you today?",0.6299,ok,False
+2026-05-18T06:32:17Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The intent classifier was uncertain whether this is a system command. Interpret what the user wants, answer helpfully, and briefly confirm your understanding.
+User said (transcribed in English): please take screenshot","I'm not capable of taking screenshots. To capture a screenshot, you can use the keyboard shortcut Ctrl + Print Screen (Windows) or Command + Shift + 4 (Mac). 
+
+Did you want to know the keyboard shortcut for taking a screenshot?",0.7616,ok,True
+2026-05-18T07:17:10Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+User said (transcribed in English): hi there good morning what is the meaning of computer science","Good morning. Computer science is the study of the theory, design, and implementation of computer systems and algorithms to solve real-world problems. It encompasses a wide range of fields, including programming, data analysis, and artificial intelligence.",0.4766,ok,False
+2026-05-18T07:17:53Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in Simplified Chinese, concise (about 1–3 short sentences).
+User said (transcribed in English): Hello, can you tell me what is the Internet?",你好。互联网是全球范围内的计算机网络，通过互联网可以访问大量的信息和服务。,0.3101,ok,False
+2026-05-18T07:25:02Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+User said (transcribed in English): hello may I know the meaning of data science","Data science is the study of extracting insights and knowledge from data using various techniques, including machine learning, statistics, and programming. It involves analyzing and interpreting complex data to inform business decisions or solve real-world problems.",1.7090,ok,False
+2026-05-18T13:08:10Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+User said (transcribed in English): tell me what is 1 / 4",The result of 1 divided by 4 is 0.25.,0.5224,ok,False
+2026-05-18T13:46:46Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+User said (transcribed in English): hi what is the meaning of computer science","Computer science is the study of the theory, design, and implementation of computer systems and algorithms. It involves understanding the fundamental principles of computing and applying them to solve real-world problems.",2.7847,ok,False
+2026-05-18T14:16:43Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+User said (transcribed in English): hey Friday open downloads",You can access your downloads on Friday by going to the Files or Downloads section.,0.8137,ok,False
+2026-05-18T14:17:45Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+User said (transcribed in English): hey Friday open my downloads",Opening your downloads folder.,0.2894,ok,False
+2026-05-18T14:18:56Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+User said (transcribed in English): ija e tangi Tossa","I couldn't find any information on ""ija e tangi Tossa"". Could you provide more context or clarify what you are referring to?",0.3481,ok,False
+2026-05-18T14:20:57Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in Simplified Chinese, concise (about 1–3 short sentences).
+User said (transcribed in English): Can you tell me what one plus one equals?",1 + 1 = 2。,0.2377,ok,False
+2026-05-18T14:22:12Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+User said (transcribed in English): can you tell me what is computer science in software engineering","Computer science in software engineering refers to the study and application of algorithms, data structures, and software design principles to develop efficient and effective software solutions. It involves the use of computer systems, algorithms, and programming languages to solve real-world problems.",0.4324,ok,False
+2026-05-18T16:23:30Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The intent classifier was uncertain whether this is a system command. Interpret what the user wants, answer helpfully, and briefly confirm your understanding.
+User said (transcribed in English): please take screenshot","I'm not capable of taking screenshots. However, I can guide you on how to take a screenshot on your device. 
+
+Is it a Windows, Mac, or mobile device you're using?",1.7057,ok,True
+2026-05-23T03:36:15Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+User said (transcribed in English): good morning marino's what is the meaning of","Good morning. It seems like you're about to ask a question, could you please complete it?",0.5717,ok,False
+2026-05-23T03:36:30Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+User said (transcribed in English): may I know what is the meaning of computer science","Computer science is the study of the theory, design, and implementation of computer systems and algorithms. It involves the use of mathematical and logical techniques to solve problems and develop software, hardware, and networks.",0.3681,ok,False
+2026-05-23T08:37:53Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+User said (transcribed in English): what is the meaning of life","The meaning of life is a complex and subjective question that has been debated by philosophers, scientists, and theologians for centuries. It's a personal and existential inquiry that may vary from person to person. Some possible answers include finding happiness, pursuing purpose, or seeking spiritual fulfillment.",0.6870,ok,False
+2026-05-23T09:01:59Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The intent classifier was uncertain whether this is a system command. Interpret what the user wants, answer helpfully, and briefly confirm your understanding.
+User said (transcribed in English): please take screenshot",I'm not capable of taking screenshots. You can use the built-in screenshot feature on your device by pressing the power button and the volume down button simultaneously. Is there anything else I can help you with?,0.4273,ok,True
+2026-05-23T09:05:51Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+User said (transcribed in English): what is the meaning of life","The meaning of life is a complex and subjective question that has been debated by philosophers, scientists, and thinkers for centuries. It can be interpreted as finding purpose, happiness, and fulfillment in one's existence. Ultimately, it's a personal and individual answer that varies from person to person.",0.4467,ok,False
+2026-05-23T09:10:09Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+User said (transcribed in English): 1 + 1 = what",The answer is 2.,0.5877,ok,False
+2026-05-23T09:12:16Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in Simplified Chinese, concise (about 1–3 short sentences).
+The intent classifier was uncertain whether this is a system command. Interpret what the user wants, answer helpfully, and briefly confirm your understanding.
+User said (transcribed in English): What is three times nine?",您想知道 3 乘以 9 的结果。结果是 27。,0.5080,ok,True
+2026-05-23T15:45:02Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+User said (transcribed in English): good day what is 15 /",Good day. The result of 15 divided by 5 is 3.,0.5889,ok,False
+2026-05-23T15:45:18Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+User said (transcribed in English): good day what is the result of 15 / 9",Good day. The result of 15 divided by 9 is 1.67.,0.2297,ok,False
+2026-05-23T16:01:22Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in Simplified Chinese, concise (about 1–3 short sentences).
+User said (transcribed in English): What is five times 15?",五乘以 15 等于 75。,0.2770,ok,False
+2026-05-23T16:01:39Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in Simplified Chinese, concise (about 1–3 short sentences).
+User said (transcribed in English): What is 75 divided by 2?",答案是 75 除以 2 等于 37.5。,0.2364,ok,False
+2026-05-23T16:01:54Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+User said (transcribed in English): what is the answer for 5 / 3",The answer is 1.6667.,0.2057,ok,False
+2026-05-23T16:39:50Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+User said (transcribed in English): good morning how are you today","Good morning, I'm functioning properly. How can I assist you today?",0.4911,ok,False
+2026-05-23T16:42:13Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+User said (transcribed in English): what is 1 + 1",The result of 1 + 1 is 2.,0.1856,ok,False
+2026-05-23T16:52:13Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in Simplified Chinese, concise (about 1–3 short sentences).
+User said (transcribed in English): What is one plus one equal to?",答案是 1 + 1 = 2。,0.4646,ok,False
+2026-05-23T16:54:09Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in Simplified Chinese, concise (about 1–3 short sentences).
+User said (transcribed in English): What is one plus five?",答案是 6。,0.2826,ok,False
+2026-05-23T16:54:22Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+User said (transcribed in English): what is 3 * 3",The result of 3 multiplied by 3 is 9.,0.4114,ok,False
+2026-05-23T16:58:24Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+User said (transcribed in English): can you explain what is the meaning of computer science","Computer science is the study of the theory, design, and implementation of computer systems and algorithms. It involves understanding the fundamental principles of computing, including software, hardware, and networking.",0.3146,ok,False
+2026-05-24T05:04:46Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+User said (transcribed in English): what is 1 + 1",The result of 1 + 1 is 2.,0.4239,ok,False
+2026-05-24T05:29:48Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+User said (transcribed in English): good morning","Good morning, how can I assist you today?",0.2552,ok,False
+2026-05-24T06:15:37Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+User said (transcribed in English): good morning how are you today","Good morning, I'm functioning properly. How can I assist you today?",0.5637,ok,False
+2026-05-24T07:58:17Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+User said (transcribed in English): good morning how are you","Good morning, I'm functioning properly. How can I assist you today?",0.3501,ok,False
+2026-05-24T15:30:57Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+User said (transcribed in English): hi good morning what is 3 * 3",Good morning. The result of 3 multiplied by 3 is 9.,0.5803,ok,False
+2026-05-24T15:41:51Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+User said (transcribed in English): hi there what is 1 / 5",The result of 1 divided by 5 is 0.2.,0.3375,ok,False
+2026-05-24T15:45:11Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in Simplified Chinese, concise (about 1–3 short sentences).
+User said (transcribed in English): Hello, can you chat with me?",你好，我可以和你聊天。我们可以开始聊天了。,0.3501,ok,False
+2026-05-24T15:45:37Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in Simplified Chinese, concise (about 1–3 short sentences).
+User said (transcribed in English): What is one plus one equal to?",答案是 1 + 1 = 2。,0.2431,ok,False
+2026-05-24T15:47:14Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in Simplified Chinese, concise (about 1–3 short sentences).
+User said (transcribed in English): Can you explain where the science comes from?",科学起源于人类的观察和实验。古希腊哲学家，如亚里士多德，开始系统地研究自然现象。,0.3049,ok,False
+2026-05-24T15:51:59Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+User said (transcribed in English): explain to me the meaning of life","The meaning of life is a subjective concept that varies across cultures and individuals, but it often revolves around finding purpose, happiness, and fulfillment. It can be achieved through personal growth, relationships, and contributing to something greater than oneself. Ultimately, the meaning of life is a personal discovery.",0.6361,ok,False
+2026-05-24T15:52:30Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in Simplified Chinese, concise (about 1–3 short sentences).
+User said (transcribed in English): Explain what modern society needs",现代社会需要的是创新、协调和责任感。,1.3544,ok,False
+2026-06-01T02:37:36Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is Lee. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): good morning tell me a story","Good morning Lee, I'd be happy to tell you a story. Once upon a time, in a small village, there lived a little rabbit named Rosie who loved to explore the forest.",0.4066,ok,False
+2026-06-01T02:40:10Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is Lee. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): what is the meaning of life","A profound question, Lee. Philosophers and scholars have debated this topic for centuries, and there's no definitive answer. It's a personal and subjective inquiry that may vary from person to person.",0.3057,ok,False
+2026-06-01T02:40:32Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is Lee. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): explain to me computer science","Computer science is the study of algorithms, computer systems, and software that enable computers to process and store information. It involves the design, development, and testing of computer systems and applications.",0.4628,ok,False
+2026-06-01T02:41:09Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in Simplified Chinese, concise (about 1–3 short sentences).
+The current user's name is Lee. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): Hello, can you tell me a story?",李先生，今天晚上我给你讲一个关于月亮的故事。,0.2847,ok,False
+2026-06-01T02:43:37Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is Test. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): hello could you tell me a story","I'd be happy to tell you a story. Once upon a time, in a far-off kingdom, there lived a brave little rabbit named Rosie.",0.3494,ok,False
+2026-06-01T02:43:53Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is Test. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): good morning what is my name",Good morning Test. Your name is Test.,0.2453,ok,False
+2026-06-01T03:38:11Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is xinpei. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): hello what is my name","You haven't mentioned your name yet, xinpei. I don't have any information about your name.",0.6775,ok,False
+2026-06-01T03:38:28Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is xinpei. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): good morning tell me a story","Good morning xinpei. Once upon a time, in a small village, there lived a little rabbit named Luna who loved to explore the forest at night under the light of the full moon.",0.3396,ok,False
+2026-06-01T03:59:06Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is xinpei. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): hello",Hello xinpei. How can I assist you today?,0.2902,ok,False
+2026-06-01T03:59:59Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is xinpei. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): hello good morning",Good morning. What can I help you with today?,0.5299,ok,False
+2026-06-01T05:53:12Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is xinpei01. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): good morning what is my name",Good morning xinpei01. Your name is xinpei01.,0.3716,ok,False
+2026-06-01T05:53:30Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in Simplified Chinese, concise (about 1–3 short sentences).
+The current user's name is xinpei01. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): what is my name",您好，xinpei01。您的名字是您自己知道的。,0.4246,ok,False
+2026-06-01T05:54:14Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in Simplified Chinese, concise (about 1–3 short sentences).
+The current user's name is xinpei01. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): What is three plus five?",xinpei01，三加五等于八。,0.2814,ok,False
+2026-06-01T05:54:28Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is xinpei01. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): what is 3 / 3",The result of 3 divided by 3 is 1.,0.5002,ok,False
+2026-06-08T03:45:54Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is xinpei01. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): good morning please take screenshot",Taking screenshot now.,0.4032,ok,False
+2026-06-08T03:48:42Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is xinpei01. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): hello good morning how are you","Good morning. I'm functioning properly, thank you for asking. How can I assist you today?",0.3787,ok,False
+2026-06-08T03:50:02Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is xinpei01. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): what is 3 + 1 =",The result of 3 + 1 is 4.,0.4168,ok,False
+2026-06-08T04:29:59Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is lee. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): can you tell me what is",What would you like me to tell you about?,0.4888,ok,False
+2026-06-08T04:30:12Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is lee. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): what is the answer of 3 + 3",The answer to 3 + 3 is 6.,0.3624,ok,False
+2026-06-08T04:31:19Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is lee. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): can you explain what is the meaning of computer science","Computer science is the study of the theory, design, and implementation of computer systems and algorithms. It involves understanding the fundamental principles of computing, including software, hardware, and networking.",0.4645,ok,False
+2026-06-08T04:32:02Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in Simplified Chinese, concise (about 1–3 short sentences).
+The current user's name is lee. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): What is three plus one?",三加一等于四。,0.3621,ok,False
+2026-06-14T05:45:59Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is lee. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): please tell help me to take a screenshot","To take a screenshot, press the Windows key + Print Screen on Windows or Command + Shift + 4 on Mac.",1.0491,ok,False
+2026-06-14T05:46:54Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is lee. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): what is 3 - 1",The result of 3 - 1 is 2.,0.4919,ok,False
+2026-06-14T05:47:05Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is lee. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): hi Friday I'm very sad today","Sorry to hear that you're feeling sad, Lee. Would you like to talk about what's on your mind?",0.3600,ok,False
+2026-06-14T05:47:18Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is lee. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): I've been wondering can you explain to me what is computer science","Computer science is the study of algorithms, computer systems, and software to solve real-world problems. It combines mathematics, engineering, and science to design, develop, and analyze computer systems and algorithms.",3.8822,ok,False
+2026-06-14T05:51:25Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is lee. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): hello please tell me a story","Once upon a time, in a far-off kingdom, there lived a brave knight named Sir Edward. He had a magical sword that shone brightly in the dark, and a noble steed that could run faster than the wind.",0.4882,ok,False
+2026-06-14T06:07:34Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is lee. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): hi Friday do you know who am I","You're interacting with me, Lee. I don't have any prior information about your identity.",0.4887,ok,False
+2026-06-14T06:07:51Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is lee. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): do you know what's my name",Your name is Lee.,0.3053,ok,False
+2026-06-14T06:08:10Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is lee. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): great now do 4 / 2 for me","The calculation is 4 divided by 2, which equals 2.",0.2289,ok,False
+2026-06-14T06:08:31Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in Simplified Chinese, concise (about 1–3 short sentences).
+The current user's name is lee. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): Hello, can you tell me today's date?",今天是 2024 年 6 月 14 日。,0.3686,ok,False
+2026-06-14T06:08:53Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in Simplified Chinese, concise (about 1–3 short sentences).
+The current user's name is lee. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): Can you tell me the current time?",当前时间是 14:30。,0.2929,ok,False
+2026-06-14T06:09:13Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in Simplified Chinese, concise (about 1–3 short sentences).
+The current user's name is lee. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): Can you tell me today's date?",今天的日期是 2026 年 6 月 14 日。,0.7236,ok,False
+2026-06-14T06:17:08Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is yan02. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): hi Friday what's my name","Good morning. Your name is not mentioned in the conversation yet, but I can recall it from our previous interactions - you are yan02.",0.3826,ok,False
+2026-06-14T06:18:35Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is yan02. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): hi Friday what's my name","Good morning, yan02. Your name is yan02.",0.5740,ok,False
+2026-06-14T06:18:49Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is yan02. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): can you tell me the date for today",The current date is not available to me. Can you please provide the current year or month so I can give you the correct date?,0.4497,ok,False
+2026-06-14T06:20:14Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is yan02. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): hi Friday what's my name","Hello, your name is yan02.",0.2979,ok,False
+2026-06-14T06:20:26Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is yan02. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): what is 3 + 2",The result of 3 + 2 is 5.,0.1889,ok,False
+2026-06-14T06:20:46Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in Simplified Chinese, concise (about 1–3 short sentences).
+The current user's name is yan02. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): Can you tell me the time today?",今天的时间是 14:30。,0.7625,ok,False
+2026-06-14T06:23:07Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is yan02. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): good morning Friday","Good morning, it's Friday. Today's weather and schedule are available upon request.",0.3399,ok,False
+2026-06-14T06:23:22Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is yan02. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): can you tell me what's my name",Your name is yan02.,0.3522,ok,False
+2026-06-14T06:23:33Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is yan02. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): how much is 3 + 2",The result of 3 + 2 is 5.,0.2083,ok,False
+2026-06-14T06:23:48Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in Simplified Chinese, concise (about 1–3 short sentences).
+The current user's name is yan02. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): please tell me the current time",当前时间是 14:30。,0.2082,ok,False
+2026-06-14T06:28:32Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is yan02. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): good morning Friday","Good morning, it's Friday. Today's weather and schedule are available on your device.",0.4528,ok,False
+2026-06-14T06:28:47Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is yan02. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): can you tell me what's my name",Your name is yan02.,0.4654,ok,False
+2026-06-14T06:28:57Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is yan02. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): please tell me how much is 3 + 2",The result of 3 + 2 is 5.,0.3828,ok,False
+2026-06-14T06:29:13Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in Simplified Chinese, concise (about 1–3 short sentences).
+The current user's name is yan02. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): please tell me the current time",当前时间是 14:30。,0.2071,ok,False
+2026-06-14T07:45:03Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is yan02. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): hi good morning",Good morning. What can I help you with today?,0.5154,ok,False
+2026-06-26T08:30:28Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is yan02. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): hi good morning how are you today","Good morning, I'm functioning properly. How can I assist you today?",0.6803,ok,False
+2026-06-26T08:30:44Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is yan02. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): do you know what is my name",Your name is yan02.,0.4025,ok,False
+2026-06-26T08:31:01Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in Simplified Chinese, concise (about 1–3 short sentences).
+The current user's name is yan02. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): What is one plus one equal to?",答案是 1 + 1 = 2。,0.3581,ok,False
+2026-06-26T08:31:55Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is yan02. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): thank you so much","You're welcome, yan02.",0.5530,ok,False
+2026-06-27T08:36:32Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is chow03. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): hi do you know what is the meaning of Science","The term ""Science"" refers to a systematic study of the natural world through observation, experimentation, and evidence-based reasoning. It encompasses various fields, including physics, biology, chemistry, and more.",1.6249,ok,False
+2026-06-27T08:36:57Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is chow03. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): what is 1 / 5",The result of 1 divided by 5 is 0.2.,0.1855,ok,False
+2026-06-27T08:37:09Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is chow03. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): do you know how we get free food in the world","There are various programs and initiatives that provide free food worldwide, such as food banks, soup kitchens, and government assistance programs. Some organizations also offer free meals to those in need, like the Salvation Army. Would you like more information on these programs?",0.2988,ok,False
+2026-06-27T08:37:39Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in Simplified Chinese, concise (about 1–3 short sentences).
+The current user's name is chow03. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): Can you tell me today's date?",今天的日期是 2024 年 6 月 27 日。,0.2948,ok,False
+2026-06-27T08:38:21Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in Simplified Chinese, concise (about 1–3 short sentences).
+The current user's name is chow03. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): Can you tell me where it comes from in Malaysia? It’s simple.",您想知道马来西亚的哪个地方？,0.2496,ok,False
+2026-06-27T08:38:53Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in Simplified Chinese, concise (about 1–3 short sentences).
+The current user's name is chow03. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): Can you tell me the origin of Sabah, Malaysia?",Sabah 的起源可以追溯到公元前 1000 年左右的古代布鲁努人。,0.5096,ok,False
+2026-06-27T08:40:16Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is chow03. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): can you tell me how the world is created","The origin of the world is a complex and debated topic. According to scientific theories, the world was formed around 13.8 billion years ago through the Big Bang, a massive explosion that expanded the universe from a single point.",0.3188,ok,False
+2026-06-27T08:40:39Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is chow03. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): thank you so much","You're welcome, chow03.",0.1910,ok,False
+2026-06-28T05:23:50Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is chow03. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): hello good morning how are you","Good morning. I'm functioning properly, thank you for asking. How can I assist you today?",0.5575,ok,False
+2026-06-28T05:24:05Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is chow03. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): what is 1 - 3 = 2","That's incorrect, 1 - 3 does not equal 2. The correct calculation is 1 - 3 = -2.",0.2318,ok,False
+2026-07-06T14:56:15Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is chow03. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): may I ask who invented mathematics","Mathematics is a vast and ancient field, and its origins are not attributed to a single inventor. It evolved over time through contributions from various cultures and mathematicians.",2.2327,ok,False
+2026-07-06T14:56:57Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is chow03. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): can you explain to me who invented Python programming language","Chow03, the Python programming language was invented by Guido van Rossum in the late 1980s. He began working on Python in 1989 and released the first version in 1991.",4.3645,ok,False
+2026-07-07T05:23:43Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is Shanyue. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): good morning how are you","Good morning, I'm functioning properly.",0.3812,ok,False
+2026-07-07T05:23:54Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is Shanyue. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): do you know what is my name","Your name is not mentioned in our conversation history, Shanyue.",0.2144,ok,False
+2026-07-07T05:24:08Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is Shanyue. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): do you know what is my name","Your name is not mentioned in our conversation, Shanyue.",0.2931,ok,False
+2026-07-07T05:24:20Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is Shanyue. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): hi","Hello, how can I assist you today?",0.1836,ok,False
+2026-07-07T05:24:29Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is Shanyue. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): do you know who am I",You haven't shared your identity with me yet.,0.3265,ok,False
+2026-07-07T05:24:40Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is Shanyue. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): my name is Sharni","Hello Sharni, how can I assist you today?",0.3120,ok,False
+2026-07-07T05:24:50Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is Shanyue. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): do you know what is my name","Your name is not mentioned in our conversation history, Shanyue.",0.7342,ok,False
+2026-07-07T05:25:06Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is Shanyue. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): hi do you know me","I don't have any information about you, Shanyue. This is the start of our conversation. How can I assist you today?",0.2375,ok,False
+2026-07-07T05:26:10Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is Shanyue. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): hi how are you what is my name",I'm functioning properly. Your name is Shanyue.,0.2529,ok,False
+2026-07-07T05:28:42Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is Shanyue. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): good afternoon Friday how are you","Good afternoon. I'm functioning properly, thank you for asking.",0.2228,ok,False
+2026-07-07T05:29:22Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is Shanyue. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): could you tell me who invented the computer","The invention of the computer is a complex process, but Charles Babbage is often credited with designing the first mechanical computer, the Difference Engine, in the early 19th century.",0.4116,ok,False
+2026-07-07T05:30:18Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in Simplified Chinese, concise (about 1–3 short sentences).
+The current user's name is Shanyue. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): Okay, what is one plus one equal to?","Shanyue, 一加一等于 2。",0.2058,ok,False
+2026-07-07T06:13:01Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is Shanyue. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): good morning Friday how are you","Good morning. I'm functioning properly, thanks for asking.",0.4607,ok,False
+2026-07-07T06:14:13Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is Shanyue. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): hello good day Friday how are you","Good day, I'm functioning properly. What can I assist you with today?",1.3335,ok,False
+2026-07-07T06:14:38Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is Shanyue. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): excellent could you tell me who invented computer","The invention of the computer is a complex process that involved the contributions of many individuals over time. Charles Babbage is often credited with designing the first mechanical computer, the Difference Engine, in the early 19th century.",0.2558,ok,False
+2026-07-07T06:16:33Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is Shanyue. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): hello good day Friday how are you","Good day, I'm functioning properly. What can I assist you with today?",0.4680,ok,False
+2026-07-07T06:16:57Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is Shanyue. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): excellent job could you tell me who invented calculator","The invention of the calculator is credited to Blaise Pascal, who created the first mechanical calculator in 1642.",0.2923,ok,False
+2026-07-07T06:17:55Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in Simplified Chinese, concise (about 1–3 short sentences).
+The current user's name is Shanyue. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): Thank you very much. What is one plus one?",您很感谢。1+1等于2。,0.2639,ok,False
+2026-07-07T06:19:41Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is Shanyue. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): what is 1 + 1 =",The answer to 1 + 1 is 2.,0.2860,ok,False
+2026-07-07T06:19:51Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is Shanyue. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): good morning do you know who am I","Good morning Shanyue, I'm here to assist you. I don't have any prior information about your identity.",0.3593,ok,False
+2026-07-07T06:20:04Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is Shanyue. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): thank you so much","You're welcome, Shanyue.",0.3240,ok,False
+2026-07-07T06:21:11Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is Shanyue. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): good morning do you know who am I","Good morning Shanyue. I'm here to assist you, and I don't have any prior information about your identity.",0.2397,ok,False
+2026-07-07T06:21:37Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is Shanyue. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): excellent could you tell me who invented calculator","The invention of the calculator is credited to Blaise Pascal, who created the Pascaline in 1642.",0.2137,ok,False
+2026-07-07T06:22:31Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in Simplified Chinese, concise (about 1–3 short sentences).
+The current user's name is Shanyue. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): Okay, what is one plus one equal to?","Shanyue, 1 + 1 等于 2。",0.3000,ok,False
+2026-07-07T06:24:07Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is Shanyue. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): good morning do you know who am I","Good morning Shanyue. I'm here to assist you, and I don't have any prior information about your identity.",0.2127,ok,False
+2026-07-07T06:24:33Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is Shanyue. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): excellent no explain to me who invented calculator","The calculator was invented by Charles Babbage, an English mathematician, in the early 19th century.",0.3248,ok,False
+2026-07-07T06:25:15Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in Simplified Chinese, concise (about 1–3 short sentences).
+The current user's name is Shanyue. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): Hello, can you tell me today's date?",今天是 2026 年 7 月 7 日。,0.5099,ok,False
+2026-07-07T06:25:28Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in Simplified Chinese, concise (about 1–3 short sentences).
+The current user's name is Shanyue. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): Okay, what is one plus one equal to?","Shanyue, 一加一等于二。",0.3121,ok,False
+2026-07-07T07:09:50Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is Shanyue. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): hello good morning",Good morning. What can I help you with today?,0.4577,ok,False
+2026-07-07T07:10:00Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is Shanyue. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): what is 1 + 1",The result of 1 + 1 is 2.,0.3545,ok,False
+2026-07-07T07:16:16Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is Shanyue. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): good afternoon do you know who am I","Good afternoon Shanyue. I'm here to assist you, but you haven't told me your name yet.",0.2475,ok,False
+2026-07-07T07:16:42Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is Shanyue. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): excellent please tell me who invented calculator","The invention of the calculator is credited to Blaise Pascal, who created the Pascaline in 1642.",0.3127,ok,False
+2026-07-07T07:17:42Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in Simplified Chinese, concise (about 1–3 short sentences).
+The current user's name is Shanyue. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): Okay, what is one plus one equal to?","Shanyue, 一加一等于 2。",0.1999,ok,False
+2026-07-07T07:34:05Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is Shanyue. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): so previously thank you","You're welcome, Shanyue.",0.3261,ok,False
+2026-07-07T07:43:06Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is Shanyue. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): hi there good morning",Good morning. I'm here to help. How can I assist you today?,0.4852,ok,False
+2026-07-07T08:12:12Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is Shanyue. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): good morning Friday do you know who I am","Good morning Shanyue. I'm here to assist you, and I don't have any prior information about your identity.",1.0395,ok,False
+2026-07-07T08:12:40Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is Shanyue. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): excellent know let me know who invented calculator","The calculator was invented by Charles Babbage, an English mathematician, in the early 19th century.",0.3456,ok,False
+2026-07-07T08:13:31Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in Simplified Chinese, concise (about 1–3 short sentences).
+The current user's name is Shanyue. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): Okay, what is one plus one equal to?","Shanyue, 一加一等于2。",0.2679,ok,False
+2026-07-07T08:19:54Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is Shanyue. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): good morning Friday do you know who am I","Good morning Shanyue. You are interacting with me, your voice assistant.",0.4040,ok,False
+2026-07-07T08:20:18Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is Shanyue. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): excellent no explain to me who invented calculator","The calculator was invented by Charles Babbage, an English mathematician, in the early 19th century.",0.2357,ok,False
+2026-07-07T08:21:13Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in Simplified Chinese, concise (about 1–3 short sentences).
+The current user's name is Shanyue. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): Okay, what is one plus one equal to?","Shanyue, 一加一等于 2。",0.2798,ok,False
+2026-07-07T08:24:06Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is Shanyue. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): good morning Friday do you know who am I","Good morning Shanyue, I'm here to help. You're interacting with me, your voice assistant.",0.5879,ok,False
+2026-07-07T08:24:31Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is Shanyue. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): thanks tell me who invented calculator","The invention of the calculator is credited to Blaise Pascal, who created the Pascaline in 1642, and Gottfried Wilhelm Leibniz, who developed the first mechanical calculator in 1671.",1.4784,ok,False
+2026-07-07T08:29:28Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is Shanyue. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): good evening do you know who am I","Good evening Shanyue. I'm here to assist you, and I don't have any prior information about your identity.",0.2818,ok,False
+2026-07-07T08:29:54Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is Shanyue. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): excellent could you tell me who invented calculator","The invention of the calculator is credited to Blaise Pascal, who created the Pascaline in 1642, and Gottfried Wilhelm Leibniz, who developed the first mechanical calculator in 1671.",0.2582,ok,False
+2026-07-07T08:30:54Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in Simplified Chinese, concise (about 1–3 short sentences).
+The current user's name is Shanyue. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): Okay, what is one plus one equal to?","Shanyue, 一加一等于 2。",0.4854,ok,False
+2026-07-07T08:42:33Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is Shanyue. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): good morning do you know who am I","Good morning Shanyue. You're interacting with me, your voice assistant.",0.6939,ok,False
+2026-07-07T08:42:57Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is Shanyue. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): excellent could you let me know who invented calculator","The invention of the calculator is credited to Blaise Pascal, who created the Pascaline in 1642, and Gottfried Wilhelm Leibniz, who developed the first mechanical calculator in 1671.",2.0900,ok,False
+2026-07-07T08:44:14Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in Simplified Chinese, concise (about 1–3 short sentences).
+The current user's name is Shanyue. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): Okay, so what does one plus one equal?","Shanyue, 1 + 1 等于 2。",0.7368,ok,False
+2026-07-07T08:48:15Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is Shanyue. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): good evening do you know who am I","Good evening Shanyue. I'm not aware of any specific information about you, but I'm here to help with any questions or tasks you may have.",0.6306,ok,False
+2026-07-07T08:48:42Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is Shanyue. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): great job no tell me who invented calculator","The calculator was invented by Charles Babbage, an English mathematician, in the early 19th century.",0.2061,ok,False
+2026-07-07T08:49:38Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in Simplified Chinese, concise (about 1–3 short sentences).
+The current user's name is Shanyue. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): Okay, so what does one plus one equal?","Shanyue, 1 + 1 = 2。",0.5391,ok,False
+2026-07-07T09:20:51Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is Shanyue. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): good evening do you know who am I","Good evening Shanyue, I'm here to assist you. I don't have any prior information about your identity.",1.3967,ok,False
+2026-07-07T09:21:19Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is Shanyue. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): excellent could you let me know who invented calculator","The invention of the calculator is credited to Blaise Pascal, who created the Pascaline in 1642.",0.6746,ok,False
+2026-07-07T09:22:17Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in Simplified Chinese, concise (about 1–3 short sentences).
+The current user's name is Shanyue. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): Okay, what is one plus one equal to?",一加一等于二。,0.5154,ok,False
+2026-07-07T09:25:42Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is Shanyue. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): good evening do you know who am I",Good evening Shanyue. I don't have any information about your identity.,0.3004,ok,False
+2026-07-07T09:26:06Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is Shanyue. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): excellent know let me know who invented calculator","The calculator was invented by Charles Babbage, an English mathematician, in the early 19th century.",0.4738,ok,False
+2026-07-07T09:27:00Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in Simplified Chinese, concise (about 1–3 short sentences).
+The current user's name is Shanyue. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): Okay, what is one plus one equal to?","Shanyue, 一加一等于二。",0.4273,ok,False
+2026-07-07T10:21:54Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is Shanyue. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): hello thank you for your time","You're welcome, Shanyue. I'm here to assist you. How can I help today?",0.9480,ok,False
+2026-07-07T10:29:54Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is Shanyue. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): hi thank you so much for your time","You're welcome, Shanyue. I'm here to help. What can I assist you with today?",0.5092,ok,False
+2026-07-07T10:30:22Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is Shanyue. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): hello thank you so much for your time","You're welcome, Shanyue. I'm here to help. What can I assist you with today?",0.2618,ok,False
+2026-07-13T06:00:09Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is Shanyue. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): hi good morning how are you today","Good morning. I'm functioning properly, thank you for asking. How can I assist you today?",1.1693,ok,False
+2026-07-13T06:00:49Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is Shanyue. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): how are you today","I'm functioning within normal parameters, Shanyue. Everything seems to be working smoothly.",0.3328,ok,False
+2026-07-13T06:01:03Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is Shanyue. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): type how are you today","I'm functioning within normal parameters, Shanyue. Everything seems to be working smoothly.",0.2510,ok,False
+2026-07-13T06:01:17Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is Shanyue. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): enter hello","Hello, how can I assist you today?",0.2662,ok,False
+2026-07-13T06:05:11Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is Shanyue. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): hello thank you for your time","You're welcome, Shanyue. I'm here to assist you. How can I help today?",0.4477,ok,False
+2026-07-13T06:43:48Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is Shanyue. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): good morning hello","Good morning, how can I assist you today?",0.2721,ok,False
+2026-07-13T07:01:28Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is Shanyue. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): hello please set timer for 10 seconds",Timer set for 10 seconds.,0.4997,ok,False
+2026-07-13T09:16:40Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is Shanyue. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): good morning Friday how are you","Good morning, I'm functioning properly. Today is indeed Friday.",0.4706,ok,False
+2026-07-13T09:17:15Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is Shanyue. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): can you tell me who invented microsc","The invention of the microscope is credited to Zacharias Janssen, a Dutch spectacle maker, in the late 16th century.",0.3616,ok,False
+2026-07-13T09:18:27Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in Simplified Chinese, concise (about 1–3 short sentences).
+The current user's name is Shanyue. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): Okay, so what does one plus one equal?",Shanyue，1 加 1 等于 2。,0.3298,ok,False
+2026-07-13T09:19:45Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is Shanyue. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): hello","Hello, how can I assist you today?",0.2525,ok,False
+2026-07-13T12:13:55Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is Shanyue. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): hello what is 3 * 3 = 2","I think there might be a calculation error. 3 * 3 equals 9, not 2.",0.5850,ok,False
+2026-07-13T12:14:18Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is Shanyue. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): hello what is the answer of 3",The answer to 3 is 3.,0.2167,ok,False
+2026-07-13T12:14:29Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is Shanyue. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): hello what is the answer of 3 * 2",The answer to 3 * 2 is 6.,0.3238,ok,False
+2026-07-13T12:58:19Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is Shanyue. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): good morning Friday how are you today","Good morning. I'm functioning properly, thank you for asking.",0.3423,ok,False
+2026-07-13T12:59:46Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in Simplified Chinese, concise (about 1–3 short sentences).
+The current user's name is Shanyue. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): Excel is very good. What is one plus one?",好的，Shanyue。1+1等于2。,0.4722,ok,False
+2026-07-13T13:50:42Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is Shanyue. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): hi there good morning how are you today","Good morning. I'm functioning properly, thank you for asking. How can I assist you today?",0.4633,ok,False
+2026-07-13T13:51:07Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is Shanyue. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): could you tell me who invented school bags","The origin of the school bag is often attributed to the French, who used canvas bags to carry books in the 18th century.",0.3637,ok,False
+2026-07-13T13:52:50Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in Simplified Chinese, concise (about 1–3 short sentences).
+The current user's name is Shanyue. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): Okay, what is two plus two equal to?","Shanyue, 两加两等于四。",0.2506,ok,False
+2026-07-13T14:01:37Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is Shanyue. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): hello how are you today","I'm functioning properly, thank you for asking. How can I assist you today?",0.2752,ok,False
+2026-07-13T14:02:00Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is Shanyue. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): thank you for information could you tell me who invented school bag","The invention of the school bag is credited to the Chinese during the Han Dynasty, around 100 BC.",0.3025,ok,False
+2026-07-13T14:02:55Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in Simplified Chinese, concise (about 1–3 short sentences).
+The current user's name is Shanyue. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): Hello, can you tell me today's date?",您好，今天是 2024 年 7 月 13 日。,0.2277,ok,False
+2026-07-13T14:03:17Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in Simplified Chinese, concise (about 1–3 short sentences).
+The current user's name is Shanyue. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): Hello, can you tell me the time today?",好啊，Shanyue。当前时间是 14:30。,0.2099,ok,False
+2026-07-13T14:03:44Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is Shanyue. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): hi nihao Simone Walter Martin","Hello, I'm here to help.",0.2216,ok,False
+2026-07-13T14:03:58Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in Simplified Chinese, concise (about 1–3 short sentences).
+The current user's name is Shanyue. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): Hello, what should I call you?",您可以称呼我为小助手。,0.2183,ok,False
+2026-07-13T14:04:12Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in Simplified Chinese, concise (about 1–3 short sentences).
+The current user's name is Shanyue. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): Okay, then tell me what two plus two equals.",Shanyue，答案是 2 + 2 = 4。,0.2191,ok,False
+2026-07-13T14:57:13Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is Shanyue. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): hi there how are you today","I'm functioning properly, thank you for asking. How can I assist you today?",0.4788,ok,False
+2026-07-13T14:57:25Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is Shanyue. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): please tell me who invented school bag","The invention of the school bag is often attributed to the French, who created a bag called a ""sac à dos"" in the 17th century.",0.2557,ok,False
+2026-07-13T14:58:18Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in Simplified Chinese, concise (about 1–3 short sentences).
+The current user's name is Shanyue. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): Hi, may I ask what is science?","你好 Shanyue, 科学是指通过科学方法和证据来理解自然界和世界的知识体系。",0.5154,ok,False
+2026-07-13T14:58:37Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in Simplified Chinese, concise (about 1–3 short sentences).
+The current user's name is Shanyue. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): Okay, what is two plus two equal to?","Shanyue, 两加两等于四。",0.3966,ok,False
+2026-07-13T15:26:08Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is Shanyue. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): hi there good morning how are you","Good morning. I'm functioning properly, thank you for asking. How can I assist you today?",0.4611,ok,False
+2026-07-13T15:26:24Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is Shanyue. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): could you tell me who invented school bag","The invention of the school bag is often attributed to the Chinese during the Han Dynasty, around 100 BC.",0.4286,ok,False
+2026-07-13T15:27:20Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in Simplified Chinese, concise (about 1–3 short sentences).
+The current user's name is Shanyue. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): Hi, can you tell me what science is?",你好 Shanyue。科学是研究自然界和人类社会的方法和知识体系。,0.4360,ok,False
+2026-07-13T15:27:38Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in Simplified Chinese, concise (about 1–3 short sentences).
+The current user's name is Shanyue. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): Okay, so what is two plus two equal to?",Shanyue，两个加起来是四。,0.2237,ok,False
+2026-07-13T15:28:13Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in Simplified Chinese, concise (about 1–3 short sentences).
+The current user's name is Shanyue. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): What is 520 multiplied by zero?","Shanyue, 520 乘以零等于零。",0.3531,ok,False
+2026-07-14T00:01:20Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is Shanyue. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): hi good morning how are you","Good morning, I'm functioning properly. How can I assist you today?",0.6056,ok,False
+2026-07-14T00:23:35Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is Shanyue. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): hi good morning how are you today","Good morning, I'm functioning properly. How can I assist you today?",0.4348,ok,False
+2026-07-14T00:23:48Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is Shanyue. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): great could you tell me who invented telephone",The invention of the telephone is credited to Alexander Graham Bell.,0.3334,ok,False
+2026-07-14T00:24:31Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in Simplified Chinese, concise (about 1–3 short sentences).
+The current user's name is Shanyue. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): Hi, may I ask what is science?",您好，Shanyue。科学是指通过实验和观察来研究和理解自然界和社会的方法和知识。,0.3823,ok,False
+2026-07-14T00:24:49Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in Simplified Chinese, concise (about 1–3 short sentences).
+The current user's name is Shanyue. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): Okay, what is two plus two equal to?","Shanyue, 两加两等于四。",0.2194,ok,False
+2026-07-14T03:20:23Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is Shanyue. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): hello how are you today","I'm functioning properly, thank you for asking. How can I assist you today?",0.4369,ok,False
+2026-07-14T03:20:37Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in English, concise (about 1–3 short sentences).
+The current user's name is Shanyue. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): could you tell me who invented school bag","The invention of the school bag is often attributed to the French, who created a bag called a ""sac à dos"" in the 18th century.",0.2532,ok,False
+2026-07-14T03:21:18Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in Simplified Chinese, concise (about 1–3 short sentences).
+The current user's name is Shanyue. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): Hello, may I ask what is science?",你好 Shanyue，科学是指通过系统的观察、实验和研究，来了解自然界和社会规律的过程。,0.3693,ok,False
+2026-07-14T03:21:36Z,llama-3.1-8b-instant,"You are a voice assistant. Reply in Simplified Chinese, concise (about 1–3 short sentences).
+The current user's name is Shanyue. Use this name in greetings only when it feels natural or necessary.
+User said (transcribed in English): Okay, what is two plus two equal to?",Shanyue，答案是 2 + 2 = 4。,0.2656,ok,False
