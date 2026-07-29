@@ -128,10 +128,10 @@ The application provides a modern desktop interface designed for intuitive hands
 
 | Interface | Description |
 |-----------|-------------|
-| 🏠 Dashboard | Main control panel displaying assistant status, voice interaction, gesture recognition, and real-time activity monitoring. |
-| 💬 AI Conversation | Chat interface supporting multilingual interaction, conversational AI, and desktop command execution history. |
-| ⚙️ Settings & Preferences | User configuration page for language selection, speech engine, gesture preferences, API settings, and accessibility options. |
-| 🪟 Compact Floating Assistant | Always-on-top minimal assistant providing quick voice interaction, status feedback, and multitasking support without interrupting the user's workflow. |
+| 🏠 Main Page | Offers access cards to navigate to the Dashboard, Voice Assistant and Gesture Control modules. |
+| 💬 Dashboard Page | Displays user’s interaction history and activity. |
+| ⚙️ Voice Assistant Page | Provides voice interaction controls with LLM integration and OS control supports. |
+| 🪟 Gesture Control Page | Provides gesture interaction controls with multi-hand control and dominant hand switching.|
 
 ---
 
@@ -162,8 +162,7 @@ The application provides a modern desktop interface designed for intuitive hands
 
 ### 🪟 Minimized Panel
 
-<img width="1919" height="1017" alt="Screenshot 2026-05-23 195820" src="https://github.com/user-attachments/assets/58f11e22-7964-477e-bd76-5bfd11ff2473" />
-
+<img width="1898" height="927" alt="Screenshot 2026-05-23 181508" src="https://github.com/user-attachments/assets/9f1b9639-5923-4451-8e73-dda3ed60d867" />
 
 
 # ⚙️ Technology Stack
