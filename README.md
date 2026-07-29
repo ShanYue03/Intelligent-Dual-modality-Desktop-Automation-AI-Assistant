@@ -116,36 +116,55 @@ using deterministic desktop automation for improved safety.
 
 ---
 
-# 🏗️ System Architecture
+# 🏗️ System Architecture (Three-layered Architecture)
 
-```
-User
- │
- ├───────────────┐
- │               │
-Voice         Gesture
- │               │
-ASR        Hand Tracking
- │               │
-Language      Gesture
-Handling     Recognition
- │               │
- └──────┬────────┘
-        │
- Backend Orchestrator
-        │
- Intent Routing
- (DeBERTa Zero-shot)
-        │
- ┌──────────────┬──────────────┐
- │              │              │
-Desktop      LLM Chat      Feedback
-Automation   Response      Logging
-        │
- React + Electron Desktop
-```
+<img width="1662" height="450" alt="Screenshot 2026-07-29 162222" src="https://github.com/user-attachments/assets/72b7c213-834d-4a93-b550-a23ed8aa5a92" />
 
 ---
+
+# 📸 User Interface Preview
+
+The application provides a modern desktop interface designed for intuitive hands-free interaction, combining real-time voice assistance, gesture control, system monitoring, and configurable user preferences.
+
+| Interface | Description |
+|-----------|-------------|
+| 🏠 Dashboard | Main control panel displaying assistant status, voice interaction, gesture recognition, and real-time activity monitoring. |
+| 💬 AI Conversation | Chat interface supporting multilingual interaction, conversational AI, and desktop command execution history. |
+| ⚙️ Settings & Preferences | User configuration page for language selection, speech engine, gesture preferences, API settings, and accessibility options. |
+| 🪟 Compact Floating Assistant | Always-on-top minimal assistant providing quick voice interaction, status feedback, and multitasking support without interrupting the user's workflow. |
+
+---
+
+### 🏠 Main Page
+
+<img width="1584" height="870" alt="Screenshot 2026-05-23 145448" src="https://github.com/user-attachments/assets/68ff2273-e15b-4f44-8d8c-39f5726def1b" />
+
+---
+
+### 💬 Dashboard Page
+
+<img width="1544" height="760" alt="Screenshot 2026-05-24 225634" src="https://github.com/user-attachments/assets/4c412daa-84a2-4d7b-a7b6-81fca54e9b6c" />
+
+---
+
+### ⚙️ Voice Assistant Page
+
+<img width="1536" height="697" alt="Screenshot 2026-05-24 142504" src="https://github.com/user-attachments/assets/9961cedd-62f8-4c82-b036-c47d31be00e0" />
+
+---
+
+### 🪟 Gesture Control Page
+
+<img width="1918" height="1017" alt="Screenshot 2026-07-06 225507" src="https://github.com/user-attachments/assets/8efe5dd6-7078-441f-906f-5f2f9c342828" />
+
+
+---
+
+### 🪟 Minimized Panel
+
+<img width="1919" height="1017" alt="Screenshot 2026-05-23 195820" src="https://github.com/user-attachments/assets/58f11e22-7964-477e-bd76-5bfd11ff2473" />
+
+
 
 # ⚙️ Technology Stack
 
@@ -244,6 +263,11 @@ The completed system successfully demonstrates
 - Modular and maintainable software architecture
 
 The project illustrates how modern AI technologies can be integrated into a production-style desktop application while maintaining scalability, maintainability, and user-centred interaction.
+
+<img width="1385" height="587" alt="Screenshot 2026-06-30 215742" src="https://github.com/user-attachments/assets/5ba363a1-f701-447f-b425-6dc4d977c4ad" />
+
+<img width="1230" height="491" alt="Screenshot 2026-06-30 222140" src="https://github.com/user-attachments/assets/c3cc8dec-9971-446a-bac9-326eeadcbb31" />
+
 
 ---
 
