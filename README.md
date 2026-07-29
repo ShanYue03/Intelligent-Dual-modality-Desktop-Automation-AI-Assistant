@@ -137,19 +137,19 @@ The application provides a modern desktop interface designed for intuitive hands
 
 ### 🏠 Main Page
 
-<img width="1584" height="870" alt="Screenshot 2026-05-23 145448" src="https://github.com/user-attachments/assets/68ff2273-e15b-4f44-8d8c-39f5726def1b" />
+<img width="1917" height="1017" alt="Screenshot 2026-07-29 171032" src="https://github.com/user-attachments/assets/c46b8b58-95d9-4335-b47c-f96664c3ed2e" />
 
 ---
 
 ### 💬 Dashboard Page
 
-<img width="1544" height="760" alt="Screenshot 2026-05-24 225634" src="https://github.com/user-attachments/assets/4c412daa-84a2-4d7b-a7b6-81fca54e9b6c" />
+<img width="1917" height="1020" alt="Screenshot 2026-07-29 171157" src="https://github.com/user-attachments/assets/8b03b588-d686-4ba8-a5e5-8705d13bae78" />
 
 ---
 
 ### ⚙️ Voice Assistant Page
 
-<img width="1536" height="697" alt="Screenshot 2026-05-24 142504" src="https://github.com/user-attachments/assets/9961cedd-62f8-4c82-b036-c47d31be00e0" />
+<img width="1917" height="1020" alt="Screenshot 2026-07-29 171206" src="https://github.com/user-attachments/assets/0db29b47-26ca-46ad-b070-a633d5875e3e" />
 
 ---
 
